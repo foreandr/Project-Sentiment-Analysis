@@ -108,7 +108,7 @@ def fillTickerRows(news_tables_, tickers_):
 
     #print(tickerData_)
     for i in tickerData_:
-        print(type(i))
+        #print(type(i))
         if isinstance(i, bs4.element.Tag):
             tickerRows_.append(i.findAll('tr'))
     return tickerRows_

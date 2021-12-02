@@ -108,8 +108,8 @@ def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
     # print(subreddits_)
     for t in range(len(subreddits_)):
         key, value = list(subreddits_.items())[t]
-        if key in tickers_:
-            for i in tickers_:  # changed from range(len())
+        if key in tickers_: # if subreddit is also a ticker
+            for i in tickers_:
                 if i not in subreddits_:
                     # print(tickers_[i]) # tickers absent from reddit
                     continue
@@ -118,7 +118,6 @@ def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
                     templist.append(tempsubreddit)  # add to temp list
                 wanted_subreddits_.append(templist)  # add temp list to fill list
                 templist = []
-
         elif key not in tickers_ and wantExtra:
             # print(key)
             # print(tickers_)
@@ -126,7 +125,8 @@ def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
                 tempsubreddit = reddit.subreddit(f"{j}")
                 templist.append(tempsubreddit)
             wanted_subreddits_.append(templist)
-
+            templist = []
+    print(wanted_subreddits_)
     return wanted_subreddits_
 
 
@@ -139,13 +139,15 @@ def iterSubsEvaluate(wanted_subreddits_):
 
 
 def iterateChoice(wanted_subreddits_):
-    """
-    CHOOSE WHETHER TO ITERATE THROUGHALL OR SOME
-    :param wanted_subreddits_:
-    :return:
-    """
-    for keyList in wanted_subreddits_:
-        iterSubsEvaluate(keyList)
+    #inputVal = int(input("Do All - 0\nDo Nth - N\n"))
+    inputVal = 0
+    #print("Input was: " + str(inputVal) + " | Type:" + str(type(inputVal)))
+    if inputVal == 0:
+        for keyList in wanted_subreddits_: # for some reason this executes multiple times
+            iterSubsEvaluate(keyList)
+    elif inputVal != 0:
+        iterSubsEvaluate(wanted_subreddits_[inputVal - 1])  # minus 1 for actual index
+    return inputVal
 
 
 def stockAnalysis(tickers_):
@@ -153,8 +155,8 @@ def stockAnalysis(tickers_):
 
 
 def process(wanted_subreddits_, tickers_):
-    #iterateChoice(wanted_subreddits_)
-    stockAnalysis(tickers_)
+    iterateChoice(wanted_subreddits_)
+    # stockAnalysis(tickers_)
 
 
 tickers = ['AMZN', 'TSLA', 'MSFT', '']  # Add Tickers here
@@ -171,6 +173,7 @@ subreddits = {
 
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
-wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=True)
+wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=False)
+print(wanted_subreddits)
 # print(wanted_subreddits)
-process(wanted_subreddits, tickers)
+#process(wanted_subreddits, tickers)
