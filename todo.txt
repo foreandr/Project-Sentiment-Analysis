@@ -1,0 +1,3 @@
+modify iterate choice to be able to modify which subreddits I want to look at
+rank in order of mena review or be able to choose what to rank it by
+add more things and more sentiment

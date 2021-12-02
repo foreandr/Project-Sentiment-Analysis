@@ -157,7 +157,7 @@ def process(wanted_subreddits_, tickers_):
     stockAnalysis(tickers_)
 
 
-tickers = ['AMZN', 'TSLA', 'MSFT']  # Add Tickers here
+tickers = ['AMZN', 'TSLA', 'MSFT', '']  # Add Tickers here
 wordlist = []
 
 subreddits = {
