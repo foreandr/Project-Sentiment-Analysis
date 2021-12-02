@@ -6,6 +6,34 @@ import pandas as pd
 from bs4 import BeautifulSoup as bs, BeautifulSoup
 from urllib.request import urlopen, Request
 
+def getRedditReviewValues2(list):
+    vader = SentimentIntensityAnalyzer()
+    total_neg = 0
+    best = 0
+    worst = 0
+
+    blobAveragePolarity = 0
+    blobAverageSubjectivity = 0
+    for i in range(len(list)):
+        text = (list[i])  # Gets the particular thing I want
+        blob = TextBlob(text)  # use blbo to analys string
+
+        blobAveragePolarity += blob.sentiment[0]
+        blobAverageSubjectivity += blob.sentiment[1]
+
+        currentValue = vader.polarity_scores(text)['compound']  # " "
+        #print(currentValue)
+        total_neg += currentValue
+        if currentValue > best:
+            best = currentValue
+        elif currentValue < worst:
+            worst = currentValue
+    print("Blob Mean Polarity: " + str(blobAveragePolarity / len(list)))
+    print("Blob Mean Subjectivity: " + str(blobAverageSubjectivity / len(list)))
+    print("Num Reviews: " + str(len(list)))
+    print("Mean Review: " + str(total_neg / len(list)))
+    print("Best Review: " + str(best))
+    print("Worst Review: " + str(str(worst)) + "\n")
 def getVaderReviewValues(df):
     vader = SentimentIntensityAnalyzer()
     total_neg = 0
@@ -16,7 +44,7 @@ def getVaderReviewValues(df):
     blobAverageSubjectivity = 0
     for i in range(len(df)):
         text = (df['Text'][i])  # Gets the particular thing I want
-        blob = TextBlob(text) # use blbo to analys string
+        blob = TextBlob(text)  # use blbo to analys string
 
         blobAveragePolarity += blob.sentiment[0]
         blobAverageSubjectivity += blob.sentiment[1]
@@ -33,6 +61,8 @@ def getVaderReviewValues(df):
     print("Mean Review: " + str(total_neg / len(df)))
     print("Best Review: " + str(best))
     print("Worst Review: " + str(str(worst)) + "\n")
+
+
 def fillDictWTickers(listOfTickers):
     finviz_URL = 'https://finviz.com/quote.ashx?t='
     dict = {}
@@ -47,6 +77,8 @@ def fillDictWTickers(listOfTickers):
         dict[ticker] = news_table
     #    print(html)
     return dict
+
+
 def createTensorForDataFrame(tickerRows_):
     '''
     Temp list 2:
@@ -65,7 +97,9 @@ def createTensorForDataFrame(tickerRows_):
             intermediateTempList.append(temp)
         tempList2.append((intermediateTempList))
     return tempList2
-def fillTickerRows(news_tables_,tickers_):
+
+
+def fillTickerRows(news_tables_, tickers_):
     tickerData_ = []
     tickerRows_ = []
     for i in tickers_:
@@ -73,11 +107,15 @@ def fillTickerRows(news_tables_,tickers_):
     for i in tickerData_:
         tickerRows_.append(i.findAll('tr'))
     return tickerRows_
+
+
 def populateDataFrameList(TickerTensor_):
     listOfDataFrames_ = []
     for i in range((len(TickerTensor_))):
         listOfDataFrames_.append(pd.DataFrame(TickerTensor_[i], columns=['Date', 'Text']))
     return listOfDataFrames_
+
+
 def StockSentimentAnalysis(tickers):
     news_tables = fillDictWTickers(tickers)
     tickerRows = fillTickerRows(news_tables, tickers)
