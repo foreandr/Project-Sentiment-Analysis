@@ -116,11 +116,11 @@ def populateDataFrameList(TickerTensor_):
     return listOfDataFrames_
 
 
-def StockSentimentAnalysis(tickers):
-    news_tables = fillDictWTickers(tickers)
-    tickerRows = fillTickerRows(news_tables, tickers)
+def StockSentimentAnalysis(tickers_):
+    news_tables = fillDictWTickers(tickers_)
+    tickerRows = fillTickerRows(news_tables, tickers_)
     TickerTensor = createTensorForDataFrame(tickerRows)
     listOfDataFrames = populateDataFrameList(TickerTensor)
     for i in range(len(listOfDataFrames)):
-        print(f"YAHOO: {tickers[i]}")
+        print(f"YAHOO: {tickers_[i]}")
         getVaderReviewValues(listOfDataFrames[i])

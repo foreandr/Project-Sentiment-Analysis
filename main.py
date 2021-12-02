@@ -96,14 +96,25 @@ def populateWantedSubreddits(tickers_, subreddits_):
         templist = []
 
     return wanted_subreddits_
-
-
 def iterSubsEvaluate(wanted_subreddits_):
     for i in range(len(wanted_subreddits_)):
         print("/r/" + str(wanted_subreddits_[i]))
         createListOfComments(wanted_subreddits_[i])
         paragraphs = readFile("file.txt")
         functions.getRedditReviewValues2(paragraphs)
+def iterateChoice(wanted_subreddits_):
+    '''
+    CHOOSE WHETHER TO ITERATE THROUGHALL OR SOME
+    :param wanted_subreddits_:
+    :return:
+    '''
+    for keyList in wanted_subreddits_:
+        iterSubsEvaluate(keyList)
+def stockAnalysis(tickers_):
+    functions.StockSentimentAnalysis(tickers_)
+def process(wanted_subreddits_, tickers_):
+    iterateChoice(wanted_subreddits_)
+    stockAnalysis(tickers_)
 
 tickers = ['AMZN', 'TSLA']  # Add Tickers here
 wordlist = []
@@ -111,7 +122,7 @@ wordlist = []
 subreddits = {'AMZN':
                 ["FulfillmentByAmazon", "AmazonFBAHelp", "AmazonUnder25", "AmazonSeller"],
               'TSLA':
-                ["TeslaMotors"]
+                ["TeslaMotors", "TeslaLounge"]
 
               }
 
@@ -119,7 +130,5 @@ wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
 wanted_subreddits = populateWantedSubreddits(tickers, subreddits)
 
-for list in wanted_subreddits:
-    iterSubsEvaluate(list)
 
-#functions.StockSentimentAnalysis(tickers)
+process(wanted_subreddits,tickers)
