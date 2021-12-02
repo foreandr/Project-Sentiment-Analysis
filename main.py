@@ -101,7 +101,13 @@ def wordCloud(frequencyCounter):
     plt.imshow(wcloud, interpolation='bilinear')
     plt.show()
 
-
+def uniqueArray(array):
+    newList = []
+    for i in array:
+         print(i)
+         if i not in newList:
+             newList.append(i)
+    return  newList
 def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
     wanted_subreddits_ = []
     templist = []
@@ -126,7 +132,7 @@ def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
                 templist.append(tempsubreddit)
             wanted_subreddits_.append(templist)
             templist = []
-    print(wanted_subreddits_)
+    wanted_subreddits_ = uniqueArray(wanted_subreddits_)
     return wanted_subreddits_
 
 
@@ -173,7 +179,7 @@ subreddits = {
 
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
-wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=False)
+wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=True)
 print(wanted_subreddits)
 # print(wanted_subreddits)
 #process(wanted_subreddits, tickers)
