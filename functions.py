@@ -1,26 +1,10 @@
+import praw
 from textblob import TextBlob
 from nltk.sentiment import vader
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
 from bs4 import BeautifulSoup as bs, BeautifulSoup
 from urllib.request import urlopen, Request
-class SentimentAnalysisClass():
-
-    tickers = ['AMZN', 'MSFT', 'AMD']
-    wordlist = []
-    def getUserPass(self, wordList_):
-        fileObj = open("C:\\Users\\Andre\\Documents\\txt.txt", "r", encoding='utf-8')
-        words = fileObj.read().splitlines()
-        for i in words:
-            wordList_.append(i)
-        return wordList_
-    def __init__(self):
-        self.name = "Analyzer"
-        self.getUserPass(self.wordlist) # auto executing function on initialization
-
-
-
-
 
 def getVaderReviewValues(df):
     vader = SentimentIntensityAnalyzer()
