@@ -21,6 +21,13 @@ from wordcloud import WordCloud
 import yfinance
 import functions
 
+mySentiment = functions.SentimentAnalysisClass()
+print(mySentiment.tickers)
+print(mySentiment.wordlist)
+#print(mySentiment.getUserPass(mySentiment.wordlist)) # sometimes wants self, sometimes doesnt..
+
+
+
 tickers=['AMZN', 'MSFT', 'AMD']
-functions.VaderSentimentAnalysis(tickers)
+#functions.StockSentimentAnalysis(tickers)
 

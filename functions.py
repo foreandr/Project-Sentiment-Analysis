@@ -4,6 +4,24 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
 from bs4 import BeautifulSoup as bs, BeautifulSoup
 from urllib.request import urlopen, Request
+class SentimentAnalysisClass():
+
+    tickers = ['AMZN', 'MSFT', 'AMD']
+    wordlist = []
+    def getUserPass(self, wordList_):
+        fileObj = open("C:\\Users\\Andre\\Documents\\txt.txt", "r", encoding='utf-8')
+        words = fileObj.read().splitlines()
+        for i in words:
+            wordList_.append(i)
+        return wordList_
+    def __init__(self):
+        self.name = "Analyzer"
+        self.getUserPass(self.wordlist) # auto executing function on initialization
+
+
+
+
+
 def getVaderReviewValues(df):
     vader = SentimentIntensityAnalyzer()
     total_neg = 0
@@ -76,7 +94,7 @@ def populateDataFrameList(TickerTensor_):
     for i in range((len(TickerTensor_))):
         listOfDataFrames_.append(pd.DataFrame(TickerTensor_[i], columns=['Date', 'Text']))
     return listOfDataFrames_
-def VaderSentimentAnalysis(tickers):
+def StockSentimentAnalysis(tickers):
     news_tables = fillDictWTickers(tickers)
     tickerRows = fillTickerRows(news_tables, tickers)
     TickerTensor = createTensorForDataFrame(tickerRows)
