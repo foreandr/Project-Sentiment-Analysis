@@ -23,17 +23,22 @@ import functions
 import multiprocessing
 import time
 
+
 def getUserPass(wordList_):
     fileObj = open("C:\\Users\\Andre\\Documents\\txt.txt", "r", encoding='utf-8')  # pass info
     words = fileObj.read().splitlines()
     for i in words:
         wordList_.append(i)
     return wordList_
+
+
 def getPinnedPost(subreddit_):
     for post in subreddit_.hot(limit=100):  # first n posts
         if post.stickied:  # if post pinned
             return post
     return None
+
+
 def createListOfComments(subreddit_):
     local_list = []
     count = 0
@@ -45,6 +50,8 @@ def createListOfComments(subreddit_):
                 local_list.append(comment.body)
     writeToFile(local_list, 'file')
     return local_list
+
+
 def printSentimentList(full_list_):
     for i in range(len(full_list_)):
         blob = TextBlob(full_list_[i])
@@ -58,6 +65,8 @@ def printSentimentList(full_list_):
                     if blob.sentiment.polarity > .2 or blob.sentiment.subjectivity > .2:
                         list_.append(blob)
                 return list_
+
+
 def generateReddit(wordlist_):
     secretKey = wordlist_[0]  # api secret key
     personaluse = wordlist_[1]  # READ FROM FILE
@@ -69,39 +78,66 @@ def generateReddit(wordlist_):
                          password=wordlist_[3]  # needed pass
                          )
     return reddit
+
+
 def writeToFile(list, filename):
     textfile = open(f"{filename}.txt", "w", encoding='utf-8')
-    #textfile.write('hello')
+    # textfile.write('hello')
     for i in list:
         textfile.write(str(i) + ",\n")
 
     textfile.close()
+
+
 def readFile(fileName):
     fileObj = open(fileName, "r", encoding='utf-8')
     words = fileObj.read().split("\n\n")  # Split by 2 new lines for paragraphs
     fileObj.close()
     return words
+
+
 def wordCloud(frequencyCounter):
     wcloud = WordCloud().generate_from_frequencies(frequencyCounter)
     plt.imshow(wcloud, interpolation='bilinear')
     plt.show()
-def populateWantedSubreddits(tickers_, subreddits_):
-    wanted_subreddits_= []
+
+
+def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
+    wanted_subreddits_ = []
     templist = []
-    for i in range(len(tickers_)):
-        for j in subreddits_[f'{tickers_[i]}']:  # get dict key
-            tempsubreddit = reddit.subreddit(f"{j}")  # get individual subreddit
-            templist.append(tempsubreddit)  # add to temp list
-        wanted_subreddits_.append(templist)  # add temp list to fill list
-        templist = []
+    #print(subreddits_)
+    for t in range(len(subreddits_)):
+        key, value = list(subreddits_.items())[t]
+        if key in tickers_:
+            for i in tickers_:  # changed from range(len())
+                if i not in subreddits_:
+                    # print(tickers_[i]) # tickers absent from reddit
+                    continue
+                for j in subreddits_[f'{i}']:  # get dict key
+                    tempsubreddit = reddit.subreddit(f"{j}")  # get individual subreddit
+                    templist.append(tempsubreddit)  # add to temp list
+                wanted_subreddits_.append(templist)  # add temp list to fill list
+                templist = []
+
+        elif key not in tickers_ and wantExtra:
+            #print(key)
+            #print(tickers_)
+            for j in subreddits_[key]:
+                tempsubreddit = reddit.subreddit(f"{j}")
+                templist.append(tempsubreddit)
+            wanted_subreddits_.append(templist)
 
     return wanted_subreddits_
+
+
 def iterSubsEvaluate(wanted_subreddits_):
     for i in range(len(wanted_subreddits_)):
         print("/r/" + str(wanted_subreddits_[i]))
         createListOfComments(wanted_subreddits_[i])
         paragraphs = readFile("file.txt")
         functions.getRedditReviewValues2(paragraphs)
+
+
 def iterateChoice(wanted_subreddits_):
     '''
     CHOOSE WHETHER TO ITERATE THROUGHALL OR SOME
@@ -110,25 +146,32 @@ def iterateChoice(wanted_subreddits_):
     '''
     for keyList in wanted_subreddits_:
         iterSubsEvaluate(keyList)
+
+
 def stockAnalysis(tickers_):
     functions.StockSentimentAnalysis(tickers_)
+
+
 def process(wanted_subreddits_, tickers_):
     iterateChoice(wanted_subreddits_)
     stockAnalysis(tickers_)
 
-tickers = ['AMZN', 'TSLA']  # Add Tickers here
+
+tickers = ['AMZN', 'TSLA', 'MSFT']  # Add Tickers here
 wordlist = []
 
-subreddits = {'AMZN':
-                ["FulfillmentByAmazon", "AmazonFBAHelp", "AmazonUnder25", "AmazonSeller"],
-              'TSLA':
-                ["TeslaMotors", "TeslaLounge"]
-
-              }
+subreddits = {
+    'AMZN':
+        ["FulfillmentByAmazon", "AmazonFBAHelp", "AmazonUnder25", "AmazonSeller"],
+    'TSLA':
+        ["TeslaMotors", "TeslaLounge"],
+    'WSB':
+        ["wallstreetbets"]
+    }
+'''              '''
 
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
-wanted_subreddits = populateWantedSubreddits(tickers, subreddits)
-
-
-process(wanted_subreddits,tickers)
+wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=True)
+#print(wanted_subreddits)
+process(wanted_subreddits, tickers)

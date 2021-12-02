@@ -1,81 +1,1313 @@
-Today I had one of the smoothest goddamn unprotected lefts in the history of autonomous driving. The curve navigates a left-right S curve and slides into the middle turning lane. It slowed slightly as it finished the right and got ready to turn left onto a side street. There was much oncoming traffic, including 3 or 4 cars that passed us while the car was in still moving forward on the turning lane. But there was just enough of a gap for FSD. It quickly stopped slowing and simply cruised through the gap and completed the turn. It was a thing it beauty.,
-Nice post! I agree, we're privileged to live in these times. Can you describe a few instances of how it tried to kill you though? Did it pull into oncoming traffic? Veer off the road? We don't get to see much of that in the youtube videos people post.,
-I’m also an engineer. However I also trained to be a pilot. FSD is like a copilot, that will dive your plane to the ground for no reason — usually about the time you want to excuse yourself from the cockpit to take a piss. So for me, FSD is great, if I liked to add extra loads to my pants.,
-lol I feel you, I turned my fsd off I decided im just going to wait for the next update 10.6 this one has too many bugs.Just plain old fashioned autopilot works well for me now.,
-Would love to know how much city is saving in fuel.   Great use case, assuming they can get 200k miles out of them.,
-Our local police runs a fleet of Model X Teslas,
-[I saw this story earlier this year where a city bought a Model 3 to gain some insight over whether or not it would have a lower cost of ownership than their fleet of Chargers](https://cleantechnica.com/2020/11/29/tesla-model-3-police-car-vs-dodge-charger-police-car-nearly-7000-in-savings-in-one-year/). 
+#Ban Bet Lost
+
+/u/LookAwayPuhlease (0/1) made a bet that F would go to 22.0 when it was 18.63 and it did not, so they were banned for a week.,
+https://careers.mcdonalds.com/
+
+https://wendys-careers.com/
+
+https://careers.walmart.com/
+
+https://jobs.sears.com/
+
+If you want your calls to live, pump those job numbers for tomorrow.,
+!banbet spy 500 2d 
+
+Get me out of this sub lol.,
+Lost 35k this week and got flagged as day trader. U win some boys but lose most.,
+cant believe we were making fun of bears just this morning,
+Today was a perfect example of why futures don’t matter. You can be up 2% at open and close 2% down. Literally no point in watching futures all night.,
+SPY was 2% up and now more than -1% down.
+
+so fucking crazy,
+One of the many worst days in recent times,
+12:15pm: "I think I'll nap. Armageddon is more fun when you wake up in it."
+
+4:15pm: "Well, that was a nice nap. Are we in Armageddon yet?"
+
+4:20pm: ![img](emote|t5_2th52|4553),
+You know there is **at least one retard here** that did these moves in the last 5 trading days:  
+  
+1. Bought calls last Wednesday (Front running Santa rally)  
+2. Switched to puts last Friday (Omicron fears)  
+3. Switched to calls on Monday (Omicron being a nothingburger)  
+4. Switched to puts yesterday (Jpow inflation comments)  
+5. Switched to calls this morning (Seeing the Futures rally)  
+6. Switched to puts at close today (first Omicron case in the US)  
+  
+Show up, because you deserved to be a mod here!,
+Hypothetically, is it insider trading if I load up on a bunch of SPY puts, visit the New York Stock Exchange while I know I have the Omicron variant, and pass out in public?,
+Game over. Insert coin to play again.,
+If it's possible for a stock to go negative, my money is on WISH.,
+#Ban Bet Won
+---
+
+/u/LlamaLlamaRedPajamaz (1/0) made a bet that SPY would go to 450.2 when it was 459.39 and it did, congrats fucker.,
+This is my worst trading day since yesterday,
+If your Robinhood order instantly fills, 
+
+You better buy the inverse, quick.
+
+Really works,
+next time futures are up 1.5%, remind me to sell everything at market open,
+Why do I have no motivation to do shit when it’s dark as hell at 5pm,
+We saw a 14 point change in SPY in 1 day. Very healthy very cool,
+Green futes .... woohoo bears ar.... damn I don't even have the energy anymore...,
+Well...
+
+I need to find $12,000 by Friday to buy these 457p back,
+My stonks are RED 📈
+
+My balls are BLUE 🔵
+
+My wife has left me...
+
+And now Margin is calling too 😭😭
 
 
-I think they intended to look at this for 3 years. The Model 3 cost about $7k more than the Charger, but the operational savings in Year 1 was more than that. I suspect given the rapid acceleration and low cost of the Model 3, we'll start to see many more agencies getting them.,
-Think of all the fuel saved not having the car running/idling all the damn time!,
-Robocop. 🦾,
-Gonna be a fat ticket to pay for that model 3,
-Traitor!,
-Charging trip after every 4th traffic stop.,
-Hope that dog killing efficiency doesn’t increase,
-Why the hell is this reversed?,
-I call this the butt tuck. I swear my model 3 did it once at a traffic light when someone came up behind me too quickly.,
-The driver assistance and safety features are **far** more extensive than I've ever seen publicized. When I was rear-ended on the freeway the car took over, prevented me from spinning out, and brought itself to a comfortable stop in the shoulder before dying completely. It doesn't surprise me that it can make emergency maneuvers to avoid being side-swiped.,
-MY Y once accelerated and veered left when an a dump truck was coming into my lane (before I even realized it).,
-Ugly mustang 😂😂,
-The current FSD notes says:
 
-\- Enabled "emergency collision avoidance maneuvering" in shadow mode
 
-So they will be able to actively avoid many collisions in the future. 
 
-(Shadow mode means the software runs but doesn't have actual control of the car yet. It allows them to analyze exactly how the software reacts in real world situations so they can debug and refine it before releasing it to the public.),
-Pretty sure Tesla’s have collision avoidance by using instant acceleration. Feel like I’ve seen a few videos of it in action online,
-Where you in Autopilot/FSD?,
-I've had the exact same thing happen to me before on a highway where there was roadwork being done. Came up on the car infront, but had plenty of room because I use 7 car gap for AP (with 7 car gap because it actually uses regenerative braking instead of the brakes I've found). As I slowed, I heard the screeches behind,  as I looked behind my car zoomed forward. I wasn't 100% sure if it was AP or if I had hit it subconsciously, but I don't normally have my foot near the accelerator when AP is on.,
-Was stopped at a red light, feet off both pedals by the seat, listening to music and waiting for it to turn green. Car behind me had a delayed stop, was about to ram the back of me. My Model Y flung forward, slamming my head to the headrest, and prevented damage.,
-You’re still a little too emotional about this to be posting online lmao,
-A Mustang that was about to hit you.,
+... Fuk those gay gears 🧸🌈,
+At least when stores run out of toilet paper in the next few days, I have these $PLTR shares to wipe my ass with.,
+Sometimes you're the windshield, sometimes you're the bug.
+
+Source: am bug,
+Is this the Christmas Rally?,
+VIX is entering legit crash territory today. If it spikes again tomorrow we are not gonna have a good Christmas.,
+We could gap up 3% tomorrow and I’d still be convinced we’ll end the day red.,
+Tomorrow is either red or green. Thank me later,
+when i blew up my account for the third time a month ago with SPY contracts , i told myself i was gonna take a long break and stick to swing trading shares. 
+
+Well my four year relationship ended about a week ago and jerking off gives me limited euphoria so guess who’s back at the casino 😎 back to SPY calls and shitposting on the daily,
+We are likely to see a short-term rally in the next week or so, but I'm probably going to offload a lot of positions into any sort of rally.
+
+The biggest problem right now is just that the "smart money" is unloading at an unprecedented rate.  You have hedge funds reducing leverage substantially, insiders selling at an abnormal rate (some of it is tax considerations, but it's still big numbers), and it feels like retail is going to keep getting caught on the wrong side of these trades: see small caps/high growth the past month where everyone piled into those in late September/October expecting a small cap rally.
+
+Retail is currently all piling into the 5-10 mega cap lifeboats, but if we see heavy selling there, could see a quick 5-7% plunge on everything in late December.
+
+I think we're seeing a late 2018 redux but on a quicker timeline (think 6 weeks instead of 12 weeks).
+
+It's just worth considering being a bit defensive the next couple of weeks because we're seeing extreme bearish sentiment while mega caps are still near (or even at in the case of AAPL) all time highs.
+
+Of course, the counter to all of this is that most of the "negatives" are starting to be baked into the cake: first case of Omicron in the US, dramatically faster tapering being priced into bond yields, etc.
+
+But I just feel as if we're seeing mega caps repeat what we saw happen to small caps in October..., why would that end differently?
+
+If you're going to go long here, give the position time to breathe, might have to look to late January calls or beyond to at least prevent yourself from getting caught.,
+Some of you have never lost 25K in a day before and it shows,
+My asshole may never fully close again,
+Had 80k put guy not been such a pussy he’d be looking at 150k in his account right now.,
+2018:  Cars lose half their value as soon as you drive off the lot.   Stocks only go up. 
+
+2021: Stocks lose half their value as soon as I buy them.  Used cars sell at new prices.,
+Honestly think this market has ruined me. Financially and mentally. Have been doing this full time two years. Last year was great, now I’m legit red for the year. I had many chances too but nope just kept holding my calls too long or selling the gold ones too fucking early. Wow this hurts. I feel so unmotivated. I’m a loser,
+Roommate came to my room, said he heard a bunch of people applauding. But it was just me getting my cheeks clapped  👏,
+Who else lost 5(+)% today? 🩸
+
+🖐,
+My wife is going to leave me,
+If your still here and not wiped out yet, congratulations: we will now be entering the next stage,
+Lost $10k last year. Recovered all and got $8k on top of it this year, only to lose $20k this year. The fuck,
+Sold a spy put for $83 dollars today that ended up being worth $711 at close, fml 🤦‍♀️,
+I buy calls ... stock crashes.  I buy puts..stocks fkn skyrocket.   I fkn give up.,
+Media be like Omicron this Omicron that.... and I'm just here like look at Omi-losses ![img](emote|t5_2th52|4266),
+This market is total bullshit , I’m out,
+Cathie Wood on May 7, "**I love this setup!**"  
+  
+https://www.cnbc.com/2021/05/07/cathie-wood-loves-the-set-up-for-her-stocks-after-sell-off-expects-big-returns-from-her-strategies.html  
+  
+ARKK on May 7: $110  
+ARKK on Dec 1: $98  
+  
+All of this with Nasdaq still just 4% away from all time highs  
+  
+I swear, we need to make Cathie a mod here. She has earned it!,
+It use to be "buy calls on this dip."
+
+now everyone by like "buy puts on this rally",
+So for all the people who said they wished they started trading when covid crashed the markets in 2019 because they would have timed the dip and went all in at the bottom… let’s see you time the bottom this time…,
+Tomorrow: a second case of the virus was found in America. Stonks dump another -4%.,
+###### PRO TIP
+
+**People spamming “Pro tip” are professional penis fondlers**,
+Isn't it ironic that the only way to pull yourself out of a retarded mess is even more retarded plays? 😂😂,
+Green futures. Fooled me once, shame on you. Fool me 29 times, shame on me.,
+wait a min, I slept at 1pm today and i just woke up.  SPY was up 1.6 %, but now i am bankrupted .
+
+WTF,
++75k at open to -180k at close,
+Zillow used to send me monthly updates on zestimate of my house but they didn't this month. They must be embarrassed.,
+Feeling cute. May blow up my account tomorrow, idk.,
+Someone on Twitter posted a screenshot saying circus clowns make $67k/ year on avg and then tagged Jim Cramer and asked if it was true lmfao,
+I think I was happier back in prison.,
+Build a bear being up 27 % today is surely a sign right? 😂,
+I deposited 3 grand on monday, its gone today lmao,
+I’m hedging against taxes by taking 3k losses everyday this week.,
+This is actually like, worse than September LOL,
+The air feels different when everything is crashing and you have puts. This must be how gay feels. I like it c:,
+I’m utterly wrecked by the last 3 weeks. I don’t know what to do now.,
+I pretty much need a 5% gain on SPY by next Friday, or I'm probably never going to be able to have the money to trade again.  
+
+
+Which, y'know, may be a blessing. Just give up my dreams of riches and accept that my retirement plan really is just a bottle of liquor and a tall building.,
+Amc is a cult,
+mods, if 50k put guy tries to come back and post gain porn, please ban him immediately. bitch ass mofo deleting his post when it goes down.,
+buddy of mine was up like 40% this year on 9K principle doing his gambling stock theta plays (selling CCs and cash secured puts) and is now down like 5% for the year.
+
+He basically went from a 12K account to 8K just on shares. Yikes.,
+![img](emote|t5_2th52|4271) wasnt spy up 2%? ![img](emote|t5_2th52|4271) why did everything get clapped? ![img](emote|t5_2th52|4271),
+Bought a new dog bed for my dog and he started vigorously humping it then started puking his brains out while he continued humping the shit out of it. VERY bullish sign for SPY tomorrow,
+Your daily reminder that the Fed sold at the top.,
+"As long as we don’t fall into a recession,’ we’re in a long bull market." - Cathie Wood,
+VIX CEO deserves a bonus, they’re doing a great job,
+Damn everyone in here saying puts are the new calls, means my puts are fucked 😔,
+Omicron is priced in, Fed hikes are priced in, future covid variants are priced in but something which isn’t priced in is the OnlyFans IPO next year,
+#Ban Bet Lost
+
+/u/wallstreetarcher (0/3) made a bet that CRM would go to 305.0 when it was 296.74 and it did not, so they were banned for a week.,
+I’ve just been blankly staring at the wall since market close,
+I'm making so much money in this market, is something I wish I could say.,
+these two weeks have absolutely destroyed me,
+This Omicron stuff is stupid, but this knife is getting to sharp for me to catch. I can't help but to think what would happen if we had actual bad news.,
+fuck this market. Not selling, all or nothing,
+Futures will be extremely green. But they don’t mean shit so get ready for another bloodbath tomorrow,
+I asked my wife if we could have sex tonight. She said the only thing I’m fucking is stupid,
+had a friend recently get into options trading. He said he was up 20% on a call but he had to let it expire because he didn’t know how to sell it. 
+
+I’ve never laughed so fucking hard,
+Having a bad day. Missed out on 100k in spy FD gains cause I sold when I was up 1k. Feels almost as bad as a loss.,
+White House Covid-19 coordinator Jeff Zients: "Federal officials believe vaccines will provide at least some level of protection against severe disease from the variant \[...\] This new variant is cause for continued vigilance, not panic"
+
+What Wall Street heard, apparently: "---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------PANIC",
+This sub is officially more bearish than any other time in 2021,
+People will post a move they made and call it a “20-bagger” then I’ll look up the option price and it’s up like 70%. Are we all on the same page as how many units a bagger is?,
+If you ever feel bad just remember that cathie wood is more retarded than any of us,
+Futures: fool me once, strike one. Fool me twice, strike 3.,
+“Hello, we are calling you about your margin.”
+
+“I like buttah.”  Hang up the phone. These surveys are getting weirder every day.,
+#Pro tip
+
+
+
+The secret to getting rich is to have a large bank account.,
+fool me once... I'll buy calls
+
+fool me twice... I'll buy calls
+
+fool me thrice... I'll still buy calls,
 [deleted],
-the person in the drivers seat,
-You did this subconsciously,
-Check your safety settings. There is acceleration accident avoidance.,
-Woah,
-Its called Move-E.,
-Protocol 3: Protect the pilot,
-Is this with Autopilot engaged? Does a self-preservation maneuver like this require Autopilot hardware? Just curious, thanks.,
-So is this autopilot and or normal for all Tesla?,
-Mustangs aren't ugly!,
-Obstacle Aware Acceleration. It's in the safety options, enabled for most of us.,
-I actually don't blame the driver, he's unloading deliveries to his stores loading dock. I blame whoever designed this location.,
-Ya dont blame the trucker, hes just doing his job. Even without the chargers there it looks like a difficult delivery for him.
+2k going into spy calls at open tomorrow. Wish me luck,
+The market is a hypersensitive little emo bitch.,
+Omnicron this omnicron that, how about i omnicron these nuts in ur mouth bitch?,
+The 80K put guy 100% sold for a loss didn’t he?,
+WSB clearly bearish. Shrek cocks for days tomorrow.,
+#GOD. *DAMNIT*, JEROME!!!,
+Sold 200 contracts 0dte Spy 462p this morning at $80 each
 
-Its just an unfortunate location for all.,
-He’s cold as ICE!!!,
-Been to this location. Fairly new but its very tight. There are few more stalls on the other side of the truck I believe,
-It's a bit hard to fault the truck driver here. That location should not be getting deliveries in a semi to begin with, there's just no where for them to park it.,
-Wondering if the back was blocked or something.
+They ended the day at $870 a contract
 
-Pretty sure this is all kind of "Nope" from a truck driving standpoint.
+Fucking depressed right now,
+There are going to be a lot of kids that get socks and underwear and a drunk dad for Christmas,
+This is the dip I’ve been hoping for… I just wish I had the amount of money I had when I was hoping for it 😂,
+I'm going down with my calls like a captain with his ship.,
+We thought we got J Pow again but instead we got Jeromnicron,
+80k spy put guy was right, just a week earlier,
+im just gonna say it, nobody gives a fuck about omicron,
+&#x200B;
 
-[Charger in question](https://www.plugshare.com/location/325499), not shown is that there's another bank of chargers on the other side.
+⢸⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⡷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
+⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
+⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠈⠑⢦⡀⠀⠀⠀⠀⠀  
+⢸⠀⠀⠀⠀⢀⠖⠒⠒⠒⢤⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀  
+⢸⠀⠀⣀⢤⣼⣀⡠⠤⠤⠼⠤⡄⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠙⢄⠀⠀⠀⠀  
+⢸⠀⠀⠑⡤⠤⡒⠒⠒⡊⠙⡏⠀⢀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠢⡄⠀  
+⢸⠀⠀⠀⠇⠀⣀⣀⣀⣀⢀⠧⠟⠁⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀  
+⢸⠀⠀⠀⠸⣀⠀⠀⠈⢉⠟⠓⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⠀⠈⢱⡖⠋⠁⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⠀⣠⢺⠧⢄⣀⠀⠀⣀⣀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⣠⠃⢸⠀⠀⠈⠉⡽⠿⠯⡆⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⣰⠁⠀⢸⠀⠀⠀⠀⠉⠉⠉⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠣⠀⠀⢸⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⠀⠀⢸⠀⢇⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⠀⠀⡌⠀⠈⡆⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⠀⢠⠃⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸  
+⢸⠀⠀⠀⠀⢸⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠷,
+The only thing guaranteed tomorrow is volatility,
+99% of people in here aren't bulls or bears, they are just late.,
+The federal reserve is so fucked for creating this insane bubble. People’s lives are going to get fucked.,
+I was down 19.5k today and actually rooting for it to go to 20 so I could say I had a 20k loss day.  It went to 23.  Didn't need the icing on the cake,
+In California for a few days and the market closes at 1PM here, wtf,
+omw to Home Depot to buy a rope,
+So many 52 week lows today. It's like 2021 didn't even happen. Fuck it. Start fresh 2022,
+finally the market is interesting again.,
+Pretty sure JPow picked the worst time to flex inflation and turn off the printer. Seriously, he couldn't have picked a worst time to do this,
+How likely is it that in a few months we find out Nancy Pelosi's husband bought puts?
 
-Still bad, but there are also still chargers there.,
-Definitely not the drivers fault, he’s doing his job, it’s the fault of the engineers who designed this lot and chargers,
-There are a few more chargers on another side.,
-Is there a “How’s my Driving” sticker on the back?,
-[northlake supercharger](https://imgur.com/a/YNgDei7),
-It looks like he's blocking all traffic, so you're safe to backup slightly onto that sidewalk, and get access to that end charger,
-Delivery to the front door? No loading dock in back?,
-Just pull up to the one in front and block him in.,
-I would back into the boardwalk and just charge the car that way,
-wait untill people in cybertrucks an semis start blocking gas stations,
-Lazy driver. There's surely a loading dock somewhere at this plaza, he just doesn't want to cart the goods.,
-Is he moving, or parked?  It's a commercial truck, I'd definitely report that.,
-I’m planning on doing the same thing. Couple questions..if you choose a loan term less than 65 months (was planning on 48) do you still get the low rate? Or is it just for 65 months? And did you have the check mailed to the Tesla site nearest you? Or another one? Thanks for the info!,
-I really can’t decide if the direct deposit shenanigans is worth farting around with for the .5% discount. I love the idea of a super low cost of a loan but…. Ugh. Anyone do this by just auto-transferring your pay out to the bank you actually use?,
-Mine was declined and there's never been an explanation. My partner and I both of \~800 credit scores. Hardly any debt except for our mortgage and yet DCU rejected the application. No reason. BoA, however, gave us 2% for 72 months without batting an eye. So I guess we're ok. Pick up is Friday!!!,
-Second DCU - happy to refer anyone.  Also recently went through this process :),
-Great thread and detail! I already became a DCU member and set up DD ages ago while waiting for an X, but all very handy details. Thanks for the write up!,
-If you do not mind me asking, what was your credit score and down payment like for such an attractive loan?,
-Thank you!! Have a delivery scheduled for next month and this will save me a good chunk of money!,
-What is DCU ?,
-Opening an account with them to do this? Yikes.,
-Anyone done this with refinancing an existing loan? I have about 48 months left on my 2020 LR3.,
-Wtf Is a dcu? Stop using fucking acronyms,
+I'll give it 90%,
+If we don’t get a bounce tomorrow I’ll be living in a van down by the river.,
+I suck at daytrading. I’m tired of this shit. See you guys at open tomorrow,
+Breaking News: Omicron Variant main side effects are destroying your portfolio, mild cough and sore throat.,
+green futes lmao here we go again,
+The year is 2420. SPY has been ripping back and forth between 450 and 465 every day for like 400 years. You wake up, put your helmet on, and plug yourself into the Robinhood(TM) metaverse for another day of alternating between panic selling and euphoria.  You haven't left your pod in months. What a rush. 
+
+SPY opens at 450 and immediately starts blasting green dildos. You take a long slurp of soy-product through your feeding tube and turn your extra small fleshlight to "maximum-stim." You were born for this shit. Today's gonna be a great day.,
+[deleted],
+Kid picked up a bee and got stung after I probably showed him 50 fucking pictures of bees and told him not to touch them.
+
+Everyday, Yale seems less and less likely. Make room behind the dumpster in 16 years, will ya, boys?,
+Its insane seeing how leveraged we are. 3-5% swings and accounts are completely wiped,
+I’ve been in the market for 2 years now and still have absolutely no idea wtf futures even are.,
+My dad invented stocks and he said they're going up tomorrow,
+If we are red tomorrow I am putting all my money on SPY calls,
+Omnicron variant, build back better, inflation numbers, and now an MLB lockout
+
+things are getting spicy on this new season of Earth,
+Soon as you retards load up on puts the market is gonna pump, endless cycle of retail investors getting fucked by institutions, be smart the next few weeks, and keep your emotions in the cum sock,
+I'm on one bruh, I'm off tomorrow. Boutta take a shot for all the mf that know they're a boss at heart but their physical world shows different at the moment. If you're ready to be a 7 figure SOB this for you 🥃,
+If you don't count the top 7-8 mega caps, the rest of the market has been in a bear market for months anyways.,
+Stock market was up 28-3 and lost,
+I put $3600 into BABA 4 years ago. I have netted myself a cool $30.14 for my efforts 🤙,
+After hours buying commences now. Can we open like up 4% or something? That would be real cool.,
+bought weekly calls at close will sell open, hope I survive.![img](emote|t5_2th52|4267),
+Need a pump tomorrow else I'm getting margin called and washed for the year.  
++100% on the year to negative in just two weeks ha,
+Anyone remember what having money / gains felt like?,
+Fuk it, everybody gettin hand made shit for Christmas,
+I've been preparing for this moment for a year. After missing out on those insane gains during the Covid crash I had to know the secret. Options plays up 30% the last week. If this is finally the crash I'm set up to make a life changing amount of money. My puts don't expire until April though so I'm chillin.,
+Lemme guess. Fake green futes bounce while drill team 6 is busy retooling for tomorrow?,
+Cathie Wood would’ve 100% bought Theranos stock had it gone public,
+fUtUrEs rIpPiNg,
+I DECLARE BANKRUPTCY,
+Holy Shit what a day. No Xmas gifts this year Kids.,
+A relaxing bath while looking at after market 🛀 and forgetting about my 5 figure losses 🤡,
+I can spend 10k on stonks but $200 on winter boots just feels wrong,
+gf knows im having a stressful day so she’s letting me order us Thai food instead of me cooking dinner tonight, i live in a clown world,
+so goddamn tired of hearing about COVID. Tired of our inept leaders blaming their failures on it even more.,
+Yeah we mooning tomorrow boys. Big money can see the market is fukt and they're gonna keep doing this same shit, where they moon the market then sell, until they are deleveraged.
+
+Buy calls when shit drops 3%, and buy puts when it moons. I bought calls at close and I'll sell and flip to puts at noon tomorrow.
+
+Kang gang we out chyere 🦘🦘🦘💯,
+VIX and omicron announce a new merger.,
+All the fucking permabulls die and Shitposting stops.
+
+See Bears, you antisocial fuks suck,
+violenting smoking until i forget today happened,
+pro tip: add cash every week to keep the portfolio green...its more of a psychological W than an actual one but it helps,
+Dad, I'm not having fun anymore.,
+I tell you what….If I hear one more fucker on the tv mention the phrase Christmas Rally I’m going all in on puts. I smell a 🐀! Somebody is trying to sell us some snake oil,
+I've always hated politicians but this week solidified my hatred of politicians.
+
+Appealing to the absolute scum and dumb fucks in society who can't be bothered to educate themselves on facts will be the death of us all.,
+Futures traders have literally no idea what they’re doing,
+I just realized I have absolutely no idea what I’m doing and it’s great,
+I'm gonna have nightmares tonight where I roll over in bed and my fiancee talks to me but it's Janet Yellen's voice.,
+I’ve developed a new trading strategy….buy 90 Day Puts on any company that changes their fuckin name,
+#Pro tip
+
+
+If the stock you're emotionally and financially invested in is down it's probably a conspiracy against you and your portfolio personally and you should double down,
+So like….when do small caps and growth stop losing 5-10% a day? Cause it’s been about a month straight.,
+Ah everything dumps then whales mass buy in AH.,
+What I miss I’m down 11k.,
+Gonna name a mathematical law after myself for how perfectly I buy calls at the top and puts at the bottom 🤡,
+#Ban Bet Won
+---
+
+/u/mrmrmrj (1/0) made a bet that SNOW would go to 325.0 when it was 313.43 and it did, congrats gigabrain.,
+i sold my spy puts for a 150 dollar gain had i held it would be 3.2k. fucking end me,
+applying for bankruptcy,
+I bought spy calls eod. The investment strategy is called "catching falling knives" and it rarely works.,
+Had to finance another Tractor for all the tax losses I’ll be harvesting in 2021.,
+should rename the sub to “bag holder graveyard”,
+#Ban Bet Lost
+
+/u/Snoo56029 (0/1) made a bet that GME would go to 330.0 when it was 213.01 and it did not, so they were banned for a week.,
+Due to financial reasons, I will be increasing the cost of BJs behind dumpster from $20 to $30,
+I’m just going to start messaging girls on tinder/hinge, “how much”
+
+Odds is one will name a price.,
+Spy plunged to the former ATH in SeptemBEAR…..This is the last line of defense bulls, don’t let the bears win 🧸🍭,
+This market has caused me to lose literally dozens of dollars.,
+At least I still have my health
+
+*coughs*,
+Anybody have a faster way to get rich? This is taking too long,
+Green futures. Sell by 10a. Got it,
+Some days I fantasize about someone giving me a large chunk of money and letting me play the market with it. Wouldn’t even need the winnings. Just to get to trade with it would be amazing. And then I realize I’ve just described a paper trading account.,
+*Harold and Kumar Go Bankrupt Playing Options* sounds lit,
+How many of y’all told your  wife to spend the night at her boyfriends because you wanted to be alone after today?,
+Disciplined day trading is the only way to make money in this 🤡 market.  Too bad I trade on instinct and emotions only,
+Bears will forfeit faster than the afghan army tomorrow. Hold the line bulls,
+Twitter should change its name to Facebook,
+I think tomorrow is hugely green. Like so green even bears buy calls, before a massive dump Friday. Bear trap bull trap bear trap until at least July 2022,
+Pretty excited for all my tech stocks to be green at 9:29 and then suddenly down 3% at 9:32 tomorrow while Nasdaq is up 1%,
+Naked in a hotel room drinking myself to death while I watch American Dad. How are you other bulls dealing with the ass blasting we got today?,
+Repeat after me
+“I will not paperhand my puts at open”
+Now say it 10 more times,
+I’d be retired by now if I just stopped letting 10-20 baggers slip from my fingers,
+Upvote if you think the market is gay af,
+It's so easy to lose money but harder to make money 🤔,
+What does “CALL ALERT - IMMEDIATE ACCOUNT ACTION REQUIRED” mean?,
+I bought 1 spy put and it’s up 960% lmao should’ve bought 100,
+Yo someone wanna check on that guy who closed his million dollar tesla short to go long on baba?,
+SPY went from being up 2% to being down -1.2% in a matter of couple hours. That's a dump of -3.2%.,
+Filling out Wendy's application as we speak,
+Idk how to do a ban bet but if spy doesn’t open red I’m gonna cut off my penis so I won’t feel the need to impress women with riches,
+If we are entering a bear market you can expect giant swings in both directions, that's just bear market nature. If we aren't in a bear market, and just a 5% S&P pullback (13% IWM), then we hit that today. Whatever way you look at it, don't be surprised to see a massive green day tomorrow or friday,
+The only stock green on my list is the one I placed a banbet to go down (FFIE)
+
+That’s how bad I am at this,
+If it opens red it goes green. If it opens green it goes red,
+Fuck you 🐻,  got 20 years tax write off,
+I’ve been bearish since Covid began… finally became a bull…………,
+Bought a 0dte SPX 4630p for $800. Sold for $1,350. It closed at $11,760 today. 🤡,
+Imma keep it 💯 with you playas 😂. I have no idea wtf is gonna happen 🚨,
+Realized 22k in losses today. These weren't just for today alone. These were shares that I've stubbornly bagheld for months. It doesn't matter what I do. Vanilla OTM FD gambling, theta, shares, I always lose short term investments. It's so frustrating. I'm close deciding to just buy some shares of AMD, AAPL and other relatively safe companies, and not checking my account for a decade. In the meantime, I'll probably have to update my software engineering skills and actually look for a job like some wageslave.,
+If I hear “supply chain issues” one more time I’m going to snap.,
+Where is the Fucking bottom for BABA? This shit is getting rough.,
+Epstein bought his island for only 7mil, which makes me think we could buy an island as a subreddit if we pooled our money together. What could go wrong?,
+Yea I don’t trust futures anymore. With that said, tomorrow looks like a green day,
+This is what we get for collectively screeching 500 eoy,
+Is tomorrow going to be bloody red? Is it going to be green with a massive rug pull out of nowhere? Find out at next episode of circus de NYSE!,
+Haven’t been bothered by supply chain issues up to this point, but Papa Johns hasn’t put the cheeseburger pizza back on the menu yet which they normally do every fall, and that’s a fucking PROBLEM,
+Fortune favors the fortunate,
+*I declare bankruptcy*,
+Gonna go up tomorrow, like getting lifted off your feet just before a chokeslam,
+Jim Cramer actually has long hair stretching all the way to his buttcheeks. The hair strands are just really, really thin.,
+I lost everything I made in a year in A month… Im ready to quit Stocks which means all in on SPY 2024 calls. Buy and delete the app. I’ll be a millionaire,
+Wasn't there a graph showing that 90% of the market gains in the last 10 years came from overnight pumps and the market actually went down, on average, during market hours?,
+Call the top, put the bottom, deposit money, repeat.,
+The market hurt me today
+
+I am having severe abandonment issues right now,
+Glad I wasn’t forced to pay taxes on all of that unrealized money that I never made real.,
+I bought HOOD at $27 thinking it was the bottom. 
+
+There is no bottom. -72% from ATH,
+Omicron is a convenient scapegoat, the news of which were conveniently released right after Powell/Yellen finished talking.  
+
+
+JPow "crashed" the market with everything he said yesterday and today.,
+I swear to god I heard a girl screaming inside another car ON THE FUCKING FREEWAY. How the fuck do you scream that loud. While my windows was closed and the other car was as well. SUV with curtains in the back and as soon as I slowed down to take a picture of the license plate, it floored it towards the nearest exit.
+
+I sent the picture and description to the police, in San Jose. Notorious for human trafficking
+
+But fuck man, hope that girl is okay. I didn’t want to follow that person, and get shot or some shit or get tailed.,
+20% each week and I’ll a millionaire by this time next year.,
+Fuck my life is ruined….,
+Lost 10k in a week. 
+
+YAYYYYYYY,
+Today is so insanely fucking bearish. You guys have no idea.  +2% to -3% intraday off no news GG!,
+Lost $100k these two weeks. Not on options, just fold ass stocks,
+    ▬▬▬.◙.▬▬▬
+    ═▂▄▄▓▄▄▂ 
+    ◢◤ █▀▀████▄▄▄▄◢◤ 
+    █▄ █ █▄ ███▀▀▀▀▀▀▀╬ 
+    ◥█████◤
+    ══╩══╩═
+    ╬═╬
+    ╬═╬         drill team 6 coming in hot
+    ╬═╬
+    ╬═╬    
+    ╬═╬ 🐻/ 
+    ╬═╬/▌ 
+    ╬═╬/ \
+    ╬═╬    
+    ╬═╬ 🐻/ 
+    ╬═╬/▌ 
+    ╬═╬/ \
+    ╬═╬    
+    ╬═╬ 🐻/ 
+    ╬═╬/▌ 
+    ╬═╬/ \
+    ╬═╬    
+    ╬═╬ 🐻/ 
+    ╬═╬/▌ 
+    ╬═╬/ \
+    ╬═╬    
+    ╬═╬ 🐻/ 
+    ╬═╬/▌ 
+    ╬═╬/ \
+    ╬═╬    
+    ╬═╬ 🐻/ 
+    ╬═╬/▌ 
+    ╬═╬/ \,
+459 puts were 0.20 at one point and ended at high of 8.50 and I sold for a 60 percent loss. I got bitch hands,
+#FUCK RIVIAN
+
+It’s okay to be bear on this POS,
+imagine not buying the dip over this bullshit,
+this is no longer fun,
+My losses are only transitory,
+We need  - and will soon get - some positive news regarding omicron to resume the bull run.,
+The Omicron that stole Christmas,
+![img](emote|t5_2th52|4553)Where my BB bagholders at![img](emote|t5_2th52|4553),
+You mean to tell me that a bunch of analysts knew inflation wasn't transitory before the federal reserve? 
+
+Doubt. 
+
+They've known all along and their front man was flat out lying 🤥,
+Got gapped so hard you can yell guh and hear echoes,
+If the government tells you not to panic are they really saying OH FUUUUUUUUUUUUCKKKK,
+If you ain't bi, your gains ain't high  
+🐂🕺  
+to  
+🐻💃,
+>US 10-YEAR TREASURY YIELDS EXTEND DECLINE TO NINE-WEEK LOW AT 1.404% AS LONG END RALLIES
+
+^\*Walter ^Bloomberg ^[@DeItaone](http://twitter.com/DeItaone) ^at ^2021-12-01 ^17:08:38 ^EST-0500,
+Sector rotation out of mega caps and into stuffing cash in mattresses.,
+I refuse to believe this is how the bull run ends,
+Getting a massage because my back is killing me from carrying those bags,
+President Joe repeat after me: “No Fucking Lockdowns”,
+Man I love days where I do nothing but hold and I go from being up 15% to being down 10%,
+QE is a human right.,
+Palantards , how does it feel to hold a stock for the past year and be down 30%? ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271),
+**SNIP SNAP SNIP SNAP SNIP SNAP**  
+  
+You have no idea the physical toll that 3 bull/bear traps take on a person!,
+Are we really supposed to believe these futures?,
+It’s ok guys, I’m losing all my money on a company called block now, not square.,
+Atleast i’m not losing money in shitty movie theatre, failing video game store or china stocks,
+Breaking news on CNBC, Apple is against tariffs on Apple products.  Ya think?!?,
+Futures are green again, Bulls 🤡 ![img](emote|t5_2th52|4887),
+Not giving up on the eternal bull run. May it last 1000 years,
+Damn there is more joy in funeral than this thread today. Relax guys, we are less than 5% off ATH.,
+stock market crashes. average american unaffected.,
+Omnicron is so fake and 🌈,
+Today's drop had nothing to do with the virus. Even Zoom dumped 6% which is literally the virus stock.,
+Sometimes the best trades are the ones you don't make,
+Fuck this market. Just got to the oyster bar and gonna drown my sorrows in dirty gin martinis.,
+So my gains were transitory,
+Ever since I got my permaban reversed, the market has been blood red,
+Guess my puts are fucked,
+THEY’RE PUTTING CHEMICALS IN THE WATER THAT TURN THE FRICKEN OMICRONS GAY,
+You guys are right here right now. You could be anywhere in the world doing anything you want, but you are on WSB reading this comment. Let that sink in.,
+Well if y'all market makers think y'all gonna trick us into FOMOing calls at open, well, you thought right!!,
+Imagine being a boomer and you decide to sell off all your boomer stocks so you can pile on Apple as a safe haven because that's the only tech company you know.,
+In Wolf of Wallstreet the sex scene where he has some girl stick a candle up his ass. I thought it was just some kinky shit..,
+JPM says buy the dip as Omicron may signal end of pandemic..,
+how real is the green futures?,
+And you could have it all
+
+My empire of expired fds
+
+I will let you down
+
+I will make you hurt
+
+
+If I could start again
+
+A million dollars away
+
+I would keep my account
+
+I would find a hedge,
+I will be an AMD guy my whole life, I love you AMD you run my PC, you run my graphics, and most importantly you make me fucking money,
+Futures green, you know what means…,
+Market really gives no fucks about covid this has to just be Fed uncertainty JPow went from inflation is transitory and printers running through 2022 by saying we havent even begun to discuss discussing rates or tapers, to discussing accelerating taper and potential rate hikes early 2022,
+Upvote if you got fuked like me today,
+This is the best bull trap I've seen in a long while 
+
+Ain't no way I'm trusting this market ever again,
+Due to poor financial decisions I am now selling artisanal blowjobs, $20 each. Who would like one?,
+I’m an alcoholic,
+you know why this shit is gonna keep going down? because going up would be beneficial to me, and anytime the universe see’s stuff going right for me it turns it around real quick,
+Well, that was a rough day,
+My moves tomorrow will be to cry,
+Wow, what an insane overreaction. I hope you bought calls.  
+I remember a time when Americans weren't so easily scared.,
+What the duck is happening with DWAC,
+Started from the bottom now I’m dead,
+I made $900 rather than $4800 by selling my puts too early. yay,
+Futures were indeed fake and 🌈,
+Despite the drawdown today, **QQQ** is just 5% off all time high  
+  
+Meanwhile, ARKK is at 52 week lows  
+  
+There is a lot more pain coming Cathie's way if QQQ has a correction
+
+Long SARK (the anti-ARK ETF): https://finance.yahoo.com/quote/SARK/,
+AFRM: -7.98%
+
+RBLX: -10.06%
+
+DASH: -9.59%
+
+UPST: -12.32%
+
+DKNG: -9.58%
+
+AMC: -15.82%
+
+MNDY: -11.70%
+
+🍆,
+Took a nice little nap. Woke up poor. Dafuq,
+I honestly have not the single guess what is going to happen tomorrow. This is fucking riveting AF though,
+Wait last I checked SPY was at +$8 for the day WHAT ![img](emote|t5_2th52|4271),
+Folks, what you are witnessing is controlled demolition of the stock market. They are slowly taking the air out of the bubble,
+Remember last year how ppl here were saying pltr would 5x in 5 years? Well... now you have 4 years ⏳,
+To go from +200% to likely -100% on my Snow puts is a heartbreaker.,
+WHO HELD THEIR SPY CALLS EXPIRING TODAY AND GOT FKED,
+jpow timed his "inflation isnt transitory and we can accelerate the QE taper by a few months" talk right at the same time as omnicron so that we can all blame the virus over markets dropping
+
+the shift bastard,
+Ok, new investment strategy idea: marry a rich cougar.,
+I bought spy POOTS today and they worked ! Up 200% and holding overnight cuz I’m poor. fuck me,
+From 200->1k->160 help,
+warms my heart seeing how many "long term investors" were newly minted today.,
+When you buy the dip but it keeps dipping ![img](emote|t5_2th52|4968),
+Boss. I was just joking. I don’t make more at my side gig. No need for a raise but please remove the help wanted sign.,
+please god let spy go back to 468 before my nose runs out of candy,
+Thank god for DWAC... i'm up $5 AH... makes my $9k loss feel better,
+I wish I could just delete my brokerage apps and forget about everything but I can't go 1 day without staring at them,
+Tryna have 6 women beat the shit out of me and suffocate me with their asses tbh
+
+No hits to the balls tho,
+What nonsensical bullish thesis will bulls come up with tonight? Stay tuned to find out,
+My moves tomorrow will include a swift 6’ drop,
+Incoming dead cat bounce. We're all here for it.,
+I’m not even holding calls and I lost 10% of my actual portfolio today OUCH,
+Man fuck the stock market. Was up 3k this morning ended 2k down,
+Futures green, I seen this movie before,
+[deleted],
+March 2020 again? Let’s have that 8% hulk dick day followed by a 10% rug pull 🚀🚀🔥🔥,
+100k gme gains down to 50k in March... Finally back to 100k. I don't have to tell my wifes boyfriend I lost 50k gains yesss.,
+I don't want to do this anymore,
+You ever just get depressed?,
+How do y’all get past the feeling of it being the end of the day when it gets dark at 5pm,
+If you have short term calls you fukd. Limit down tomorrow. VIX to 40 by Friday,
+Omicron EV coming soon spy calls at open,
+Yeah $452 is nice and all but I bought $463 and $467 calls for Friday sooooooooooo,
+Kinda funny how axeman been spamming about his dumbass SPY 500c for the past month. Today he's using bond yields as his copium, what's it gonna be tomorrow,
+Hold me and tell me it’s all fake,
+Everybody mad that we ended red like there wasn’t a 2% gap up to make money before hand….idgaf if we end red tomorrow 
+
+#HOE WE TRADE WEEKLIES,
+Regretting that I didnt pull the trigger on the 100 SPY puts I had queued up. Would have been up $60,000 at the end of the day...,
+The only moves im making tomorrow are with my bowels. Its gonna be like a girthy cookie dough rope, i can feel it,
+Can I offer you a nice egg in these trying times?![img](emote|t5_2th52|4270),
+I’m still bullish…. on VIX,
+When did the printer turn into a vacuum???,
+#Pro tip
+
+
+Lose weight in no time by eating once a week.,
+We're all getting one year subscriptions to a Jelly of the Month club for Christmas
+
+I'm stoked, I love jelly,
+We are in a ManBearPig Market. Total carnage today.,
+Futures mattering nicely rn,
+Before I get banned, I just wanna say
+
+
+These hoes for da streets,
+The market is so fucking rigged. Didn’t someone sell like $10 billion worth of AAPL yesterday? 
+
+We can never win this game.,
+~1.5k in spy and Nvda calls turned into 10k last month. Back to 0 now,
+I swear to God, if this is another futes fake out I’m going to…..I’m going to…..well im going to be very angry,
+Some of you guys really do be shilling with zero imagination.
+
+Tell me a story. Paint me a picture. spy calls. Bring me to your happy place and let me in. that ass.
+
+I mean really, if you want to sell something. Fucking sell it with conviction.
+
+I want to Kiss Ryan Gosling,
+In the last 2 weeks I've lost all my gains during the epic rally starting back in October which had saved all of my losses from the September pullback. Back to square 1 basically. Spent so much time trying to improve my strategies and risk management yet I'm back where I started somehow,
+These Dec SPY calls are feelin heavy bros,
+Imagine looking at the state of this market with speculative growth companies being given 50B+ market caps every other month like candy and thinking "ugh this bear stuff just makes no sense!",
+I’m gonna buy something tomorrow even if it’s fucking wrong 🤡,
+I see green dildos es futures but I have PTSD,
+started taking a walk late night to clear my head. wish i had done it sooner. It's so peaceful.,
+I'm buying calls for January with strikes that SPY was at today,
+Europoor panic selling better be transitory 🐂,
+Fuk,
+Bought a couple spy 463 puts for $0.8 and sold for $1.23 🥴,
+[deleted],
+Me: I’m tired of losing money! 
+
+Market: Well that’s too damn bad!,
+Goddamn I never take profits,
+Well that was fucking BAD. 
+
+Have we seen a sell-off that bad since the pandemic started? Maybe September 3rd 2020. Any other time since? 
+
+What are the bullish arguments at this point? Considering that Omicron is probably just a catalyst and not the driving force behind the sell off...,
+80% of the stocks were in bear market anyways. Now the remaining 20% will join them.,
+Guys, Friday was puts, Monday was Calls, Tuesday was puts, Today was Calls, then puts, so tomorrow will be puts then calls.
+
+How are you guys not rich?,
+This week is really good, I’m already up -270% of all time,
+Opened up 77k worth of SPX puts on 11/1 for Dec 17 and watched it theta decay slowly for a month, finally exited with 50% gains today, got 150k in cash gang,
+If that was a bull trap then it was beautifully done,
+Just watched the selling pressure blow through a 4.5 million dollar buy order on SPY 👀,
+VIX at 31 is spooky af,
+Not to be outdone, Roblox changes name to Rotesseract,
+It’s okay gentlemen, ill save the market by buying puts at open. You are welcome,
+I’m down fucking 15 percent,
+my trading account is transitory
+
+RIP,
+Lol why is spy not dead,
+I feel like im on the Titanic with these SPY leaps,
+Is everybody fearful yet? I heard that's the best time to buy or something.,
+Fuckin 4K loss in 4 days pretty much all of it, I been sleeping in,
+Cramer says smart stuff, but isn't smart. 
+
+A real Precambrian Mongoloid,
+My spy calls expire friday. Friday is national make a gift day. I feel like I’m gonna end up gifting MMs my money,
+Deposited some more cash to buy the rug pull again tomorrow,
+Serious question - what is the catalyst bulls expect for SPY going back to ATH say any timeframe longer than a month? 
+
+We already heard the truth from the fed. Tapering schedule is moving up which means rate hikes will be moved up ahead of schedule as well. Inflation must be combated. 
+
+The Omnicron variant is nothing more than the current scapegoat to create bag holders as they run for the exit in the coming months.,
+Tomorrow is the day Enron went tits up.. shares went from like $90 to 0.26,
+I'm not just in a recession, I'm in a depression,
+Up 1,250% on spy puts time to get some calls,
+Pro tip: if robinhood says you're going to be PDT banned if do the next day trade, go wild!! you have all session before it kicks in the next trading day.,
+Volatility makes me feel alive,
+Fuck. Just got my first margin call and it was for $12.12.  lame,
+No deaths from omicron recorded, except for our portfolios,
+BREAKING NEWS: Inflation isn't transitory,
+I like volatility, upward volatility.   Not this shit,
+This too shall pass.,
+how the fuck can you guys stand watching cable news for more than 15 seconds?,
+Please mr market, I have a family.,
+All I've ever wanted in life is money, drugs, whores, and solitude, and I've never been allowed to have them.
+
+When the fuck do I actually get to win?,
+Yesterday was high af on shrooms and found myself being attracted to my reflection in the mirror, and then I had to check if I was male or female, and was relieved to find a dick in my pants, but at the same time, it left me wondering about something: does this whole scenario make me a bear?,
+I’ll be damned if we break 200D. This is definitely a correction. It is unrelated to virus or any other BS reasons being claimed by the media. It’s nothing more than a healthy 5-7% correction.
+
+Not a financial advice, I’m retarded.,
+Do bears nut to omicron news??,
+Usually I like to buy at the top.  But sometimes I sell at the bottom just to switch it up.,
+It doesnt matter what Futes are.....It doesnt matter what the Market opens and closes tomorrow....Either way....My accts are gonna get violated, wrecked, and fuked PrivateSociety style,
+BABA LEAPS are the road to being homeless,
+I’m ready for circuit breakers.,
+Want to eat edibles and go to the aquarium?,
+finally, the long-awaited rug pull will be tomorrow, or some other time, or maybe never, but what’s important is that it will be, unless it won’t be,
+in my free time I like to shred pieces of paper and put them back together. it’s like a free puzzle,
+Most of you probably don't remember March 2020 because you were still finishing middle school. But, to paint a picture of what is possible, the market did limit up on futures during the crash.,
+WSB is too doom and gloom tonight. 
+
+I'm actually wondering if futures are accurate for once.,
+Who drinking? WHO IS DRUNK WITH ME!?,
+This is the worst kind of market right now, reminds me of September somewhat when vix was around this range: obviously premiums are prohibitively overpriced, but even worse, the market is making the majority of it's daily moves overnight. So you have to hold options overnight to capture the move, but its a coin flip if we gap up or down the next day. 
+
+Which then leads to me asking myself why the fuck I wasn't in cash sooner, but the daily bull/bear traps have been too hard to resist. I truly feel like a retard this past week,
+!banbet SPY +1% 1d,
+20-30k people always online & still the only things certain in life is death, taxes & autism,
+Retards buy puts; only men buy calls.,
+I wanna be millionaire by this time next year,
+Was just reading the Yahoo AMC board. They're all fucked.,
+I can't remember if I cried
+
+When I read about the slump in SPY
+ 
+The losses realized deep and wide
+
+The day the meme stocks died.,
+Sheeeesh… no nut November finishes and the first thing you retards do is crash the stock market.,
+Dont diamond hands when you are drowning,
+Market makers be like “BING BONG! Fuck ya life!”,
+Jeopardy! tonight had "stonk" (yes with that pronunciation) as a response. Green day tomorrow.,
+Goodnight market, please continue to go up while I sleep,
+i'm not a big TA guy, but how many attempts does SPY get to stay above 470 before we admit this market is exhausted?,
+I currently have reason to believe the stock market is fraudulent,
+Holding spy puts. Up 250% already. Probably should’ve sold but greed,
+Up 25%, took a nap.
+
+Woke up, down 7%.
+
+Wtf happened. 🥵🤣,
+Having shares in this market is like being in a cozy warm house in the middle of a storm, knowing that if you stay inside you’ll be fine. Having calls is like being in that same storm in a run away car with a methed up raccoon from Florida at the drivers seat repeatedly dry humping the wheel.,
+i've been kinda in shock for the past for hours, i've wiped 40% of my life savings in the past month, can't say it wasn't a possibility, but just the speed of it..,
+Im lost for words!!! I was up 5k last week and now down -9k. Nearly want to cry,
+I declare BANKRUPTCY,
+Went on a date the other night, girl asked me what I do told her I'm a pro stock trader and my income is -750 dollars each trading day. Then I asked her to pay for my meal in exchange for some stock tips.  Haven't heard back.,
+\+1% Premarket
+
+\+2.5% After Open
+
+\-3% By Close,
+If you sold today, punch yourself in the face,
+Absolutely destroyed. Margin called. Gonna take a break over Christmas :(,
+I’m literally never going to financially recover from this.,
+BREAKING NEWS: NEW OMICRON SYMPTOM DISCOVERED: PANIC SELLING, BEING A BITCH,
+I'd like a refund please,
+18% down on my $30k portfolio. Expecting bleeding to continue,
+Futes were so green last night 🙃,
+Omricorn is bullish,  the market doesn't know it yet though,
+My moves for tomorrow is just relax, I got no money left for the casino 😂.,
+WHAT THE FUCK HAPPENED
+WHAT THE FUCK HAPPENED
+WHAT THE FUCK HAPPENED
+WHAT THE FUCK HAPPENED
+WHAT THE FUCK HAPPENED,
+877CASHNOW,
+BREAKING NEWS: Maruchan Inc. announces more new ramen noodle holiday flavors due to an expected increase in demand. Flavors announced today are Reindeer Hoof and Dreidel Driftwood.  
+TSUKY +1.51%,
+Biden says higher inflation is a “natural byproduct” of the global economy’s recovery. Guess where he heard this from... I see you JPOW,
+V shape tomorrow?,
+Like wtf man?! I was green for ONCE and then it all went to hell. I quit. Ok ok I’m not,
+Spy is ONLY down 2.3% on the month ![img](emote|t5_2th52|4266),
+Some of you have never lost 100 k in a day before and it shows,
+who thinks Square is a better name?,
+What are my moves tomorrow? … trying to track down those dancing Nigerians with the coffin,
+imagine AAPL changes its name to Fruit, more diverse,
+I'm a temporarily embarrassed billionaire,
+I bought the DKNG dip and it dropped another 6% after I bought.  lol,
+>SQUARE, INC. CHANGES NAME TO BLOCK
+
+^FXHedge ^[@Fxhedgers](http://twitter.com/Fxhedgers) ^at ^2021-12-01 ^16:54:21 ^EST-0500,
+Just took a huge dump. Only had to flush once. One-day-only market dump confirmed,
+Ate some chipotle. Puts on my asshole.,
+I haven’t left the house in 2 years. I’m running out of toilet paper. Help!,
+FB and PYPL damn thought I was safe,
+How many hits of LSD did Dorsey take. 
+
+Bro, it's like square, but in another dimension.,
+These red days really bring out the most funny comments thank you guys,
+Hoping for continued Apple retard strength,
+listening to my two buddies who have held BABA until now when I told them to sell w me at 273 is just fucking hilarious,
+Can’t buy spy calls till tomorrow. Well, it will be at $460 by then and crash back when I buy. Fuk,
+Spy down 1%
+
+Get the rope ![img](emote|t5_2th52|4267),
+Fb at its 3 month low. I dunno if I want to touch this thing man,
+fuk it, just price in all the future variants now so we can live in peace 😑,
+Losing a whole digit off the account is painful.,
+Jpowell is probably what, 8 inches ?,
+Imagine the people that bought $30 $WISH,
+whenever i feel myself start to be influenced by reddit, i have to remind myself the idiots on wall street bets were convinced DOLE was a must own…,
+Long Docusign, lots of bankruptcy papers being processed after Friday.,
+Earnings have taken more souls than Poseidon,
+Salesforce calls or no?,
+People are anticipating earnings... for Big Lots?,
+Dollar General is on DoorDash now. I’ve spent about $100 there that I wouldn’t have otherwise.
+
+Gonna pick up some calls.,
+After Gap and Nordstrom got destroyed? Puts on Lands End.,
+Dollar General,  DocuSign and Salesforce are my retarded guesses for calls, so I should probably buy puts.,
+this week's earning plays… sponsored by theta gang lol,
+Yunji looks like a Chinese version of Wish.  94% decline since IPO.  Impressive.,
+FUCK IT. ALL IN ON CITIY TRENDS 🔥🚀,
+I’m thinking salesforce and docusign if covid 7.0 is coming out,
+CRM idiots 
+
+Come on. It’s beyond obvious,
+Got a few Jan CRM 310c which are currently shitting the bed.,
+Puts on PVH , see what happened to gap,
+CRM calls baby. Maybe a little DOCU lotto too.,
+I got puts on zs and calls on crm. There goes my money
+Edit: hoping for a u turn on both.,
+Splunk,
+God not again
+Puts on zumiez, fuck em kids,
+All the cloud companies either going to moon or crash this week.,
+strangle plays on crm/ box/ okta/ smartsheet/ docusign
+
+puts on all retails,
+For real...I only know like five of those companies,
+Salesforce boutta put the wood to it.,
+Li Auto ![gif](emote|free_emotes_pack|give_upvote),
+50k+ in CRWD leaps that I'll hold thru earnings (mix of Jan 23 and (Jan 24 calls).
+
+They'll probably do okay but really depends on market sentiment (which are not so good for growth recently) for post ER movements.
+
+If the growth narrative holds and sentiment shifts, can easily rocket back to high 280s-300.
+
+If not, be prepare for low 200s.
+
+Been trading CRWD decently for the past year and with recent action I'm glad I paper handed the gains as it's YTD is once again mixed/lagging indexes.
+
+And if you enjoy the conspiracy memes Pelosi's husband bought in at 120s last Sept. So based on that alone it'll +20% ez this earnings! (Cuz reasons).,
+Time to just randomly guess if supply chain is an issue or not for many of these. Open the casino,
+My country’s bank week 🇨🇦
+
+Funny enough.. I work for BoFA,
+CRWD will pop,
+Any DD on sales force? With Covid 7.0 looks like another lockdown and tech stocks to the moon?,
+RIP 5k in SNOW puts,
+Kroger ![img](emote|t5_2th52|4735),
+Puts on Express calls on $1.25 General,
+CRM calls, SPLK puts, ULTA calls.,
+Black Friday sales down 28% YOY as Americans choose to stay home.,
+I need a 10x play what’s the play,
+thoughts on asana going into earnings?  
+asana just fell through the earth the past week.  
+idk how i feel.,
+Sales force calls,
+Cmon CRM let’s go,
+SALESFORCE!.  
+NANCY PELOSI OWNS SALESFORCE!.  
+FREE MONEYS,
+29nd CD projekt,
+Five below is now changing its name to 6.25 below because of inflation.,
+Thoughts on CRM popping after earnings?,
+Anyone still playing earnings? I had some calls from yesterday but dumped everything today, not feeling this week anymore.,
+Puts on Dollar General?,
+I really like five below puts for tommorow with how retail has been systematically earnings crushed this season.,
+think im going to go with asan puts. :\,
+CRM CALLS OR PUTS THROUGH EARNINGS?,
+Thank you for posting these. I use that site everyday now,
+Any of y’all playing snowflake earnings?,
+We still doing puts on everything?,
+Anybody ever wish they would just give us the damn ticket symbol on this chart?,
+PUTS on DocuSign anyone?,
+Everything retail has gotten absolutely smoked recently. Puts on everything.,
+Finally they're reopening the lotto store!,
+CRWD calls might be huge.,
+Titty bank,
+I'm watching the new TMNT movie right now. Apparently Alibaba massacred more than just my portfolio.,
+ai stock is down like 80% from ath... might have to grab some clals,
+Hmm did not know Domo was something I could buy, they are local to me, I will pass by and let y'all know if they have nice cars or shit boxes in the parking lot.,
+232 comments and not one mention SWBI  
+ 
+These Smith & Wesson calls about to shoot off to the moon,
+I can’t read half of Monday or Tuesday. This makes me bullish. Calls it is,
+CRWD will print,
+Nancy Pelosi owns 1000000$ worth of CRWD, so imma buy calls![img](emote|t5_2th52|4276),
+My bets for upcoming earnings:
+
+- CRM Jan 310c
+- DOCU Jan 220p
+- SNOW Jan 330p
+
+Whaddaya think of that?,
+Should I go all in on zumiez puts right before the closing bell?,
+I’m getting a very bullish vibe from ULTA. The last earnings they had, they crushed it!,
+Anyone holding CRM through earnings? I am thinking puts but I may be wrong.,
+After seeing what happened to CRM I don't want to touch Okta..,
+Thinking Docusign puts?,
+Once again market proved that it’s rigged with sales force doing excellent but tanking for doing great. I hope all of these market makers have a terrible life. I truly do.,
+Asana please don't hurt me too bad,
+Hold up. I’m unbanned? Aye my 1 week is up. Puts on all Chinese stocks it is,
+This is a difficult play given that several stocks might be influenced from he short term news  
+My play will be the following  
+Calls on CRM, CRWD  
+Puts on DOCU, MRVL  
+
+
+The position im less confident is the one on DOCU as the stock might benefit from new lockdowns,
+Omincon: Sponsored by DocuSign,
+I just like saying Splunk.,
+How low can express go,
+Canadian banks going up don't buy options though won't cover the premium.,
+Browns really bout to lose by 6 with 4 INT’s lmao,
+Who tf listening to Dole earnings,
+CRWD playing with my money and emotions.,
+Zumies put look like the play this week,
+What do you guys think about earnings on C3.AI tomorrow?,
+![img](emote|t5_2th52|4266),
+Why the hell did PVH get an insane boost overnight? It was looking like the reaction to gap and nordstrom was priced in, but now...? This is a tough choice,
+CRM boom!!!,
+Five below putty puts?,
+Rip my CRM calls Jesus christ lol,
+fuck i was too pussy to buy SNOW calls
+
+i bought shares at close though 🤑🤑🤑,
+Salesforce, Kroger & Marvell gonna be my plays. GL my fellow regards make the BAG 💼,
+When there are more Chinese companies than American ones on the American exchange…,
+Loaded to the tits with SNOW puts. SNOW please go full PTLR. Pretty please.,
+ULTA calls,
+Playing Zcalar and Docu puts.
+What y’all think? Am I retarted,
+Gas price up so arco calls big 🧠,
+What about dole? Apes?,
+How come the Canadian banks are spread out over the week,
+Thoughts on DOLE puts?,
+Red Week vibes from these guys,
+BRP has sold every sea-doo, ski-doo, can-am, etc. They have made the past 2 years and are taking orders into 2023. HOWEVER, they cancelled evinrude right in the middle of the highest boat sales in decades, haven't significantly upped production of any of their current powersports products despite being able to sell probably %50-100 more than what they're producing, and layed off employees due to covid despite record sales and orders.
+
+The powersports market was so Bullish but I can't be on BRP with their management.,
+Which one of these chinese stocks am i getting puts on?,
+Dollar general, that one should be easy to predict,
+DOCU has dropped pretty hard the last two weeks but I imagine they’ll hit earnings targets. Might see a nice bounce back this week,
+Good ole November twenty nine’nd!,
+ASAN CEO bought $25mil worth on Friday. I’m thinking calls.,
+Biglots is low key undervalued,
+What’s the play for $SNOW. Puts or calls,
+IF YOU DONT HAVE A 10X OR BETTER PLAY TO POST THEN SAVE YOUR BREATH.,
+[deleted],
+Dole bout to go off if they announce dividend,
+Dole is either going to moon or crater, no inbetween,
+Puts on everything especially retail should print bigly.,
+Docusign and Salesforce calls?,
+29nd?,
+You think puts on zumiez and five below will print?,
+ALEXA, CAN YOU PLAY BUY THE MOTHERFUCKING DIP BY JPOW,
+SOMEONE TELL ME WHY I SHOULDNT FULL PORT ZUMIEZ PUTS,
+Hey americans tell me about dollar general is it retail that is struggling? I missed Gap and Nordstrom because my bank did not have short options on them so I’m looking to short general if it’s retails.,
+Looking at Box before earnings. What we thinking?,
+What do you all think about calls right before closing on salesforce,
+smith and weston yolo initiated,
+What’s the play for $SNOW and $DOCU?,
+Yes!!!,
+AMBA fueling up !!,
+Can someone explain to me how does SNOW earning reports even work?
+
+I'm looking at this link >> https://www.nasdaq.com/market-activity/stocks/snow/earnings
+
+And it says SNOW reported their 2021 Q3 earnings at -0.5 estimated and -0.63 actual. Meaning they missed their earnings by 26%.
+
+But then marketbeat >> https://www.marketbeat.com/stocks/NYSE/SNOW/earnings/
+
+Is saying last quarter report is actually 0.04 estimated and 0.15 actual? That they actually had positive EPS instead of negative unlike what the NASDAQ website shows? And they actually reported their earnings for 2022 Q2 last quarter instead of the one that ends in the fiscal month of July 2021
+
+How the fuck does that even work. Confused,
+Earnings are useless this week. Sorry bruh,
+Nothing interesting at least for me.,
+Calls on JNCO Jeans,
+Hmmm calls on CRWD a good move? Looks like ZS had good earnings but valuation seems real high,
+Every "crisis" we have had over the past decade is one step back three step forward for the stock markets.,
+put season,
+With today’s sell off, SNOW calls are very attractive 🚀🚀🚀,
+There has to be some rotation back into some of these stocks that are getting absolutely crushed.,
+I have heard of 6 companies on this list.,
+why didn't I play snowflake. I have never heard of it and I'm in tech.,
+Puts on SNOW. This company is priced at an insane price to sales for building cloud databases (60s tech but on the cloud). Even a slight miss and this is plummeting.,
+DIDNT WE AGREE WE WERENT DOING THIS BULLSHIT ANYMORE?,
+Ulta %20 otm puts for like 5$ hope for a %30 drop bank on 100x loto,
+Snow. Up or down?,
+CRM is a must buy after today’s pullback 🚀🚀🚀🚀,
+CRWD melting is making me wonder about my 200p 12/3s.,
+SNOW beats, plus $40 after hours,
+There’s always money in the banana stand
+$dole,
+No cool stocks,
+Hope ASAN tank like PTON,
+Put on lucid?,
+$GFS, really interested to see their earnings. I’m primarily bearish on the company but this earnings could be a huge trajectory shift for them,
+I just be it all on LCID puts. Am I fuxd?,
+$CRWD has to be a no brainer based on $ZS sympathy? Going to grab a few lottos at close.,
+Banked good from day trading CRWD puts today and closed it before earnings 
+
+What’s a good day trade for options tomorrow?,
+Someone posted bzun puts are easy money. Cheap too. Thoughts?,
+Jinko hoe,
+[removed],
+So we’re down to Cybersecurity cos, Snowflake, & DocuSign basically. 
+
+Lots going on in the market without earnings though,
+29nd.,
+The good old twentynined,
+Whut about dem drug cartels?,
+Tking
+https://investorplace.com/2021/11/tiger-king-coin-and-6-other-weird-cryptos-to-watch-in-2022/,
+Maybe DocumentsSign.,
+[removed],
+Jinko jeans were my favorite in high school,
+Puts on all. Every day all day,
+$SWBI is the short and long term play my apes. P/E ratio is 5 or something. Fear of lockdowns will pump it this week,
+Fuck. Should've bought Ulta when I had the chance.,
+Not "most anticipated", but I have high hopes for JOAN on Dec 2nd,
+Any thoughts on $SMAR? I think that It doesn't really fit in the "corona pandemic/home office boom" stock category like Zoom or Peloton but surelly feels like one, has already tanked last earnings (Q2/2022) and hasn't really recoverd since then. It could repeat the pattern from last year, where it also tanked after Q2/2021 and went up after Q3/2021, or not....,
+Calls on Zscaler? They seem to have increased hiring of late.,
+I‘m new. What can I do with that information?,
+Ispc on monday 🚀🚀🚀🎰🎰🎉🎉,
+HP spinoff HPE looks interesting Tue. amc. HP did well last week, HPE should be terrific also.,
+gonna pump up some Chico’s! lol nobody’s clothing fits and they have a lot of “free size” stuff,
+
+**User Report**| | | |
+:--|:--|:--|:--
+**Total Submissions**|1|**First Seen In WSB**|11 months ago
+**Total Comments**|73|**Previous DD**|
+**Account Age**|1 year|[^scan ^comment ](https://www.reddit.com/message/compose/?to=VisualMod&subject=scan_comment&message=Replace%20this%20text%20with%20a%20comment%20ID%20(which%20looks%20like%20*h26cq3k*)%20to%20have%20the%20bot%20scan%20your%20comment%20and%20correct%20your%20first%20seen%20date.)|[^scan ^submission ](https://www.reddit.com/message/compose/?to=VisualMod&subject=scan_submission&message=Replace%20this%20text%20with%20a%20submission%20ID%20(which%20looks%20like%20*h26cq3k*)%20to%20have%20the%20bot%20scan%20your%20submission%20and%20correct%20your%20first%20seen%20date.)
+**Vote Spam (NEW)**|[Click to Vote](https://www.reddit.com/message/compose/?to=VisualMod&subject=vote_spam&message=r6nwb9)|**Vote Approve (NEW)**|[Click to Vote](https://www.reddit.com/message/compose/?to=VisualMod&subject=vote_approve&message=r6nwb9),
+My bad guys, had my first foray into stocks buying £5 of Costco on Friday. Isn't there supposed to be beginners luck?,
+"It do go down" 😂🤣😂 Classic video!,
+It was amazing how quickly that announcement just tanked everything.,
+When you buy the dip but it just keeps dipping ![img](emote|t5_2th52|4266),
+My portfolio is running away from the market.,
+I went from +1500 USD to -3000 USD and a spam of margin calls from my broker.. Ahh shit, here we go again,
+See y’all on the other side son! 😂,
+r/gifsthatendtoosoon,
+crashing hard i am running out of cash to buy the upcoming dips,
+I've never seen past this point of this video. Anyone have the extended version?,
+If Ive learned anything from our little adventures this year, it's that Im happier shorting bad stock than longing any good ones....,
+Its not like the US will shutdown again so it shouldn't affect much other that hospitals/pharma. Yeah i know the people who get sick i gotcha. Other than that it really shouldn't even hit us that hard,
+I like (hate) how every day this week it rallies out the gate and then by the bell all gains are depleted and back into the negative. 
+
+What the fuck is going on?,
+It's fucking CRM down 11 percent,
+it go down,
+When life gives you dip make chips ![img](emote|t5_2th52|4276),
+Look guys, this is just another chance to buy at massive discounts if you couldn't last Friday because you were too hung over.,
+Fucking pussies,
+Lmao!!!!!  It do go down,
+The Merle Haggard is the funniest bit,
+This video gave me blue balls,
+this is how I found out my entire portfolio is red today,
+AM:  Hey, I made back all the money I lost yesterday plus some more
+PM:  And I lost it again plus some more.,
+This video is funny as fuck.,
+The funny thing is, in the original video they hit the wall and they never go down.,
+Say it with me now diverse , diverse , diverse,
+thank god i didnt buy nothin today,
+![img](emote|t5_2th52|4271),
+![img](emote|t5_2th52|4266),
+Does anyone know what happens after the vid cuts off? Always wondered what happened,
+Now this is a quality meme.,
+Apparently it do go down. Glad for once I wasn’t retarded and closed my calls for a 10% loss instead of holding. Then I bought puts.. Anyone else fuck up on puts today? Had to leave for work at 145pm ish, closed my 12/3 462P’s when SPY hit 458 🤡,
+Crash you pos. I cashed out most of my stuff a couple months ago.,
+Bought 3 158 puts at $.70 this morning expiring today. Then right before I left for lunch - SPY was trading +7 on the day I was down over $100 for the 8th trading day in a row  so I did the same thing any other ape on a losing streak would do and I averaged down to 10 puts @ 158 after buying some for like .06-.07. Went and ate chick fil a and practiced my upcoming presentation a bit. Came back from lunch an hour later and started walking back in the building - pulled out my phone and SPY HAD WENT KAPLUNK while I was chilling. Sold all 10 puts @ $1.02 a piece and made back what I’d lost slowly over the last week and a half. 
+SPY usually f*cks me but man… when it lets me f*ck… Christ… it’s pretty glorious.,
+It doooo go dowwwwwn!,
+Did they live? The guys in the boat?,
+hahahaha. That was so funny.,
+Wow,
+I upvoted for the video alone. Not because I'm fucking holding bags,
+My portfolio today ![gif](emote|free_emotes_pack|sob),
+SPY 420 EOY!,
+Whatever fits the agenda,
+were they okay?,
+where is?,
+CNBC thought it was Powel not taking back what he said yesterday. The variant case has minor symptoms.,
+Lol what happened next!!! I want episode two!! Did some one find their stuff down stream and uploaded it ? Omg so many questions I want answers!!!!,
+Is there a full length version,
+Can I offer you a nice egg in this trying time?? 🥚,
+So wtf happened? Did they go over?,
+Hhahahaaahaha,
+Yeaaaahhh my retirement account took a shit today.,
+IT DO GO DOWN!,
+Sold my spy calls at 9:00 AM and was pretty resentful, but I was up 50% and didn’t want greed to get the best of me. I was really relieved when I checked when I got of work at 3.,
+I wanna know what the fuck happened to these 2 later on,
+I/savevideo,
+Clov,
+Thats more or less me these past 3 months watchin g my portfolio dip.,
+Luckily I am loaded on Chinese puts and sold my spy calls this morning.,
+TrAnSiToRy![img](emote|t5_2th52|4640),
+I love adamant that guy is, "**it dont**",
+This is so strange… I looked at the market today and this exact moment went through my head. I even sent a gif version of this in a discord as a comment… hadn’t thought about this in years,
+This dip makes me wanna buy so much shares,
+Fortunately there aren’t many numbers below 0.01 so I can’t lose much more,
+For me the whole year with STUPID PENN I HATE YOU SO MUCH!!!!!,
+It’s Black Friday sale all week!,
+Like... Where was he gonna go?,
+u/savevideobot,
+u/savevideo,
+Perfect summary,
+My shop calls are bleedinnnnnggggg,
+Should’ve put Fauci on the other side of the waterfall,
+Feels lmao,
+Puts galore today it was great,
+Made like 3k on $MRNA puts lol,
+#Evergrande,
+Why the camera man sound like Dunkey,
+what did i do to deserve this dip...,
+![img](emote|t5_2th52|4641),
+It do go down,
+Does it go down lol?,
+I went from up 5% to down 8%. I love being retarded👍,
+The fact that almost 90% of videos that were supposed to be good are always getting cut at the good part and posted on Reddit makes my blood boil. Why is this a thing?,
+It do go down!,
+🎵Workin’ on a fart inside of me🎵,
+NOOOO VOO down 1.4%,
+Look at me, I’m the clown now
+
+Me after buying an options call on CCL.,
+Looks like the riverways in New Orleans,
+*”WaLkiiNn Ooohnnn THee FiiighTen Saaihde oo’ MeEeeL”*,
+I just started investing recently so this sucks for me
+I have no clue how to handle this,
+Wheres the full vid for diamond hands POV,
+Tesla stock until Elon musk tweeted about bankrupts and stock down .01 in seconds.,
+It do go down,
+I don't even mind losing all that money since it meant i got this gif.,
+My portfolio is diversified so my losses aren’t so bad, but damn. I went from +16% to +9% in like 3 days, 7% gone with a sneeze,
+This is proving to me that long holding Vix calls is a valid strategy,
+Dude ant fishing.  Fake fishing right there.,
+😆😆😆😆,
+I’m dying! 🤣🤣🤣,
+This dip is so much I feel like I'm being waterboarded. You wouldn't do that to me daddy Powell, would you? This isn't torture. It's just a little dip.,
+u/savevideobot,
+Lmao,
+S&P closed lower than I panic sold 4 months ago. It's the little victories that carry me on,
+I sleep,
+That looks like a [low head dam](https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams),
+First decentralized options platform $IBFR on coin gecko. Micro mc, let’s ape,
+I need to see the rest of this video...,
+Walkin on the fightin side of meeee,
+![img](emote|t5_2th52|4266),
+it do sucker  lol thats for funny stuff thank youes,
+I love this video,
+I say this all the time at work and no one understands the reference,
+Shout out to Merle Haggard,
+Dips keeeps dipping 😭🥺,
+Parte 2?,
+Not sure why you’d jump ship. Everything is on sale right now. Time to load up and stock the pantry,
+Fucking Cathie Wood. Losing my real IRA money. Good thing I still have some money in voo and bnd. Not selling my ark funds but prob won't touch them for 10 years and maybe they will bounce back. Maybe I will buy more while it's down. Idk. I'm just an ape.,
+I lost so much money today....I just stopped looking at it,
+The stone ![img](emote|t5_2th52|4886),
+Shit I looked at it earlier in the day and saw that it was fine. Didn't know it dropped again.
+
+Apparently it was because of Omicron? How? How does the market drop like 3 times from 3 announcements of Omicron existing. Like we get it, there's a variant. Doesn't have to be breaking news every day lol,
+Thank god I’m cash heavy right now. I’m gonna be buying heavy while things are on sale,
+F in the chat,
+The kid way in the back like a caveman,
+Fun fact - If you try and send this video to your friend on Facebook Messenger it literally won't let you. It's banned for some weird reason.,
+Clips that end too soon,
+I get it: I’m not a retarded holder, it’s just the market has those days again,
+DWAC blowing up.,
+Market aside, I'm kinda worried about those dudes in that video irl,
+
+**User Report**| | | |
+:--|:--|:--|:--
+**Total Submissions**|6|**First Seen In WSB**|10 months ago
+**Total Comments**|2|**Previous DD**|
+**Account Age**|3 years|[^scan ^comment ](https://www.reddit.com/message/compose/?to=VisualMod&subject=scan_comment&message=Replace%20this%20text%20with%20a%20comment%20ID%20(which%20looks%20like%20*h26cq3k*)%20to%20have%20the%20bot%20scan%20your%20comment%20and%20correct%20your%20first%20seen%20date.)|[^scan ^submission ](https://www.reddit.com/message/compose/?to=VisualMod&subject=scan_submission&message=Replace%20this%20text%20with%20a%20submission%20ID%20(which%20looks%20like%20*h26cq3k*)%20to%20have%20the%20bot%20scan%20your%20submission%20and%20correct%20your%20first%20seen%20date.)
+**Vote Spam (NEW)**|[Click to Vote](https://www.reddit.com/message/compose/?to=VisualMod&subject=vote_spam&message=r6otm3)|**Vote Approve (NEW)**|[Click to Vote](https://www.reddit.com/message/compose/?to=VisualMod&subject=vote_approve&message=r6otm3),
+My stocks are in a "Mole Market". They dig a deep vertical tunnel in the soil which just keeps going down.,
+Fucking kangang,
+Cri-key,
+🌈🦘,
+Where’s cliff? My hood stock is in a cliff market,
+So if Bears are puts and bulls are calls what does that make the kangaroo ?,
+Ah yes the cocaine kangaroo market.,
+What did I miss? I went to celebrate my enormous QQQ tendies and you gaybears broke something since then.,
+Yeah I remember when we wuz 🦘s and shit.
+
+However the reality is 🦘 and 🦀 are pretty much the same. Just one has more hops the other more legs.,
+WHERE IS CROCODILE DUNDEE WHEN YOU NEED HIM!,
+I am not sure if its because my positions are completely retarded this time around, but the kangaroo market was much more fun the last time around.,
+DWAC,
+Long live the kangaroo 🦘,
+Fucking Kangaroos,
+I think there one missing brand new i just gotta find it,
+We need a new animal. I vote Narwhal.,
+What about the Apes!?!?,
+Sir, that’s called a Joey. I know this and even I’m not an aussie,
+Jesus is in the house MFs!!!!,
+Fuck,
+That's one retarded looking 'roo.,
+I thought the boys were back in town?,
+If we're into a bear what we typically see if there hard drops and then big 2 legged rallies. [https://www.reddit.com/r/wallstreetbets/comments/ohm7bl/a\_practical\_template\_for\_understanding\_and/](https://www.reddit.com/r/wallstreetbets/comments/ohm7bl/a_practical_template_for_understanding_and/),
+My three dads!,
+[Medic!](https://youtu.be/r-qrxWNWyZ8),
+KANGAROO is my Chinese zodiac sign now,
+Is that theta gang?,
+Ya bear gang been fucking me with no lube or spit.,
+🤣🤣,
+😂😂😂😂,
+Buy puts at open, sell at close and switch to calls. Rinse and repeat. Billionaire in a month.,
+sweet, kangaroos eat bears for breakfast,
+Trade talks going well v2,
+I DECLARE A KANGAROO COURT,
+An ADHD kangaroo on meth.,
+Mountain goats for me. Slow arduous climb up and a sudden tragic drop.,
+I'm in a Colobopsis explodens .... thats the ant that explodes when scared.,
+KANGAWOO SHOW, KANGAWOO SHOW!!!!,
+My new moto,
+Im getting PTSD from September vibes.,
+Where monke,
+Apes, fucking apes,
+Buckaroo Kangaroo.,
+Last time Kang Gang showed up, GME flew to $500 pre market,
+Anyone else think a bear could wreck a bull in a irl fight,
+I'm closer to a ostrich market, not just the head showed into the ground. Way worse than 🌈🐻,
+Time to buy strangles,
+TMO got me like 😁😱😁😱😁😱😁😱😁😱😁,
+Ape market? soon to be charted and coming to a MSM outlet near you.,
+Is that what we are calling it now…. More like ‘whales looking for an excuse to rug pull by courtesy of the fed fuck show market’ what a bunch of crooks.,
+Where is the rocket ? 🚀,
+Bruh they are just making shit up now,
+
+**User Report**| | | |
+:--|:--|:--|:--
+**Total Submissions**|17|**First Seen In WSB**|3 months ago
+**Total Comments**|57|**Previous DD**|[x](https://www.reddit.com/r/wallstreetbets/comments/pdv0na/hurricane_ida_is_worst_in_170_years_how_to/) [x](https://www.reddit.com/r/wallstreetbets/comments/qsk34m/woof_woof_this_dog_is_about_bark_up_a_tree_a_big/) [x](https://www.reddit.com/r/wallstreetbets/comments/pdux17/hurricane_ida_is_worst_in_170_years_how_to/) 
+**Account Age**|5 years|[^scan ^comment ](https://www.reddit.com/message/compose/?to=VisualMod&subject=scan_comment&message=Replace%20this%20text%20with%20a%20comment%20ID%20(which%20looks%20like%20*h26cq3k*)%20to%20have%20the%20bot%20scan%20your%20comment%20and%20correct%20your%20first%20seen%20date.)|[^scan ^submission ](https://www.reddit.com/message/compose/?to=VisualMod&subject=scan_submission&message=Replace%20this%20text%20with%20a%20submission%20ID%20(which%20looks%20like%20*h26cq3k*)%20to%20have%20the%20bot%20scan%20your%20submission%20and%20correct%20your%20first%20seen%20date.)
+**Vote Spam (NEW)**|[Click to Vote](https://www.reddit.com/message/compose/?to=VisualMod&subject=vote_spam&message=r6n8i3)|**Vote Approve (NEW)**|[Click to Vote](https://www.reddit.com/message/compose/?to=VisualMod&subject=vote_approve&message=r6n8i3),
+I’ve had AMD for years and it’s been a wild ride. I liquidated my original investment worth a couple times over and still have 3x riding,
+You sold high? What’s wrong with you?,
+Congratulations that’s awesome…and fuck you,
+May your wifes boyfriend buy the car he has always wanted.,
+Good for u bro. Now take some of that out and buy urself something nice before ur next yolo lol.,
+“And what happened, then? Well, in r/wallstreetbets they say – that u/CaspeanSea 's smooth brain grew three wrinkles that day. And then – the true meaning of being retarded came through, and u/CaspeanSea found the account of 5 baggers, plus two!”,
+Congratulations, now please go yolo in tsm like me!,
+nice, I remember doing covered calls with AMD when it was around 80 dollars and it just got assigned sometime in summer at around 100 and I thought "meh it won't keep going up" and boy am I a fucking moron.,
+Perfect timing I just bought it yesterday,
+https://i.imgur.com/eTM17eJ.jpg  I see your 700% and raise you my 947%!,
+Bruh god damn,
+Stay blessed king,
+Can't be mad about that! We can... but you can't. Congrats retard.,
+I jumped in at the low 70s and dipped at the high 80s. I thought I did pretty well and then looked at it a few weeks later and it was sitting in the 100s haha. 
+
+Oh well, be glad for the money you made. Not mad at the money you didn't.,
+Today I lost 66,000 on my main ccount. glad to see you took the opposite side of my bet. proper job,
+Now Short it and really double dip  😍😍,
+Smart, I will take it from here(Got in at $158). I am ok though I am a professional bagHolder, it's what I do.,
+Well done sir,
+I had these same calls, doubled my account since September. Congrats man,
+One of my NCOs bought 10000 shares of AMD when it was 2 a share back in January 2018. He is still holding,
+Can u get the mods to give u an AMD BULL flair or something?,
+watch it go up 7000% after you sell all,
+I think some people meant to buy and AMD and accidentally bought AMC,
+Congratulations bro, let me know if you want to start a small cap garage investment firm.,
+*how to turn thousands into many thousands*,
+Any not financial advice for chosing options?,
+Good shit my man. Hookers and blow time?,
+What kind of car are you going to get?,
+sells 3 weeks before the tax cutoff... smooth move Ex-Lax.,
+Cramer got you scared?,
+Now go Intel.,
+Nice. Now if you want 10,000x yolo gme shares :D,
+$TSM set up for the next yolo. Consolidation all year ready for the breakout m.,
+[deleted],
+Well played dude, congrats!!,
+How much of that will be going to taxes?,
+🗞️ 🖐️biotch,
+PoW coming soon,
+Congrats bruv,
+Yeah it's been a crazy run. Especially the recent rally. Let's see what next year brings.,
+Also holding on and. Congratulations and fuck you,
+Exercise them fgt,
+Will be holding till word of merger,
+well deserved my friend some real motivation,
+How dare you post something green that isn't a robinhood loss!,
+Good for you man, all mine have expired worthless. Please don’t tell the wife’s boyfriend I lost all his money.,
+I touch myself,
+Keep the $280 call,
+total newb, can someone explain what's going on here? I think I understand the mechanics of a long call – you buy the option to buy at a set price. But I'm not understanding the figures in the 'Position' column (the amount of options bought at that $?) and how it corresponds to the total cost.
+
+Does this basically mean /u/CaspeanSea was buying calls for December in January?,
+Congratulatory and obligatory fuck you :),
+Smart man. Congrats on that. Im pissed at myself for selling my shares at 45bucks. Big mistake.,
+If  it is good enough to screen shot, it is good enough to sell.
+
+&#x200B;
+
+Congratulations,
+![img](emote|t5_2th52|4258),
+Wtf? Take profit?
+
+Can someone ELI5 the concept of taking profit?,
+Well fucking done brah,
+Should I keep my $135c 2023? The market is starting to worry me, I’m up a lot though.,
+One should never argue with profit! Congratulations Sir,
+When did you initiate the position and did you average down?,
+Nice, had the $90 calls, got weak hands and sold at $50. Still have my shares though.,
+That's some nice juicy profit you got  there. Christmas is coming up, better start shopping for your wife's BF.,
+Consider yourself realized you fucker! Cheers,
+U sold early bro,
+What a good timing. Good job.,
+amazing when did you originally buy the calls?,
+Wow whateverrr,
+Sold before the Xilinex deal?,
+I wonder how many times I shorted all y'all,
+Congratulations and fuck you.,
+Alright guys, buy in, AMD to $5T in 3 years.,
+How much of a tax bill does this run you? Just curious.,
+Desktop metals has been getting shorted hard. Could be a good one to take for a run,
+Ive been sitting on mine since it was $5/share. It is too bad I didn't buy wayyy more. =/,
+OP send $800 bucks for my rent. Thanks.,
