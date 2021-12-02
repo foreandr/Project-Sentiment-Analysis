@@ -22,7 +22,5 @@ import yfinance
 import functions
 
 tickers=['AMZN', 'MSFT', 'AMD']
-
-
 functions.VaderSentimentAnalysis(tickers)
 

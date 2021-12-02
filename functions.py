@@ -1,3 +1,4 @@
+from textblob import TextBlob
 from nltk.sentiment import vader
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
@@ -8,14 +9,24 @@ def getVaderReviewValues(df):
     total_neg = 0
     best = 0
     worst = 0
+
+    blobAveragePolarity = 0
+    blobAverageSubjectivity = 0
     for i in range(len(df)):
         text = (df['Text'][i])  # Gets the particular thing I want
+        blob = TextBlob(text) # use blbo to analys string
+
+        blobAveragePolarity += blob.sentiment[0]
+        blobAverageSubjectivity += blob.sentiment[1]
+
         currentValue = vader.polarity_scores(text)['compound']  # " "
         total_neg += currentValue
         if currentValue > best:
             best = currentValue
         elif currentValue < worst:
             worst = currentValue
+    print("Blob Mean Polarity: " + str(blobAveragePolarity / len(df)))
+    print("Blob Mean Subjectivity: " + str(blobAverageSubjectivity / len(df)))
     print("Num Reviews: " + str(len(df)))
     print("Mean Review: " + str(total_neg / len(df)))
     print("Best Review: " + str(best))
@@ -70,7 +81,6 @@ def VaderSentimentAnalysis(tickers):
     tickerRows = fillTickerRows(news_tables, tickers)
     TickerTensor = createTensorForDataFrame(tickerRows)
     listOfDataFrames = populateDataFrameList(TickerTensor)
-    print("VADER:-------------------")
     for i in range(len(listOfDataFrames)):
         print(f"{tickers[i]}")
         getVaderReviewValues(listOfDataFrames[i])
