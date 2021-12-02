@@ -1,3 +1,5 @@
-modify iterate choice to be able to modify which subreddits I want to look at
-rank in order of mena review or be able to choose what to rank it by
+LOAD TO DF INSTEAD OF PRINT:
+    CAN DO THIS:
+        rank in order of mena review or be able to choose what to rank it by
+        print best review and worst review next to scores
 add more things and more sentiment
