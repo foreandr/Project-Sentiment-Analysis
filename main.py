@@ -90,19 +90,23 @@ tickers = ['AMZN', 'MSFT', 'AMD']  # Add Tickers here
 wordlist = []
 wanted_subreddits = []
 
-subreddits = ["FulfillmentByAmazon", "AmazonFBAHelp", "AmazonUnder25", "AmazonSeller"]
+subreddits = {'AMZN':
+                ["FulfillmentByAmazon", "AmazonFBAHelp", "AmazonUnder25", "AmazonSeller"],
+              'TSLA':
+                ["TeslaMotors"]
+              }
 
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
 
 for i in tickers:
     if i == 'AMZN':
-        for j in subreddits:
+        for j in subreddits['AMZN']:
             wanted_subreddits.append(reddit.subreddit(f"{j}"))
 
-print(wanted_subreddits)
- wanted_subreddits.append(reddit.subreddit("wallstreetbets"))
+#wanted_subreddits.append(reddit.subreddit("wallstreetbets"))
+
 createListOfComments(wanted_subreddits[0])
-paragraphs = readFile("file.txt")
-functions.getRedditReviewValues2(paragraphs)
+#paragraphs = readFile("file.txt")
+#functions.getRedditReviewValues2(paragraphs)
 
