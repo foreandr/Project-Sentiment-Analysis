@@ -105,7 +105,7 @@ def wordCloud(frequencyCounter):
 def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
     wanted_subreddits_ = []
     templist = []
-    #print(subreddits_)
+    # print(subreddits_)
     for t in range(len(subreddits_)):
         key, value = list(subreddits_.items())[t]
         if key in tickers_:
@@ -120,8 +120,8 @@ def populateWantedSubreddits(tickers_, subreddits_, wantExtra):
                 templist = []
 
         elif key not in tickers_ and wantExtra:
-            #print(key)
-            #print(tickers_)
+            # print(key)
+            # print(tickers_)
             for j in subreddits_[key]:
                 tempsubreddit = reddit.subreddit(f"{j}")
                 templist.append(tempsubreddit)
@@ -139,11 +139,11 @@ def iterSubsEvaluate(wanted_subreddits_):
 
 
 def iterateChoice(wanted_subreddits_):
-    '''
+    """
     CHOOSE WHETHER TO ITERATE THROUGHALL OR SOME
     :param wanted_subreddits_:
     :return:
-    '''
+    """
     for keyList in wanted_subreddits_:
         iterSubsEvaluate(keyList)
 
@@ -153,7 +153,7 @@ def stockAnalysis(tickers_):
 
 
 def process(wanted_subreddits_, tickers_):
-    iterateChoice(wanted_subreddits_)
+    #iterateChoice(wanted_subreddits_)
     stockAnalysis(tickers_)
 
 
@@ -167,11 +167,10 @@ subreddits = {
         ["TeslaMotors", "TeslaLounge"],
     'WSB':
         ["wallstreetbets"]
-    }
-'''              '''
+}
 
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
 wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=True)
-#print(wanted_subreddits)
+# print(wanted_subreddits)
 process(wanted_subreddits, tickers)

@@ -1,3 +1,4 @@
+import bs4
 import praw
 from textblob import TextBlob
 from nltk.sentiment import vader
@@ -104,8 +105,12 @@ def fillTickerRows(news_tables_, tickers_):
     tickerRows_ = []
     for i in tickers_:
         tickerData_.append(news_tables_[i])
+
+    #print(tickerData_)
     for i in tickerData_:
-        tickerRows_.append(i.findAll('tr'))
+        print(type(i))
+        if isinstance(i, bs4.element.Tag):
+            tickerRows_.append(i.findAll('tr'))
     return tickerRows_
 
 
