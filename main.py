@@ -30,14 +30,14 @@ def getUserPass(wordList_):
         wordList_.append(i)
     return wordList_
 def getPinnedPost(subreddit_):
-    for post in subreddit_.hot(limit=10):  # first n posts
+    for post in subreddit_.hot(limit=100):  # first n posts
         if post.stickied:  # if post pinned
             return post
     return None
 def createListOfComments(subreddit_):
     local_list = []
     count = 0
-    for submission in subreddit_.hot(limit=10):  # first n posts
+    for submission in subreddit_.hot(limit=5):  # first n posts
         for comment in submission.comments:
             if hasattr(comment, "body"):
                 count += 1
@@ -85,28 +85,41 @@ def wordCloud(frequencyCounter):
     wcloud = WordCloud().generate_from_frequencies(frequencyCounter)
     plt.imshow(wcloud, interpolation='bilinear')
     plt.show()
+def populateWantedSubreddits(tickers_, subreddits_):
+    wanted_subreddits_= []
+    templist = []
+    for i in range(len(tickers_)):
+        for j in subreddits_[f'{tickers_[i]}']:  # get dict key
+            tempsubreddit = reddit.subreddit(f"{j}")  # get individual subreddit
+            templist.append(tempsubreddit)  # add to temp list
+        wanted_subreddits_.append(templist)  # add temp list to fill list
+        templist = []
 
-tickers = ['AMZN', 'MSFT', 'AMD']  # Add Tickers here
+    return wanted_subreddits_
+
+
+def iterSubsEvaluate(wanted_subreddits_):
+    for i in range(len(wanted_subreddits_)):
+        print("/r/" + str(wanted_subreddits_[i]))
+        createListOfComments(wanted_subreddits_[i])
+        paragraphs = readFile("file.txt")
+        functions.getRedditReviewValues2(paragraphs)
+
+tickers = ['AMZN', 'TSLA']  # Add Tickers here
 wordlist = []
-wanted_subreddits = []
 
 subreddits = {'AMZN':
                 ["FulfillmentByAmazon", "AmazonFBAHelp", "AmazonUnder25", "AmazonSeller"],
               'TSLA':
                 ["TeslaMotors"]
+
               }
 
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
+wanted_subreddits = populateWantedSubreddits(tickers, subreddits)
 
-for i in tickers:
-    if i == 'AMZN':
-        for j in subreddits['AMZN']:
-            wanted_subreddits.append(reddit.subreddit(f"{j}"))
+for list in wanted_subreddits:
+    iterSubsEvaluate(list)
 
-#wanted_subreddits.append(reddit.subreddit("wallstreetbets"))
-
-createListOfComments(wanted_subreddits[0])
-#paragraphs = readFile("file.txt")
-#functions.getRedditReviewValues2(paragraphs)
-
+#functions.StockSentimentAnalysis(tickers)

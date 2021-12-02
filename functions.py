@@ -122,5 +122,5 @@ def StockSentimentAnalysis(tickers):
     TickerTensor = createTensorForDataFrame(tickerRows)
     listOfDataFrames = populateDataFrameList(TickerTensor)
     for i in range(len(listOfDataFrames)):
-        print(f"{tickers[i]}")
+        print(f"YAHOO: {tickers[i]}")
         getVaderReviewValues(listOfDataFrames[i])

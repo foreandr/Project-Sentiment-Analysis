@@ -1,46 +1,1013 @@
-Ipo forecasted to hit November 25th. Also they reported $1B losses in first half of the year,
-I believe the new low is at $3300.,
-I just bought some AMZN $3450/$3460c February 2022 debit spreads.  
+Sitting here on ‘next Friday’ with 99 score waiting for my fsd..,
+Just put down my meager $250 reservation fee on a base model 3  ⚡️🙌⚡️,
+FSD Beta still being pushed out tonight to 99s?,
+Is safety score failing to load for anyone at the moment?,
+How about HBO max on the entertainment center?,
+Ordered MY LR end of May. Still no Vin, estimate delivery now Oct 26 to Nov 6. 
+
+I feel like we've been waiting forever while seeing later orders getting theirs sooner. Really disheartening,
+This guy says 10.3 is dropping in 3 hours. Not sure how reliable they are. https://twitter.com/WholeMarsBlog/status/1451755891938627585?t=47CfSKxL2SQp9jP71GWb6g&s=19,
+Just a small rant: I keep seeing people complain about heavy reliance on touch screen in Teslas, yet neither Q4 and ID.4 have a play/pause button among their 14 (!) steering wheel buttons, although they have several buttons to “change the view” and other useless functions. 
+
+I think people underestimate just how good the scroll wheel+stalks work on M3/Y in terms of both relevancy and using them without taking your eyes off the road, where a grid array of buttons means you often have to look before you press, to ensure you’re pressing the right thing. 
+
+Ps: yes, one more wiper stalk function to change wiper speed would be great - the Tesla UX isn’t perfect but a HUGE step up imo.,
+Is this the emotional support thread for people who haven’t received FSD Beta yet? 😂,
+Well I’ve had a really bad morning. Had a single car accident in my model 3. It was 100% my fault. Was coming off the highway and didn’t realize the exit took a quick 90 degree turn. Hit a curb really hard. Snapped my front passenger wheel, rotor, and hub clean off and damaged my front bumper and quarter panel. Had it towed to a nearby service center and now will wait for the damage assessment, which will be substantial. 
+
+Apart from being devastated, I’m glad no one was hurt and insurance will cover this. But I’m wondering what the current status is if getting major parts from Tesla. Has anyone been in an accident and had to deal with repairs? Any clue what kind of lead time I’m looking at?,
+My fiance can't drive and our safety score is 89... I'm never getting FSD am I,
+Wen 10.3?,
+For anyone looking delay an order for the tax credit: I received my M3 SR vin yesterday with a delivery date of 11/5-11/11. I contacted support on the Tesla website and asked if I could put my order on hold until January. I told them that I was anticipating my delivery to happen in January (8/31 order date) because that’s what the website said when I ordered. They forwarded my question to my SA and within a few minutes he reached out to me and said they’ll put my order on hold until 1/1/2022 which is what my account page says now. I asked if this would put me in the button of the queue and the SA said “I see you wanted to delay your order. No, it won't push you to the back of the queue. But I can't give you an exact date. It would be after Jan 1 for sure, but I can't say exactly when. Should definitely be before March, but that's all I can say definitely.”,
+Just drove past the Kettleman City superchargers and all 95 are being used. Can’t imagine what it will be like when Tesla opens up the superchargers to non teslas.,
+I just ordered my 2022 Model 3 LR. Posting here purely out of excitement. I.CANT. WAIT. SO. EXCITED.,
+**Update: as I suspected, it was my microSD card reader - specifically, how it emulated a USB mass storage device**. It's a combo microSD/SD reader and it emulates a separate USB mass storage device for each slot regardless of whether there's media in either of them. The car was detecting the empty SD card slot and reporting the "no file system" error. The solution was super simple: I just stuck an old SD card into the slot so the car has something to mount, this took care of the error.
+
+After 2021.32.22, I have a constant notification alert that says “usb drive has no file system and must be unplugged”. Sentry and dashcam work ok anyway. It seems Tesla has stopped liking microSD adapters?
+
+Edit: whoever is downvoting questions in this thread is a dickfart. This is the place for questions.,
+Anyone stopped at the Lone Pine CA supercharger today? The map says “reduced services”….I’m heading up into the chilly mountains so I really need to charge there lol.,
+Does anyone know if there is a guide for turning a totaled Tesla battery into stationary shortage by hand?,
+Car updates to 2021.36.5.2 this morning and now it’s downloading 2021.36.5.1…what’s that about?,
+Since we don’t have an FSD mega thread here’s my experience. It’s like a game where the car tries to kill you and you have to react in an instant to prevent an accident. Super cool and I can’t believe I get to experience the birth of self driving cars but this is something I’ll be testing with minimal traffic and no one else in the car until it improves significantly.,
+Anybody else's Safety Score disappear and give you a message to try again later?,
+Has anyone experienced a sharp increase in forward collision warnings, lane correction warnings/actions, and emergency braking over the last week? I don't know what has changed, but in the last 7 days my vehicle has become extremely sensitive to everything and is throwing up several collision warnings and lane corrections every drive in really odd circumstances where it never has before. I even had my first ever emergency braking experience a couple of days ago for a turning vehicle that was no threat to me. It was so jarring and unnecessary that I've started to consider the dependability/viability of these safety systems. These numerous unprompted warnings are absolutely destroying my safety score as well. I've been driving Tesla's for 7 years now and these experiences are killing my enthusiasm for the company.,
+My Tesla App now thinks I live in jolly ole England.  https://imgur.com/a/vl95Ml4   Where's my Frunk?,
+Got my M3P delivered yesterday. On my way to work today it just decided to shut down and stop working. My rear motor gave out or something. Tow is gonna take an hour to get here and my roadside dispatcher is rather unhelpful. Can’t say this is a great start!,
+My Model 3 (Gen 2) keeps draining the battery at about 180watts of constant load.
+
+I thought it's Sentry Mode "exclude home" not working correctly, so I disabled Sentry Mode completely. After locking the car, the power draw dropped to 0-40 watts.
+But then I came back to the car a few hours later to make sure it's not vampire draining and it was again at 180 watts.
+
+Heat pump is not running. Outside temp is 11C-14C (52+ F).
+
+What the hell?
+
+Edit:
+Losing about 5% charge a day.,
+Got a Plaid recently but haven’t been able to see my safety score, the option is there in the app, but when I open it, it just shows all the things they score based upon and has a “- -“ as if I haven’t driven. 
+
+My model 3 has a score and updates after each drive tho. Anyone else run into this? I wonder if it needs a minimum total miles driven (Plaid is still less than 100 miles total mileage)?,
+PSA for anyone considering getting the [Tesla Pet Liner](https://shop.tesla.com/product/model-s_3_y-pet-liner), the door card protectors stick in between the glass and door panel and have a little tag on them that say not to be used with aftermarket tint because it will scratch it.
 
 
-The last earnings have been pretty negative. AMZN currently sits beaten down pretty far from it's all time high. I think this earnings if they are good will send it up.,
-I have only read on Reddit rumors that AMZN may be compelled by Monopoly Trust regulations to sell-off AWS and that AWS would spin off like Paypal had from eBay.  
 
 
-Have you heard the same?   
-I would imagine it would leave AMZN less valuable.  
+On a side note, the quality is really not what I expected for $145 and will be returning it. The $25 pet bed hammock I got from Costco feels like much higher quality fabric and fits the seats in my 3 much better than the one from Tesla. Definitely disappointing.,
+What has been the timing in the past for the “welcome to the beta” emails? I’ve been sitting pretty at a 99 safety score for weeks so hoping I make the cut. Any indication as to whether or not the push scheduled for today/tonight is still happening?,
+anyone know if safety score is based on midnight Friday pacific time or eastern time for making the cut?,
+Had to turn off AEB and FCW after 10.3 update. Tesla said that 6 others had same issue and they are working on a hotfix. Sucks because I have to drive 14 hours today with no FSD on the highway.,
+Downloaded fsd 10.3 this morning, normal morning commute, just now driving home fsd not working on streets despite soft reset. On highway after engaging autopilot it freaks out and tells me to take over immediately, highlights car in front of my red. So I decided to drive without it. Driving manually, in traffic, on highway, automatic emergency braking just activated nearly causing an accident. Can I still drive to work tomorrow?,
+We might want to consider a Pinned daily thread for FSD Beta comments.
+
+As for FSD 10.3... I'd like an option to avoid unprotected lefts onto busy roads. Any road with more than two lanes or a speed faster than 35mph.
+
+So it would prefer either right turns or left turns only with a light - preferably with a turn arrow.,
+Does Tesla's focus on FSD mean that development of the "regular" non-FSD car software has stopped?
+
+It feels like it's been quite a while since the last update, and that several previous updates have had extremely minor, or no, changes.,
+I’ve had my Y for almost a year now. Had first service appointment a week ago. Process was so much smoother than any other auto I have owned. I went because my car told me to schedule service, so I didn’t know how long the repair would take. Got there at 10:30, and was walking out with a loaner 10 minutes later. Car was repaired by 5. It was great. I can’t see myself ever owning anything but a Tesla.,
+Is Tesla continuously rolling out beta to new drivers? I feel like I am seeing more people that meet the requirements that aren’t getting in now…,
+Just got an email being invited to FSD beta! Not sure which car it’s being pushed to, but I have 100% on both cars. Got a single email.
+
+Edit: Pushed to both of my cars!,
+Are Tesla’s delivered with a partial battery charge?
+
+Mine will be delivered soon, but I don’t have my 240v outlet installed yet.  So, I’ll need to immediately drive to the nearest supercharger, about 10 miles away.  Are they delivered charged enough to do that? 
+
+It’s also not clear if the truck can fit down my driveway, particularly if it’s a big 53ft trailer, so may need to just have them meet me near the Supercharger, perhaps.,
+Just now they pass the infrastructure bill through the house. Does that mean the tax credit is coming?,
+How much would a dent like this cost to fix? 
+https://i.imgur.com/6iQzNfS.jpg
+
+For context, I parked my car in a parking lot and had a parking brake malfunction so it rolled backwards and hit a parked Tesla. Found the dude inside the restaurant and traded information. I'm hoping I can just pay him for the repairs or something so my insurance doesn't go up. What would the cost of this repair be like?,
+My safety score just jumped from a 98 to a 99 as of today at midnight. Any thoughts on if/when I will get FSD beta 10.4?,
+UPDATE: Drove it down to 6%, left it an hour and charged (for the first time ever) to 100%. It reads 284 miles. It’s a 320 mile long range 3. That is a tremendous amount of degradation for 15K miles driven. 
+
+I know this gets asked a lot but is there anything you can do for diminished range? My 2020 LR 3 is at 255 when charged to 90%. Considering it’s supposed to be ~320, I have definitely noticed a huge reduction in range. 
+
+16K miles btw.,
+Tesla used to have an "executive review" contact form, as explained here:
+
+[https://electrek.co/2017/08/17/tesla-owners-escalate-issues-executives-communications/](https://electrek.co/2017/08/17/tesla-owners-escalate-issues-executives-communications/)
+
+Is this still available? My year-old model X currently has *ten* separate faults, and is waiting for its *fifth* service, of which the earliest available was mid-December, and I am so close to seeking legal help for a Lemon Law return.
+
+Is there anything I can do to get Tesla's attention?,
+Have any 98s received the Beta yet? I just had a bad day roll off and I'm now at 99, so I'm paranoid that it's like a *just* 98 release,
+I ordered a Model 3 LR in September, and the estimated delivery is December 17-31. I still have only a registration number. no VIN yet.  
 
 
-Funny how Bezos left and the stock has been flat since its run up in 2020.
+The order price of the LR at the time was $49,990. I see now the the LR is $50,990.  
 
-Its still a very valuable company with tons of revenue and profit.   
-I think holding and buying more is less risky than selling over the next 5yrs.,
-Over the past year, it’s seemed to have bounced between 3180 and 3550 pretty regularly.  So when it hits the low, I get calls, and when it hits the other, I sell and buy puts.  Have done ok.,
-What do you think about AMZN after today's earnings?,
-This stock has been flat for years 
 
-The hilarity about this are the analyst forecasts every year of 4000-4900 a share
+I'm curious if I'll be receiving a 2021 or 2022, and if anyone would have insight into that. The price change after I ordered would lead me to believe I'm receiving a 2021, but the fact that others are receiving VINs before me indicating they're getting a 2022 and the fact that I have yet to receive a VIN would mean I'd receive a 2022 as well. Especially with my delivery possibly spilling into January '22. Just looking for any thoughts!,
+I've had my 2020 Tesla Model Y LR since October of 2020, and it now has 36,000 miles on it (my wife ubered with it for a while). Battery capacity was 320 miles on purchase, and is now 290. That comes out to a 9% range loss, and I was under the impression I should see around a 5% loss at this point. I found calibration instructions online and did that. That helped, as before it, the range was down to 280. But after calibration we're now at 290. That still seems pretty low. Should I be concerned about that range drop, or talk to Tesla? I know the warranty is 70% retained after 120,000. This is on track to be right at that line. 
 
-Fair value is below 3000
+Thanks!,
+My 2021 tesla model Y was broken into today.  I had sentry mode on and have recordings before and after the incident.  But no recording of the actual break in.  The thieves shattered my rear window and took stuff out from the trunk.  On the recording after the incident you can even see the broken glass on the ground.
 
-Like apple and their 6 billion hit we are being told and controlled by the analysts to shrug it off (until they hit sell)
+2 questions here:
 
-When a stock hits VERY rough patches like aapl & amzn recently and doesn’t sell off you should be very worried about increasing positions at these prices and you should take some profit imo
+1) why wasnt I notified on my app when the glass was broken?  Shouldnt the alarm have gone off?  I get notifications for everything else.
 
-No crystal balls here just common sense 
+2) why is there no recording of the actual incident?  I have a 10 min recording at 2pm of people in the mall parking lot, and then a 10 min recording at 3pm showing the broken glass on the floor.,
+Just got an explanation from my insurance for why my one month old model 3 p isn’t totaled. $40k in repairs. They’ve put the current cash value of my model 3 at $69k. Almost $10k more than I paid for it. Crazy. This repair is going to take forever.,
+Bought a whistle and my credit card was charged and got a confirmation number but when I try to track the order it says can't find my order and no email confirmation was given. Did my order go through or not?,
+Getting 500 Server Error from the IOS app.  Is this just me or is there a wider outage?,
+Amidst all the safety score hullabaloo, did anyone notice that the updated Tesla app *finally* fixes the error where you share an address to the app and it tells you it can't send an address to the Powerwall? If you only have one car, it goes to that car no matter which product is selected. Amazingly common sense!,
+What's the update with the Sandy Munro Plaid teardown that the community crowd sourced funding for? Is the car ordered? Delivered? 👀,
+So my friend bought a model 3, and while waiting for it, he was informed from Tesla that he will have a smaller battery, with a discount.  
+Now that the car has arrived, how can he find which battery technology does he have (LFP or NCA)? Is there a sticker or something?  I have found on a post from 2016 that you can find a sticker at the front right tire, but again, that's for model S and 2016.,
+I just took delivery of a 2016 P85D. The car is awesome. I did notice however that every time hit bump in the road the headliner makes a plastic-y creak and it's driving me nuts. Any idea how to fix?
 
-When squid game fake money is up 2000% and dog money goes boom you should be very wary about the overall market despite Ari Gilvert,
-If the debt limit ceiling by this week coming up there will be a government shutdown and in that case the market pullback so much it won’t even be funny,
-SPLIT the STOCK.,
-Nope. Jeff isn’t interested. And he is chair of the board. The board has to approve such a move.,
-Nope,
-Heard through the grape vine Berkshire Hathaway may join the mix,
-I think it is rebounding boys.,
-Why are you throwing money away?
+Edit: fixed it by greasing the rubber liner on the pano roof.,
+Hi guys, I left my Model y charging inside of my garage and I noticed my MY is humming and there is a funny smell 2 hours in. it's not a burning smell, more like electronics smell if that makes sense (similar smell to a cramped computer servers room).  
+  
+I have inspected my 240v outlet, electric board, and the UMC, but cant find the source of the smell. so my only guess is that the smell is coming from the car trying to cool things down since it's humming quite a bit.  
+  
+Has anyone here encountered this? Not sure if this warrants a call the SC. it's not a pleasant smell.,
+Hi! I am an American currently living in South Korea and have really been wanting to purchase a Model 3 Tesla. I talked to a local Tesla dealership, but was not able to get all of the answers I was looking for. Disclaimer: Before I get flamed, I would like to say I tried researching this to get the answers myself, but had no luck.
 
-McKenzie is selling off a billion dollars worth a month and will continue to for the next few years.
+Onto my question, I heard South Korean Teslas have slightly different Specs than North American ones and if I plan to move back to the United states eventually, is it possible to order a NA spec one to be shipped to Korea, or is it better to just buy a Korean specced one and have it sent back to the states when I decide to move? Also, is it even worth to do this? Or should I just buy a Korean specced one, sell it when I move, and then purchase another when i'm back in the states? My main worry is not knowing exactly what the difference in specs between the two models are and if it would cause issues using the vehicle between different countries. Any answers or opinions are greatly appreciated! Thank you!,
+[deleted],
+What is the quickest way to defog the windows? I tried using the button for it but it never actually defogs fast enough.,
+Got into my car this morning only find the screen black and won’t turn on as well as the car unable to drive. 
 
-AMZN is going to remain pretty much pinned until she is done.,
-Strike price?,
-I wish I could afford even one AMZN dec call. Played myself on weeklies,
-I am just holding my first buy and then i just keep shorting on day to day basis. Gotta re-coup my losses. T-T,
+Had to reset for the car to boot up.
+
+What the fuck?,
+Did anyone notice after the last update the autopilot is operating a little differently? Sometimes it will ask me to put pressure on the wheel with the flashing on the screen like normal, then when I do it goes away. Totally normal. Then like 3 seconds later I get the beeping notification as if I never put pressure on the wheel.,
+Often I cool our model Y for a little while before leaving. Is there a way to keep the AC going when I get to the car? Often as soon as I walk up to the car, the AC will turn off and if it takes a minute or 2 to get everything loaded in the car, it gets pretty hot again.,
+I downloaded the 10.2 beta this morning and my first and subsequent drives I was unable to use it. Only see “autopilot cameras unavailable” the entire time while driving. Any idea how to resolve?,
+Yesterday while using autopilot with a follow distance of 4, I got a FCW and (I think) it showed an "auto emergency braking" warning.
+
+The car in front slowed down faster than it probably should have, but it seems strange that autopilot couldn't handle that on its own and emergency braking needed to handle it.
+
+Is this normal? Has anyone else experienced this?,
+Model Y is scheduled for delivery next week. Does it come with a USB stick for the dashcam or do I need to order one?,
+Anyone know what whining sound a Model 3 might be making even with the   
+12v battery disconnected?  It's a 67F day here so there should be no   
+battery heating or cooling.  Is it an inverter trying and failing to   
+charge the 12v battery?  How quickly will that run down the main pack?    
+(Long story short my 12v battery died and I'm waiting for Tesla mobile   
+service, just curious).,
+I'm considering a new M3 purchase, but only plan to drive it ~75 miles/week due to my short commute. Anything I can use to show this is (even somewhat) financially justified and not just a vanity purchase? Currently drive a 7 year old Corolla that runs OK but am bored out of my mind driving day in day out. I also live in a cold weather climate.,
+When getting into Model 3, only the front speakers work, I need to do the soft reset with the two wheels to bring back the full sound.
+
+When only the front speakers are working I also don't have the immersive option on audio settings.
+
+Any clues?,
+2021 SR+. Software 2021.32.21. So vision only. Anyone experiencing worsened autopilot freak outs lately? It will hard break and alarm with shadow of overpasses on sunny days consistently. It will also do same when passing semi truck on right. This morning also had weird thing on freeway where no one was around but it slowed down, sped up then slowed back down. 
+Just want to know if I’m alone with these freak outs,
+So from my understanding Model X 6 seaters are the only ones getting delivered this year?,
+My Safety Score and “the button” disappeared about a day after I drove to Canada for the weekend. We returned to the US last night, but they’re still missing. Does anyone know anything about this behavior? How can I get reinstated into the beta request queue?,
+i charged my car 250 kwh last month and it cost me 24$,
+Has anyone had issues with their phone key not working lately?,
+Anyone else in fsd dealing with super abrupt and unnecessary AEB? Taken dash videos and snapshots where fsd slams the brakes at the same spot every time. Reviewing the footage it looks a lot less dramatic, but hearing several different alarms and a brake that ignores intervention is terrifying, especially if it's repeatable.,
+I am physically crying! I ordered a Model Y in July and the advisor change my delivery destination to the new dealership and that put my order all the way to MAY! I have no car to get to work in the winter. How can changing where you pick it up screw up the time of delivery. The dealership are 20 miles apart.![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)![gif](emote|free_emotes_pack|facepalm)
+
+![gif](giphy|SUWHc36Fx6itgqELHw)
+
+Update: Advisor Marino fixed the problem this morning. I’m back to original delivery date! Dodged a bullet on that one.,
+MYLR black, induction wheels ordered 8/3/21 in socal. EDD updated to MAY 2022 this morning! My date was Nov19-Dec09 last night. Surely this must be an error right? May is the delivery date if you ordered a MYLR today.,
+Has anyone else had a really bad experience with FSD beta? I haven’t tested it extensively, but it’s scaring the hell out of me so far (I am always attentive and have both hands on the wheel, as expected). 
+
+It has made sharp turns out of nowhere when there is no reason for it to do so, tried to make a hard left when I was first in line for a right turn (with NoA enabled) and even freeway autopilot has seemed to get worse. 
+
+Still super excited to keep testing it out and grateful to have the beta, but it’s been nothing like I’ve seen on YouTube.,
+Anyone found a way to keep AP working on beta after leaving the car other than letting it idle/sleep for a while?,
+Headlights no longer automatically turn on in the rain. Not sure if this is new since this is the first time I’ve driven in the rain in a while. I’m in a Model 3 running 2021.36.5.2.,
+[deleted],
+Just a rant, extremely sick of getting me EDD pushed back on my refreshed S. Very annoyed,
+Has anyone determined if the Safety Score uses the rolling period now that it has been out more than 30 days. My first few days was pre-android receiving the update so I wanted to see how well I was on it, it wasn't bad but now my scores are almost constantly 100s with a current score listed at 98 and am wondering if I reach 99 in the next couple of days will it just push the update?,
+We had the rear tires on our 2018 M3 LR (18” Aeros) replaced because one got a nail in it while we were on a road trip 400 miles away from home.  We worked with a local tire shop to get the job done as quick as possible. I asked for the Michelin Primacy MXM4 which was the original equipment, and the dealer claimed he could get it.
+
+Once the tires were replaced, we were already 1 day late on the return from our trip so we had to pick up the car and go.  When I picked it up, it turns out he had replaced them with the Primacy Tour A/S instead.  I just needed to hit the road so I didn’t raise a fuss.
+
+The recommended pressure is apparently different on the Tour A/S.  When we picked up the car it looked like they were all pressurized to 32psi, and the Tour A/S has a clear indicator on the sidewall the maximum pressure is 44psi.  Our original MXM4s were typically pressurized to about 42psi and have a max rating of 50psi printed on the sidewall.
+
+This freaks out the tire pressure warning system in the car, so the warning indicator light has been on for a couple months now.  I suspect the tire dealer knows what they were doing and 32 is the recommended pressure.  If not, what is?  And if that is the right pressure, how do I make the M3 stop complaining about it?,
+**Would my Tesla have crashed into the packed highway of stopped cars if I hadn't slammed on the brakes first?**
+
+Last night I was driving my new Model 3 AWD home using Navigate on Autopilot on a clear highway at 74mph and suddenly came upon road construction that had caused all the cars on the highway to be at a dead stop. (There were no flashing lights. The construction was way ahead of the stopped cars.)
+
+I waited a while for the Tesla to slow down, but it didn't. Ultimately, I applied the brakes aggressively and all was good.
+
+If I had been gazing at my navel instead of paying rapt attention to the road, would the autopilot have slammed on the brakes in time to avoid an accident?
+
+I'm just curious: I know that I'm supposed to be paying attention, which is why I was. Also, it being night, it was rather difficult for even me to visually parse what was going on. I just knew that a sudden sea of red tail lights could probably not be a good thing to be venturing into at 74mph.,
+New Model S with Yoke, picked up Sat. Is there no following distance update on the wheel? That is critical in LA traffic. Watched the model s instructional video and they say you have to go into the menu to adjust it. Anyone else noticed the same?,
+Anyone know how the Tsportline TSS 19" (arachnid lookalikes) compare to the stock Model 3 wheels in terms of efficiency? Mostly interested in comparing against the 19", or the 18" without aero caps.,
+Anyone having issues with Caroake? I can’t get Satisfied from Hamilton to play at all.,
+How accurate are the delivery estimate dates? MY is almost 12 months out,
+Before the pandemic I was seriously considering buying a tesla and was keeping tabs on build quality issues, specifically the paint. During the pandemic my driving went to zero and lost any need to shop for a new car. Now though, I'm starting to drive more and am going back into the search on how the build quality and paint have (or have not) improved.  
+Have there been any improvements or are there still quality issues similar to that of early 2020?,
+I can’t believe Carvana wants to give me $48k for my SR+ Model 3. Considering ordering a LR Model 3 to be delivered next month. It really doesn’t make sense not to as I’ll be paying roughly the same with the extra cash from trading mine in.,
+Is there a minimum number of trips you need to get the FSD beta if you have a score of 100 for 100 miles driven?
+I opted out and then back in this weekend and after 3 days of driving I reached an average score of 100 with more than 100 miles driven- but I haven’t received the update for the FSD beta yet,
+I recently sold my Model 3 for a MY and after picking it up on Saturday I’m no longer getting any kind of notifications about my car. Not even charging ones. Any ideas?,
+Got rear ended in my M3,, just some scratches and a broken reflector. Take it to any body shop, or go through Tesla?,
+How long after reaching a safety score of 99-100 are most people getting the beta invite? I’ve been at 99 since last Friday (Nov. 5th) and yet no email or update showing up.,
+Baby car seat protector and cleaning recommendation for white interior Model Y advice
+
+Is there a recommended seat cover to prevent damage from the base of the baby car seat?  
+What is the best way to maintain and keep white interior seats clean? I used a magic eraser to get rid of a black stain from my pants and worked amazing, but I was told it cold heavily damage the seat. Is there a preferred wipe or spray and cloth?,
+Anyone know why my safety score is no longer visible on the app? We were sitting between 95-98 and now the menu option is gone. I’ve reset the app with to effect.
+
+ETA: just upgraded overnight to 2021.36.5.1,
+Just ordered a Model 3 (looks like April delivery date) and I only have 120v plugs in the garage. I was thinking of just getting the 240v outlet installed and just use the NEMA adapter, but now I'm considering the wall charger from tesla's store. Anyone have an opinion on which to get?  
+  
+Also a little nervous will all the posts about missing usb ports and wireless chargers. I'm going to have to fly to Saskatoon, Saskatchewan (Canada) and drive my car back to Winnipeg as they no longer ship them to Winnipeg as of approx. a year ago. If the the missing ports and electronics are to be installed later I guess Tesla makes a house call?,
+Tesla app keeps changing max % charge. I want 90%. I set it to 90%. I reopen the app and it shows 91%. Anyone else have this issue???,
+What's the latest on the Build Back Better Act? Are tax credits retroactive as of May 2021 in the latest bill?,
+My delivery was recently put on hold, but I'm now ready to take delivery again. If I click the button "I"m ready" on my account, am I restoring my previous position in queue (which was roughly a few weeks away from delivery), or do I go to the back of the line? Anyone else with similar experience?,
+Going to look at a Tesla at a used car dealer. Dealer called me and said they can’t move the car it won’t drive at all. They have the credit card key but they think it’s linked to the previous owner still? The salesman said he called Tesla support but couldn’t get anywhere. This sound right?,
+Does the Tesla Powerwall provide power to the house ONLY during blackouts, or does it work all the time (constantly charging from the grid and providing power to the house)?
+
+Does it act as a whole home power conditioner?  Does it prevent black and brownouts, prevent against surges?,
+Are there people who DIDN’T get PPF / XPEL on their cars and don’t regret it? 
+
+I’m expecting my MY in Jan/Feb and trying to think about everything I’ll need when I take delivery. I see a lot of people suggest PPF. Is the paint on Teslas really that bad? I am not a “car person”. I’m not too concerned about resale value. I go to automatic car washes. I do plan on getting mud flaps. I’m in the Dallas area and drive maybe a couple of times a week (I don’t commute for work).,
+How come I can never wake my car up from the Tesla app it’s very rare that it actually connects. I think I might not get cell service in my garage but I am connected to Wi-Fi. Is it just completely useless if you don’t have cell coverage?,
+I'm struggling to figure out how even with no scheduled charging or climate my M3 is still warming itself up.  And it's not even happening at the time I would have set it for work.   This a known thing?   Is there a way to basically disable schedules?,
+I just got my Model Y yesterday (2022) and its wireless charge pads aren't working and it's missing usb-c ports in the front. None of this was reported to me in the initial inspection. Has anyone else had this issue?,
+FIL has a 2017 Model X 75D, which I recently got updated to 2021.36.5.1. The car is set to receive advanced updates. It has AP3 and MCU2. 
+
+I am seeing that lots of people are running 2021.40.x.x and this version is required for the live sentry view. Does anyone know why it wouldn't update to a .40 version? Where can I check what the latest version for a specific model car is. 
+
+The car is parked in a garage with Wifi access every day. Not always plugged in overnight but SoC above 50% if not plugged in.,
+Silly question but the EV credits seem to make the LR model 3 cost $15,000+ less than the performance, because the performance costs too much (cap is at 55K). Is that right? I was fine with paying a little extra for performance model for fun, but that gap is huge now. Is this right ?,
+Hey Guys! Just took delivery yesterday and I am loving it so far. Im new to tesla and EV in general and I had a few questions. 
+
+I had the wall connector charger installed at my house. On the app, Im able to change the amps down from 48. Should I be adjusting this? Why? Also, is 80% still the recommended charge for everyday use, or can I go higher?
+
+I've noticed that a lot of you are able to access your cameras from the app. Mine doesnt let me yet, and it appears my M3 is still on the previous software version despite me changing it to "advanced " is this normal?,
+Two quick questions.
+
+1. I started a drive this morning after charging all night and 60 miles came off of the capacity in addition to the miles that were driven. I wonder if this is normal or not. I am now charging and 90% battery is almost 60 miles less than normal 90%. Has anyone experienced this and should I be worried?
+
+2. Also, this morning on the long ride I noticed a hum-like noise on the floorboard/battery and wondered if this could be related.
+
+Any help is greatly appreciated!! This is all in addition to control arms being messed up and needing to be looked at 😅 and the Tesla app won’t work for me to schedule an appointment.,
+Is there anyone else on FSD beta 10.5 that thinks the left turns are just absolutely awful? It just tries to run over the median over and over.,
+Does navigating to a supercharger from far away waste energy heating up the battery too early? I'm in the middle of a winter road trip, and I noticed that it says it's preconditioning the battery while we're still two hours away from the charger. I'm worried this is burning extra energy that I need to save for driving in the cold like this, so I've actually been navigating to a spot near the charger instead of the charger itself to trick the car into not preconditioning the battery. 
+
+Is that worth doing? Thanks!,
+I did my first 'Road Trip' yesterday in my 2020 LR Model 3 (June delivery - 17K miles on it) and I have to say that either something is wrong with my car, or Tesla's aren't built for what I did which isn't terribly demanding.
+
+I did a Thanksgiving round trip from Las Vegas, to just outside of Cedar City, UT. Total trip length in one direction, roughly 175 miles. Weather in Las Vegas was mid to high 50's, requiring no heat on the inside of the car at all. Our plan was to drive to St. George (About 125 miles) and add a little juice so that when we came back, we would not have to worry about charging.
+
+Charged to 100% (which I don't normally do, my thing is set to 87-90 depending on how lazy I am when I dial it in) - and it read 285 miles on the battery life. Not ideal considering it's a 320 range vehicle (or supposed to be). 
+
+Anyway, we head off. Me, my wife, and three kids (2, 7, 10) in the back. The drive itself is as comfy as normal, but I notice that the battery is just dropping like crazy. We got to St. George (125 miles give or take) with 31% battery life remaining. We charged at the Supercharger up to 90%, then headed up the last 45-50 miles). When we arrived, we were at 56%. The weather was definitely colder here, in the mid-40's when we arrived - but our heat inside the car never went above 70.
+
+Fast forward about 8 hours and we leave and I'd dropped down to 50% for the ride home. Punched in the Supercharger again because I knew we wouldn't make it home on the 50%. The weather had dropped a fair bit since then, down to low 30's - but we still didn't go over 70-72 degrees in the cabin. 
+
+We drove down to the Supercharger and were at about 37%. Charged it up to 80% and headed home the 125 miles, and got home at exactly 20% (which the car estimated when I put in my home).
+
+Anyway, what normally takes about 4.5 to 5 hours to drive ended up taking around 6. 90 minutes to the SC, 40 minutes of charging, 45 minutes the final way then roughly the same on the way back. Made me rethink this vehicle for future trips.
+
+I don't know if the cold had that much effect on the car - again it wasn't insanely cold especially for half of the trip - or if my car has suffered pretty bad degradation in the 18 months I've owned it.
+
+Anyone else have a really poor road trip experience with a battery not living up to what you'd expect?,
+My god, all the superchargers in my area today were full and there was a 15-20 min wait on ALL of them for a stretch of several hours. Never seen the supercharger icons on the map in a wait status, crazy how popular Teslas are becoming. I guess people really wanted to take advantage of the free Supercharging.,
+Has anyone in CA gotten carpool stickers since applying post august?,
+What is the servicing support like for Tesla? My current car is almost 20 years old and I’m able to get replacement parts for it, if I had a Tesla, what happens in a decade or two when the battery pack has chemically aged to the point I’m not getting as much range as I’d like, would they still be producing replacement packs or offer to revitalise it in any way? I wouldn’t expect warranty to cover it I’d be happy to pay for it, but I just want to know if the option would be available from Tesla,
+Can anyone with a recent purchasing experience provide insight on financing - purchase process, credit check?
+
+We ordered a MYLR in early September and applied for financing, credit check was done, and application was approved. About 2 months later (some point in November), I was checking the Tesla account and it says my credit application was expired and I needed to apply again. 
+
+Should I have waited til I had a delivery date before applying for financing? My EDD was initially end of December, but now it is showing end of Feb/Mar. Wondering if my EDD got pushed back because my financing application had expired. Don’t want to keep doing a credit application that’ll expire in 60 days (and I’m guessing a hard pull each time I submit?) when my EDD keeps getting pushed back,
+Don’t suppose anyone knows if the 3/Y revert to a narrower IC panel is ever going to happen? Ever since the visual refresh, I’ve been missing my bigger map. I thought Elon said a configurable option was coming?,
+Taking delivery in a week and have a question on GPS nav. I know when you put in a destination for a road trip the GPS shows where to stop to charge. If during the trip you use more battery than expected, will the GPS auto-update the trip to have you stop earlier to charge? Or do you have to cancel the current trip and restart it to the same destination for it to recalculate charging stops?,
+FSD is so bad, it’s not even remotely close to any sort of prime time. I was always one of those people upset I still didn’t have it reading comments like this one. But man it’s bad and dangerous,
+Today was [delivery day for our MY](http://imgur.com/a/kcfEOY4)! But I'm really confused. There are supposed to be panel gaps as bad as an '87 Hyundai, paint blemishes, and random parts hanging on by sheer luck. They even delivered it to my house, wtf. To be fair, the super friendly Tesla guy was 15 min late, so at least the horrible service reputation holds true.  
+
+In all seriousness, this thing is awesome. Going to be jealous of my wife in my pedestrian Model 3 😂 AMA if you have any questions. LR 7 seater, ordered end of June, Northern Virginia.,
+It’s frustrating to see people asking for advice and others saying “just stop into a service center”. Not everybody lives in high density areas like California or Florida. Some of us are hours from any service center and it isn’t as easy to pop in to ask questions.,
+We've been having serious vision based cruise issues.  After 8,000 miles on our 2021 Y now we are seriously considering getting rid of it. My wife's daily commute is about 25 miles each way on this stretch of road in the video. It is constant hard braking events, audible beeping, and behavior shown on the video. The problem is worse at night but happens every drive in the day as well. We were hoping for an update to resolve the issues but no improvement. Literally just this morning the car hard braked 5! times for passing cars (20+mph speed change).  
+  
+Of course we tried to schedule a service appointment and it was cancelled. Is anyone else seeing this behavior or is there something wrong with our car? We are at a loss at this point since Tesla won't help.
+
+https://www.youtube.com/watch?v=20ETPyzjc\_U,
+[removed],
+Copying this from a previous thread
+
+
+When I enable text message syncing in my 2018 Model 3 with Pixel 4XL, several strange things happen.
+
+1.) I get alerts for old messages instead of the message I actually received. When this happens, it can pull up old messages from that contact, or it pulls up texts from months ago from unrelated contacts.
+
+2.) text message syncing frequently causes MCU crashes requiring a restart. 
+
+Things I've tried: Enabling smart lock on android to keep the phone unlocked. Deleting the Bluetooth pairing and pairing again. Removing my phone as a key and pairing again. Reinstalled the Tesla App.
+
+This issue has persisted through multiple software updates and after trying to report the issue to Tesla to get diagnostics of some kind, they told me to just do a bug report every time it happens.
+
+Any help is appreciated,
+**WiFi sapping all available DSL bandwidth**
+
+Didn't notice this at home since I'm fibre connected and have a 1 gbs connection, but here at the cottage, until I receive my Starlink dish, I'm still on DSL :-( Today the internet was really sluggish and after troubleshooting why, I figure out it was my Model 3 :-( My ping time to 8.8.8.8 (Google DNS server) is about 25 ms on average normally but when I connect the car to my WiFi, this shoots to 1000 ms (1 sec) and above. 100% reproducible. Disconnect the car from WiFi, back to normal, reconnect it, after a few seconds, back to +1000 ms. I already have 2012.32.21 so I doubt it's downloading an update. Anyone know why the car is grabbing all my Internet?
+
+Sentry mode is ON and I'm testing a bunch of apps, Teslafi and Teslascope cloud services, Tezlab and Optiwatt on Android. Could it be that all these apps are causing constant polling of the car's stats, flooding my network outgoing stream? That one is only 500 kbs (rememeber, D S L).
+
+For now, I've disconnected it from the cottage's WiFi.
+
+Thanks,
+Bought a Tesla with a tow hitch. Didn't get a tow hitch. Do I just schedule a service appointment to have them install said tow hitch?,
+Which USB ports in the Model Y are for connectivity and which are only for charging?
+
+(I’m studying up on the Tesla Prep checklist for my Model Y delivery in a few weeks and wondering whether I just need to verify that my phone charges when plugged into the port, or I need to actually verify that the car sees my phone.),
+Regarding safety score: if I use my 3 Performance and slam the accelerator to 60 but come to a stop slowly, safely, and don’t hard turn at all or get too close to any other car theoretically my score remains 100 right?,
+We're have an issue with our Sept 2020 model S. Where regardless of the fan speed set there is practically no airflow from any vents.
+It can sometimes be temporarily resolved by kicking it up to 11 for a bit and then lowering it back down to our normal speed and it will work properly, even when set back to auto. Untill the following morning where it will be stuck again at no flow.
+Recently tonight we ran into even 11 having little to no airflow. But we could clearly hear what sounded like the fan operating at full speed.
+
+Could this just be the cabin filter already needing to be replaced, or something more serious?,
+If my wife drives under her car profile will it affect my FSD beta score? We only have a single Tesla account so she's logged in on her phone as me.,
+Anyone see a spike in insurance rates lately? My 6 month policy in my model 3 just went up $119 with progressive.,
+Can anyone with the keyfob speak to if it works any better than the iPhone key on 3 or Y? My phone seems to fail to unlock the car one out of every ten or so times. The fob is not cheap so I'd like some confirmation that it will actually solve that problem.,
+Anyone else notice that in the last few updates that satellite maps are dimmer in night mode?
+
+Not full night pictures, but a nice touch.,
+How often should I get my tires rotated? I've read online that for ICE cars you should get them rotated every 6 months or 6k miles. 
+
+I've had my 2021 Model 3 (SR+) for 6 months now, but have only put in 3k miles on it. Should I get them rotated now, or wait until I hit 6k miles?,
+Just ordered a MY finally, with an April delivery estimate. For people who have taken delivery recently, how accurate was the delivery estimate from when you ordered? It's amazing to think there are ~250,000 orders in front of me. Do you think the delivery estimates are only from Freemont and will come in a bit as Austin ramps?,
+Are there any pros or cons to buying a used Tesla from a dealer other than Tesla?,
+Why doesn’t immersive audio show up for me underneath the EQ settings? Do I need to be streaming immersive audio for it to show? Bluetooth? What’s the deal?,
+Can autopilot do an evasive action to avoid collision with oncoming traffic? 
+
+2021 Model Y Long Range. Software version at the time of the incident: probably 21.4.18. 
+
+During a road trip, I was autopiloting on a two-lane "highway" without barrier or median, just with double yellow centre line. On a slightly steep right-turning section, there was a big lorry ("semi") was oncoming. When it came closer, I realized its left tires are treading slightly over the centre line. 
+
+But, to my surprise, autopilot did NOT budge an inch to the right (at least it looked like to me) and just kept driving on the exact centre of the lane. I knew we will not collide head-on at least but as the truck passes by, the rear part of it was coming closer and closer to me, while my tesla was just driving as if nothing was happening. For a moment, I was kinda frozen, not that I was fully trusting autopilot, it was more like I just panicked momentarily. "Luckily" we just passed each other without incident. I got a praise from my wife about my calmness. 
+
+After I reclaim my real calmness, I started wondering whether that was just a "luck", or autopilot knew that it would be ok. Or it actually took a slight evasive correction when the rear part of the truck was coming closer but because it was so tiny that I, human driver just didn't notice? I really hope that was the case. What do you think, guys? 
+
+Regardless whether it has a capability to do an evasive steering in such a short moment or not, I think Tesla should improve the autopilot to make the driver more "comfortable", like make it move slightly to the right-hand side of the lane when there was oncoming traffic, even though there was no risk of collision.,
+I just bought a Tesla 3 and am trying to figure out how to wirelessly charge my phone from the console. Do I need to buy an accessory for this or does it come with the car?,
+I’m looking to order a model 3 LR in the US. I currently live overseas and will be stateside end of December. I’ll need the car as soon as I can but if it comes early, I wouldn’t want to burden a friend with taking delivery.  Should I wait until the website estimates delivery in January? Or would that put me at risk of waiting a long time?,
+Can Tesla Mobile service mount new tires? I'm thinking not, that I'd have to go into the service center for that.,
+I have my first mobile service scheduled soon for a tire rotation, and I had a few questions about how much, if any, support they require from you. I originally had it scheduled for tomorrow but they had to cancel on me because the technician was sick, so I can’t guarantee i’ll be home on the rescheduled day. If a family member was home with little knowledge of Tesla, would the service still be able to get done easily? They’ll know how to unlock it, lock it, which I figure should be enough since the technician obviously knows Teslas. Just wanted to ask around to see if anyone advises me being there for a simple tire rotation,
+How do I get in contact about billing? I got charged twice for something.,
+Is it normal for my battery to drop to 58% and charge back to 60% every few hours when plugged to a 32AMP Gen3 Charger?   
+
+
+Link to Battery graph: https://imgur.com/a/vqoce5J,
+My '21 MY AP and Navigate on AP are not adjusting speeds up or down consistently as the speed limit changes. Sometime it does, but most times I have to touch the speed limit button on the display for it to speed up or slow down.  This is somewhat of a serous problem when the speed drops from 55 to 45 on a known speedtrap part of a highway. Am I missing something?,
+What's the best aftermarket floor mats for a Model Y driven in WI?,
+My credit application got approved and it’s asking me to confirm the terms, which include a 22k down payment. I won’t have the money for another week though. If I confirm do I have to pay right away? I don’t know what comes next after I hit submit. Any help greatly appreciated,
+Has anyone driven a model Y in Tahoe during a snowstorm? Wondering how they handle in bad weather and if people feel there are enough superchargers up there.,
+I got the following notification last Saturday, on my M3
+
+>DIa179  
+Steering alignment service recommended  
+OK to drive - Schedule service soon
+
+Service advisor(Tesla) wants me to replace the rear tires since tread depth is very low and an accurate alignment can be done only after tire replacement.  
+My M3 odometer reads 4.5miles. 1.2 years old.  
+I understand the tire tread can wear due to bad driving habits, but also from incorrect mounting of tires(I had replaced 2 of the tires last November(700miles then) and tires rotated.)  
+I suspect that the the **early** tread wear could have been due to wheels not mounted rightly during my last service visit.  
+Is there a way I could identify if improper mounting was the issue? Any pointers on how I could escalate this with Tesla? Any pointers on this is greatly appreciated.,
+What factors do the bumper sensors have on autopilot? I have a 2021 model Y pre-vision car. 
+
+I had a body shop take off the bumper to get a thorough estimate on a minor accident and when they were done put it back together so I can have my car while they wait for parts to arrive. 
+
+My auto pilot has been acting funky with the hard braking and coming close to vehicles infront of me. That and the jerking.,
+How are people doing the math to figure out how many miles they need to drive to raise their safety score? I'm at a 99 and literally trying to drive as much as I can to put myself over 100 before midnight. But I have no idea if I'm just wasting my time or putting an unnecessary amount of miles on my car for something that is completely unrealistic.,
+If you preorder CT, does this also act as a price lock in?,
+Sometime in the last few software updates it appears the navigation defaults to “Trip” instead of “Guidance” for every drive, and needs to be manually switched into guidance. Does anyone know if there is a setting to control this?,
+I have a Gen 3 wall charger that I would like to use for my other car that takes a J1772. I have found adaptors that work with Gen 1 and 2 chargers, but they claim they don’t work with Gen 3. Has anyone found a Tesla to J1772 adaptor that works with Gen 3 wall chargers?,
+I am trying to reset my drive and gloveboxPINs on my Model 3: using my Tesla accountand password, I cannot login (it keeps sayign username/password is incorrect): I have double check this many times and even change my password (I can login fine from browser and app fine): what can I do to fix this?,
+I received a replacement for my Gen3 Wall Connector (-F serial #) and got one ending in -G. I already did the swap and I changed out both pieces.. but I am just wondering in retrospect.. did I need to change out both parts or just the faceplate?
+
+It was a pain in the ass to unscrew and reroute the wires/etc. Sitting here now wondering if I made it harder on myself for no reason lol,
+Anyone can recommend a good aftermarket car cover for their Y?,
+Here’s a weird one: my dad’s Model 3 completely died while plugged in his garage last night. Just got back from checking it out in person and she’s dead Jim. Doesn’t wake from phone, door handle, NFC card. 
+
+Figured it was the 12v battery after doing some googling, but when I got in touch with Roadside Assistance they insisted it wasn’t the battery because “they could see it on their end and it was fine”. 
+
+Ignoring the fact that I’m skeptical they could see any telemetry from a dead car (I even checked the wifi router and its not connected), I decided against having them tow it to the service center because it’s closed for the weekend and my mom’s iPad is blatantly sitting on the backseat. 
+
+I’m heading over to get a jump box since you can apparently use it to at least unlock the vehicle? 
+
+Has anyone had something like this happen before? I don’t see anything about the 12v battery on the maintenance schedule but it is a couple years old now. That said, my folks both say they didn’t notice any warning notifications (about the battery or anything else) when driving it yesterday - everything was apparently fine until my mom went back out several hours after getting home to grab her iPad.,
+June 28th Model Y order (7 seat, white, long range, 20" wheels). Just got my VIN on Saturday with delivery scheduled for Oct 21-27 (east coast).  
+
+Also, why is there no all weather trunk liner for the 7 seater? :(,
+My estimated delivery date at the time of order was April 2022 and I checked my account on Tesla to see my delivery date now says December 2021. Would that mean I would not be getting the 2022 Model 3?,
+If I accept a trade in value that’s valid until November, but my delivery date isn’t until December, will my trade in car need to be reevaluated?,
+I've recently received the FSD Beta on my 2021 M3P. I'm having trouble getting it engaged and staying engaged. Some weird things are happening too.
+
+FSD Beta button + full self driving visualization are enabled.
+
+Upon resetting the car (power off + wait 2 minutes without interacting or changing wheel configuration), the car will boot back up. While in park before I do anything, the FSD visual is going while I can open/close the trunks. There red blurry lines will be all around my vehicle while parked in a parking space. I'm not sure this is expected behavior as I haven't had FSD visuals before.
+
+Upon leaving that parking space after resetting, I will have FSD visual show me the parking lot as expected. I can engage FSD with a destination set. It will drive for a few seconds to a minute, scream and shut off. I will then be unable to turn on FSD until I reset the car again. I can no longer engage any autopilot while on any road. I will receive "autopilot temporarily unavailable" and the error chime. The FSD visualization is no longer shown.
+
+This has been very frustrating as I've wanted to test out the self driving beta, only for it to disengage and prevent me from re-engaging.
+
+I have tried the following things:
+
+1. Software Reset with both scroll wheels pressed
+2. Power off button + wait 2 minutes
+3. Wheel Configuration change
+4. Turning off sentry + summon and waiting 2 hours
+5. Changing profiles
+6. Driving 50+ miles to help cameras get "set". My car has radar and is now visual.
+
+Does anyone have a fix? Can I factory reset the vehicle or does this risk not having FSD be pushed?,
+Anyone have issues with their touchscreen recently? I get the following message on my dashboard monitor: "Touchscreen unresponsive. Press and hold scroll wheels to reset." The center display's touchscreen does not respond to any touches even after resetting multiple times. Any idea what is wrong?,
+is it dumb to buy an "older" (2013-2016) tesla?
+
+I can't afford a new one, i live in CA where gas is $5/gallon, and my jeep, while fun, gets maybe 19 miles a gallon aka i spend about $200/month on gas,
+Ugh, when I ordered my SR+, It was Feb delivery and now I have a specific time frame of MArch 10th - April 7th. Ugh. The wait is killer.,
+Hi guys. Has anyone had an issue where the plastic part with the chair controls just came off the chair? My driver side isn't sitting like it used to on the chair. I could easily peel it off and see the insides. I've had my MYLR for 6 months...
+
+Update:He came out and fixed it for free within a few minutes. It was a clip that they introduced with the model y according to the technician and he just put the original screw that I guess they use with the model 3 in it's stead.,
+I've got a new Model 3 - just a couple of weeks old, from Shanghai.
+
+Today, I had a series of issues that still persist and I was wondering if anyone had one or more of these issues and how were they resolved?
+
+1) I had an ECall error come up. This persisted through boots and switching the connectivity to Wifi. 
+
+2) Following this, I found that my cameras also went black by attempting to use Sentry while I was inside. It sent an error message to the app and sure enough, when I got back there was no reverse camera and both cruise & auto pilot were disabled.
+
+I tried resolving this by booting every which way and finally resorted to a factory reset. This only seems to have made my issues worse as my car now thinks it's in Palo Alto when it is in fact in Finland and has not ever even been in Palo Alto, being a China-built vehicle.
+
+Now - I did read that at least the last issue has happened to people (and I'm sure others have too) but I didn't really find a real resolution to the matter. How did this pass for people?
+
+I did book a service appointment but it's 10 days away.,
+anyone else have FSD beta but can’t see safety score in the app anymore?,
+Got a flat - ran over a road nipple and the tire is leaking air from the sidewall and rim. Hopefully they can just put the tire back on, no harm no foul. BUT Tesla roadside assistance sent a tow truck that they contract with who put the strap on the back left tire valve stem and ripped it right off causing a flat. Tesla is now telling me I have to pay for another valve stem and I have to collect the money from the tow truck… does this seem right?!,
+I own a 2021 model 3 performance with Uberturbine 20" wheels
+
+I found [this set of wheels](https://shop.tesla.com/product/model-3-19_-sport-wheel-and-winter-tire-package)  for good price, but that tesla page tells me it's not compatible with my car? "his package is not compatible with Model 3 Performance Dual Motor All-Wheel Drive."
+
+Why is that? What's the problem? The user manual tells me that 235/40/r19 should fit. 
+
+To be honest I am SO LOST trying to find a set of winter rims+tires. Being in Poland we don't have tesla store to pick up from btw.,
+https://imgur.com/a/7GBjaGe
+
+As you can see, safety score is showing over 100 forward collision warnings which is clearly incorrect, I have the same drive every day and I haven't had a single forward collision warning the entire time I've had access to the safety score beta.
+
+What could be the cause of this? And how do I get this fixed? It's absolutely demolished my 99 score.,
+Are they still adding beta testers if you get to 100 safety score after a week? Or has it just been that one batch? Just wondering if it’s worth starting the monthly subscription to try to qualify.,
+My Model 3 is unresponsive and emitting a very strong rubbery / burning smell...  I suspect that the 12v battery has died and I saw some posts about leaking batteries producing an odor.  The car is in my garage and I can't move it.   Tesla service's earliest appointment is a week out... not feeling very safe about leaving the car in my garage with the unknown issue and smell.  Suggestions?  Maybe I can "jump" it with 12v somewhere to allow me to put it into neutral and roll it out?  I'm a little worried about messing with it if the 12v battery is melting...,
+Model Y, curb took a bite out of my tire. Not sure if this is a tire replacement or a full wheel and tire replacement. A bit of a rip in the tire, see photo. Please tell me what you think. Should i take it to the service center or a tire shop in this situation? Estimates on what this might cost? Thanks
+https://imgur.com/a/mY1VkV9,
+what's the difference between software 2020 vs 2021 for older tesla models? do u need the new MCU to get latest 2021 software?,
+Do Tesla service centers ever have Model Xs as the loaner cars?,
+How do I set car to easy entry when somebody gets out it’s alway easy entry? My wife is much shorter but we share the car.,
+FSD Beta question…now whenever I put in any address into the nav system it has a button for NoA, even if it’s just local roads and no highway driving.  What exactly does that do differently if I engage AP?  It can’t tell any difference between pressing it or not.,
+Any update on the model Y coming to RHD countries like UK, AU and NZ?,
+Regarding the future of FSD, how do you think they’ll handle pulling in an out of the driveway or garage? 
+
+Right now FSD 10.2 can pull the car out of my garage (though it is scary and chaotic when it does). I’m wondering if someday we will be able to train the car on our preferred method of pulling out of the garage/driveway and parking in the appropriate place. 
+
+For instance I back into my driveway and garage from the neighborhood road. I’d love to be able to train the car to basically mimic my moves. Any thoughts?,
+Anyone else have any luck getting a windshield replacement?
+
+Got a huge crack in my windshield and my service appointment has been pushed back 3 times already because of BS reasons like - "our location doesn't have the tooling to replace windshields." Only to be rescheduled to a later appointment at more distant locations.
+
+Been waiting over a month now and my appointment is now another month out yet.
+
+No luck with third parties in the area as well because Tesla isn't delaying shipping glass to them.
+
+I've been out a car and this experience has been beyond frustration...,
+Signed up for Tesla insurance today (as part of the new Texas release) and it wiped my FSD safety score (I was at 94, now it tells me to take my first trip).. Any way to get it back? Anyone else experiencing this??  
+
+
+Maybe I should be thankful for the reset![gif](emote|free_emotes_pack|wink)??,
+So my model Y has a new "quirk"... typically when you open the car door, your music gets quiet. Well, about a third of the time now, the volume instead seems to max out when I open the door, blasting to everyone within a couple block radius, and making it look like I'm one of those douchebags who likes to make sure everyone in the neighborhood hears what I listen to. 
+
+Is this a known bug? I'm listening via bluetooth from Spotify on my Android phone. This is a new thing within the past couple weeks or months.,
+[deleted],
+Is there something you have to say in order to get an Overnight Test drive? My local dealer said they only allow 1 hour maximum for a Model Y.,
+Husband just got a Tesla a few months ago. Any ideas for items he may need for gift ideas? 
+He already has the charger installed in our garage, and about fifty different nicer car towels to wash and dry the car. I was thinking either window tinting or some sort of organization bins for the trunk? What have you all found that is indispensable for your Tesla?,
+**Any suggestions as to what is keeping my M3 LR  awake**
+
+SOLVED:  It was Smart Summon Standby Mode, which also explains why it didn’t happen at home (as it was disabled for that location)
+
+
+I know not to keep checking with the iOS app.
+
+Sentry mode is not on.
+
+I have disabled all the third parties that I know of (I let Teslamate keep running to show the data, after trying to leave it off for a day to validate it is not the cause)
+
+It is in Southern Maine, so I don't think it's trying to keep cool. (Cabin heat protection is set to air only not A/C)
+
+It does have a Tesla M3 cover on it (though I took it off yesterday to see fi that is related!)
+
+SW is currently 2021.32.22, but it was also happening with 2021.24.4, 2021.12.25.7 and 2021.4.18.2
+
+This was happening before and after the new iOS app.
+
+Car is currently off of Wi-Fi (about a mile from me).
+
+&#x200B;
+
+It does sleep from \~12 AM to \~6 AM Eastern consistently, so this isn't a random act.
+
+It will sleep continuously once the battery drains to 20% (so again something is smart enough to handle this)
+
+I am losing about 3 to 4% a day, so it's not killing me but I'm curious as to what is happening.
+
+Any suggestions as to what is causing this or better ways to diagnose.,
+Does safety score go away after you get the fsd beta?,
+I got the FSD beta last Friday, but was away from my car for a week. Just tried it for the first time and got “Autopilot temporarily unavailable” errors every time I tried to activate it. Anyone else experience this or know how to fix it?
+
+Edit: Parked the car and let it sit for a bit and it worked fine after. Disregard.,
+Considering placing in an order for either a model 3 or Y but having concerns for any near future updates I should be holding out and waiting for - I unfortunately don’t keep super close attention to all new upcoming releases - is there anything big that’s coming in the next 6 months to a year that I should hold out for before taking the plunge?,
+Stock MY (white white) EDD Is now July online :O,
+Can Anyone from Seattle/Bothell WA area help me with providing 240V outlet installation costs in garage? How much did you spend with the electrician so that i can get an idea before getting ripped off. 
+
+I do have a 240V circuit that goes into my dryer upstairs but unfortunately no outlet in garage.,
+Anybody knows if Safety Scores get rounded up? Like if a score of 98.52 going to get the FSD next week? I calculated that I need to drive 130 miles and score 100 to get my score from a 97 to 98.52...,
+can i schedule charging in app yet?,
+My driver side seat adjustment is not working properly. I try to recline the seat and the entire seat moves forward. Do I just need to schedule a service appt?,
+Just ordered a model 3. Never bought a car before. What are the steps to buying insurance. Do I need the vin # before I can buy insurance or can I do it now before a vin number?,
+Is there a way to report unsafe Autopilot (not FSD) behavior? The other day I was using it on a single-lane highway and it tried to turn into the median at a cross street. But I'm not sure Tesla cares about improving the current Autopilot software since everything should be moving to the new FSD stack soon™️.,
+Anyone else having issues with memory seat function? We recently added a key to our Model X and ever since then the memory seat function is completely broken. Doesn’t link to keys nor does it remember the seat from the driver profiles.,
+My EDD jumped from Feb - March to Nov 2 -12. Is there a way to tell whether this is Nov 2021 or 2022?,
+I ordered my Model 3 back in June and had an EDD of Sept > Oct > Nov > Dec and now when I log into my account there is no EDD. Anyone having the same issue?,
+Ordered Model 3 yesterday. Called today to put it on hold with the infrastructure package looking like it might get pushed through with EV cred. I forgot to ask. Does a hold lock in my price? 
+
+Hoping to get some clarification on the tax credit in the coming weeks. Though it's possible my income will disqualify me anyway.,
+I hate to ask this but I need to vent a little bit: got a model 3 in sept 2019, cash, no lease. Some issues with panel gaps, as always. First two months, had to go to service twice for the same exact issue, the internal alarm getting activated for absolutely no valid reasons randomly. After 2 years, the issue is still there albeit heavily reduced in frequency. Then, about one year ago the back started to rattle like a goddamn concert. Booked an appointment, “within specs”.   Then one month ago the front driver side suspension started to rattle and squeak. Known issue, fixed it under warranty. Now the goddamn driver side headlight block broke and won’t turn on. Honestly, our other car costs a third of the price, is used more harshly and yet hasn’t had a single issue in over 4 years. Anybody else had a similar service history or I just got extremely unlucky? Unless the quality nowadays and going forward is far better, I don't plan on getting another one.,
+[deleted],
+Found a new favorite song and it autoskips everytime I play it in my Model 3.
+
+Anybody figure out this issue? Happens with a bunch of songs. Tried a screen reset. Googled it. Nothing useful.,
+Want to buy a Tesla while stationed in Germany for the next 5 years, but when I go back to the states - Tesla makes it a hurdle compared to every other vehicle. From no warranty support, to the charging network being deifferent...  
+
+
+What options do I have? Don't want to buy just to sell...,
+What’s the process for ordering spare parts from the catalog? My passenger side door is rattling and I suspect it’s the door clip that I broke that’s causing it,
+Does Tesla really have no CarPlay capability?  If so, how the heck am I supposed to convince(or force) my elderly parents to buy a Tesla for their next car/SUV?,
+2021 model s long range
+
+After years of swearing it off, I re-activated SiriusXM since I drive a lot and the interface was there. Now I constantly get in my car and the app is gone. Rebooting my car doesn’t work. It just appears sometimes and disappears other times. Anyone else have this issue?,
+Carvana offered me $53k for my 2021 LR M3 with 11,000 miles on it. Is this in line with other peoples offers?,
+Yesterday my safety score was 99. Now it's not visible in the app. Incoming Beta?,
+When do I need a 99/100 to get FSD “on Friday”? Is it 12:00am Friday (in a couple hours) or 11:59pm Friday (Friday night),
+I need to get tires for my 2018 model 3 (18 inch). There is a shop in my area that local tesla owners go to. Do I just use the tires they suggest? Are there better tires I should order or request for them to use?,
+Anyone know anything about a new referral program? Is it happening or we can just forget about it?,
+Is the app a whole different account than from the website?  I just purchased a Model 3, and I'm trying to get all the phone features working.  I know it'll take a few days for the pictures of the bill of sale and driver's license to go through.  But I downloaded the app and my email password is not recognized.  I know I'm putting in the same info as when I log in via browser, which works just fine.
+
+Also, while I'm here, is it a big deal for the spouse to use they're phone as a key?  Or do they just log in with my account?,
+I'm about to order a Plaid S and I noticed that the white interior is showing May/June delivery while the Cream is showing December/January. Are these time frames pretty accurate these days? I'd prefer the white interior, but not sure I want to wait another 8 months potentially.,
+I need a bit of advice, please!  I just purchased a Model 3 from a non-tesla car dealer everything is fine with the car BUT....  the prior owner had not released the car for me to join it to me account.  The Tesla web site gives me no information as to how to take it over.  Do I go to a Tesla service center (40 miles across Phoenix), tell the dealer he can have it back, send the bill of sale and title in (BUT WHERE TO??)  I need a little advice on this, because with the intelligence of non-tesla dealers I'm sure this has happend to many.  Thanks in advance.,
+Argh, silver color is growing on me... I have a white preordered at the moment.. If I change my design does it put the price of what it is now (+$2k) + the color price? Or does my locked in price for when I preordered still count?,
+I assume the wall connector connects directly to a panel (to get the full 48/60 amperage). Does anyone know if it's an easy process to convert the wire going to the panel into a 14-50 socket? Like say you have the wall connector installed but you move to a new house a year later, you're going to take the connector with you, but will probably leave a 14-50 socket behind.,
+So glad the app has the delivery estimate now. I got sick of having to switch to browser and login just to see if my estimate has changed or if I have a VIN yet.,
+If you had delivery on hold… changed your mind and click on I’m ready button, will you get pushed to the back of the queue or somewhere in the middle?,
+I was given the 10.3 beta last night at 12am. Today I got the rollback update, but didn't apply it yet as I needed my car. Weirdly after getting groceries the update is gone, but I am not able to use FSD on the street. It still shows the visualization, and it works on the highway, but when coming off the highway the fsd disengages and says you must take over immediately. I wonder if they nixed the update and added a quick hot fix instead to disable fsd on streets with a few lines of code.
+
+Edit: fsd worked on the next drive. Never mind,
+Went to DIY the cabin air filter on my 21M3LR after watching videos everyone was like ZOMG WTF WHY PUT THIS SCREW HERE?!?!?   
+
+The screw is moved.  10 minute task.,
+I'm going to sound like an idiot, so be gentle :)  
+
+
+I have my temporary tags on my MYLR, and they expire on October 29th.
+
+Am I supposed to go to the DMV to get my permanent license plate? I don't have the vehicle registration yet.
+
+&#x200B;
+
+What to do?,
+How do I know the difference between a Tesla Body Shop and a Tesla Approved Body Shop? The TABS can only replace parts, whereas the TBS can repair existing panels. But how do I get a list of TBS in my city? Are all of the TBS on this link? https://www.tesla.com/support/collision-support,
+How do I report a damaged supercharger? Through the Tesla website, the only think I can find is talking to a live support agent, but that requires M-F during strict business hours.
+
+Do they have an email I can report the issue and they can deal with it whenever they can?,
+Rained in the Bay Area and noticed lights don’t automatically turn on when windshield wipers are on.  Curious if this is a feature that should be available.  I know in Florida it’s law to turn on lights when wipers are on.  Seems like a simple safety feature.,
+When are they going to fix the gdamn audio issue where all audio is from the front window speaker only? Temp fix is via a two thumbs reset, but it doesn’t stay fixed.,
+just ordered a new model 3 and got matched for one to be delivered this week! I am in california, what state or federal tax credits, carpool, or other incentives can I take advantage of?,
+I just got a notification that software version 2021.36.5.5 is available. Model Y w/o FSD. Anyone else see this one?,
+2018 M3 LR owner. 
+I swung by a Tesla location yesterday to poke around and ask how much my trade in would be worth. I was told $42,000. 
+
+So now I’m debating if it’s worth making the jump up to a 2021 model. Any good reasons for waiting versus trading now while the values are higher?,
+Anyone else feel auto brights are much better on FSD?
+
+I've noticed they're doing a much better job recognizing cars around bends.,
+I’ve been enrolled in the beta queue since the day it was added. My safety score is 99. Should I have gotten the FSD beta yesterday?,
+Europe changes for LR M3?  
+Previously you could order inventory LR 3s in Europe at a discount, which are the 580km WLTP version (77kWh LG) from China. I ordered a 614km WLTP car (normally 82kWh Panasonic) which used to be Fremont. I just got my VIN however and it's a china LR. Am I getting a "gimped power saving 77kWh LG" car?,
+Set current location as Work?
+
+I work on a \~300 acre campus. My work's "address" is the front office, but I park several hundred yards away, underground. My Tesla doesn't think I'm "at work", so it doesn't disable Sentry mode, and my car gets angry whenever someone walks by it. My coworkers are giving me crap about it, as the car gets angry at them when they walk by :)
+
+So I would like to be able to set an arbitrary address-less location on the map either as Work, or as a Favorite, so that Sentry mode automatically turns off. But I can't figure out how to do this - is it possible?,
+It seems that the minimum requirements for FSD Betas are:
+
+* Safety Score of threshold over 100+ miles
+* MCU2 new or better
+* FSD Computer ("HW3" upgrade done for pre-HW3 models)
+* RCCB side repeater and B-pillar cameras (not included in "HW3" for... reasons)
+
+The earliest S/X I've seen with this config is an [August 2017 Model S 75D.](https://www.reddit.com/r/TeslaLounge/comments/qfu09u/anyone_seen_this_before_my_ms75d_got_fsd_beta/hi20wak/) 
+
+This leads me to two questions:
+
+1. Is there anyone who has NOT had their cameras upgraded from RCCC (b&w with red colouring) been accepted into the beta? I had "the button" but depsite hitting the score, and did not receive the beta despite hitting the score, having the computer and MCU2.
+1. Has anyone successfully had their cameras replaced? If so, how? If you have, have you been admitted into the beta?,
+Model 3 passenger side camera unavailable even after reboot and recalibration anyone know a fix? On 10.3.1,
+Any news on when some accessories for new models are coming out?  Specifically am looking for a liner for the trunk and frunk of a 2021 model s.  Oh and also the pet liner,
+I've had 2 events while driving the past week where a random front collision warning comes up in inappropriate situations.  This has only happened after the latest update. Anyone else with this issue? I partially care bc it's wrecked my safety score 99 down to 97. But also it's obviously a bug that startles me while driving. Btw I don't have autopilot engaged when it happens.,
+Hello,
+
+I live in NY and I just got a model 3 Long range. I have PPF and ceramic coating. 
+
+Questions
+
+1. I currently self wash the car and I use chemical guys solution. I was also recommended using the wash and wax all (blue). What do you recommend is best for quality and cost?
+2. I have the default tires that came with the car. What is the recommended tires that I should get for winter? Should I get all season tires or specifically winter tires? Any recommendations?
+3. A lot of people have recommend the 3D MAXpider all weather mats and liners. Is that recommended or something else? Also, look for the best quality and cost.
+4. How much is it to have tesla swap out tires or do a rotation?,
+Is there a final approval on the safety score to bump it to FSD? I did the math and realized I should get able to get it if I drive 200 miles and keep my score at 100. I see 150 miles accounted for, but my last hour hasn't posted yet in over an hour which should be enough to bump it to a 99. I drove it to 4 miles of range left when I got home and not sure if that's a factor. 
+
+Just give me FSD. I need to go to sleep. It hasn't updated the last drive yet, and usually is pretty immediate.,
+MODEL S POWERTRAIN 2017-2018 models
+Hi,
+
+Im looking to buy a used Model S 100D,  and have a question i cant seem to find the answer to.
+
+How many different powertrains are available for the 100D, Specifically between 2017-2018 and what are they production dates (living in Europe if that makes a difference)
+
+Some used cars i find online are specifies at 525hp some at 4xx som at 3xx
+I am very confused about it and want to make sure i get the 525hp model with most power and range.
+
+Also, is there some models i should avoid or be aware of 2017 vs. 2018?
+
+Hope you can help out and clarify,
+Why is insurance for Tesla insanely expensive for me? I have one point and my 97 Saturn that I'm upgrading from has been about $100 a month because of it. All the  quotes I am getting for my new Model 3 are at least 4x as much, all $400 plus. Thank God Tesla Insurance is quoting me at $200 a month, but wtf. I know that's a big difference in value, but 4x as much?? more than my friends with DUIs,
+My delivery is scheduled for November 3rd and I've had the insurance effective date on that day. The service center just messaged me saying that they need an active insurance card to be able to apply for a temporary tag in Texas.
+
+So, they asked me if I could pull the effective date on the insurance to a few days earlier, so they can meet the delivery date, which I did. Now that I think about it, is it normal to have insurance on a car that I do not have yet? I wouldn't take ownership of the vehicle 4/5 days after the insurance coverage starts, unless they decide to deliver early. 
+
+Is that normal?,
+Is anyone else finding that their lights no longer turn on when the wipers are running during the day? It's spring here with some days having rather heavy rain and I've been surprised to find that my lights are off so I have to manually turn them on. I'm not sure of the exact update that it happened but I've had a couple since first noticing it with no change (now on 36.5.5),
+The more I think about it, the more i feel M3 SR+ is overall more value and durable compared to M3 LR. The latter doesnt have the LFP battery which seemes to last much longer/less worry about strain over the years. I am at the pt where I have to make a pick, and while SR+ would suit my needs just fine, the extra range is from LR a luxory. But lets say I want to keep my car for up to 10 years, SR+ should be more durable?,
+Hi  
+
+
+I am going back to Tesla after 3 years off and things have changed a bit since. I used to have free super charging and connectivity. My challenge is that I am running the car as a company car and I need to charge super charging on one credit card and things like premium connectivity on another. Is that something that can be set up? Or is there a least a way to change payment option easy (without typing in card)?
+
+  
+I asked Tesla about just paying for 3 years of connectivity up front, but that was not possible.  
+
+
+Thanks.,
+Anyone have the issue where you set the app to start charging at 10am for example and it changes back to 12 after a few seconds? 12 is fine but I'd prefer 10 since that's when my Solar starts kicking butt.,
+My Solar City (now Tesla) inverter abruptly stopped working two months ago. After troubleshooting, a technician was scheduled to come out over two months later in November (which seemed excessive). Now they are telling me my appointment has been postponed to late January 2022 and nothing I have said to them has made any difference. I have literally never had a customer service experience like this at any point in my entire life and don't understand because Tesla is theoretically supposed to be customer centric. Can't imagine they would make a Tesla car owner wait 5 months for maintenance. Looking for some insight here and any possible solutions.,
+It’s only been a couple days but I haven’t been able to drive more than a half mile without having to disengage FSD. I’m looking forward to driving when there isn’t any traffic so I can let it complete maneuvers without having to intervene to prevent putting others at risk. I’m so excited that I’m testing the cutting edge of self driving technology, it really is incredible even though still rough. I think it’s possible this could be ready for wide release in a couple years if the huge increase of data Tesla is getting significantly increases the rate of improvement. The test for FSD being ready is if you would feel comfortable with your parents using it.,
+Based on the new tax credits, is the Model S priced out of any rebate?,
+After installing 2021.32.5.5 I noticed that on my next roadtrip, it started "preconditioning the battery for supercharging" already when I was barely pulling out of my driveway with a supercharger destination set in 250km. (Outside temps around 5C).
+
+I guess it is just about the cold battery in general (it wasn't so eager on the next leg of the trip) but a bit of a funny message.
+
+Any insights?,
+So I got impatient and asked the sales people at Tesla for any available model 3s I can snag up and lucky for me they had it in black, the color I wanted. They also said it had the new battery where it can be charged to 100%
+But weird thing is they said this one didn’t have rear seat heating.. are they trying to sell me a faulty car or is this normal?,
+I've just received my first software update since getting my Model 3 (which I paid for FSD on). They updated me to 2021.36.5.5, however, which doesn't appear to have the ability to opt into the FSD beta. Is it normal for them to give people who have paid for FSD a version newer than the opt in button but without the opt in button? I tried putting in a ticket to ask Tesla about this, but it requires a location and also has no ability to provide a location, so I just can't put in a ticket...,
+I'm on 36.5 still, how do I get to 36.8? Is this just based off of region (I'm in the US)? No prompt to update software,
+Had a delivery estimate for February for my model 3 I had ordered. Signed into my account today and estimated delivery got moved to next Setember. Did the Hertz order effect deliveries this much?,
+Anyone have issues with multifactor authentication?
+
+I logged out of my app on Android and had previously set up 2 factor via Google Authenticator. When I go to log back in it asks for the 6 digit code generated from the authenticator. When I type it in, it says invalid.  I tried time syncing the authenticator as well.  Same goes for [tesla.com](https://tesla.com) from my computer.   Of course I did not save the QR code or backup passwords.
+
+When I try to go to support / contact us with account issues it takes me to the login page... 
+
+Anyone know a support number, email or contact? Using my keycard is becoming a hassle.,
+Anyone in California who ordered MY LR a few months ago? Ordered mine mid-July and the EDD is driving me crazy - here was the progression:
+
+* Oct 8 - 31
+* Oct 16 - Nov 5
+* Nov 1 - Nov 28
+* Oct 16 - Nov 9
+* Nov 13 - Dec 11
+
+I really hate when the range moves earlier and gives me hope :(,
+Yo my delivery date was November 8-20 now it’s December 2-30. What happened overnight at Tesla? Lol,
+I received the new update for viewing live cameras on my iPhone last night. I updated my iPhone app and my M3, turned the option on in the car, and was successfully able to access the live cameras on iPhone. I then tried it later in the day and it refused to work ever sense. It just says “refresh” in the app. I’ve tried reinstalling the app, hard resetting my M3, turning sentry off and on, etc., and nothing seems to get it working again. Any ideas?,
+If help is needed, use our stickied support thread, or [Tesla Support](https://www.tesla.com/support) + [Autopilot](https://www.tesla.com/support/autopilot) for understanding.  Everyone, please read our [Rules](https://www.reddit.com/r/teslamotors/wiki/rules) and a [note](https://www.reddit.com/r/teslamotors/wiki/rules#wiki_special_note_from_the_moderators) from the Mods. Be respectful, please remember to Report (it helps Mods immensely), and comment with a focus on moving discussion forward.  
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*,
+Just for laughs, I went and configured a basic MYLR a few minutes ago.  Estimated delivery is now October 2022.  
+
+
+This factory is badly needed.,
+From the article: Tesla Gigafactory Texas is running full speed towards the company’s target for initial Model Y production. To help accomplish this, the massive electric vehicle production facility recently completed the reviews for five of Giga Texas’ key facilities. The completed reviews stand as yet another step for the project, which has all but closed the gap with its counterpart in Germany. 
+
+Giga Texas’s buildout was started later than Gigafactory Berlin, though the US-based site has not met the same level of red tape and opposition as its Grunheide-based sibling. To date, Giga Berlin is practically ready to start Model Y production, but it is still in a limbo of sorts as it waits for its final approval. Giga Texas, on the other hand, has been in a mad rush towards initial Model Y production since it started its construction last year.
+
+Just last month, for example, Tesla [submitted five filings](https://www.teslarati.com/tesla-giga-texas-filings-production-start-date/) to the Texas Architectural Review Board for several sections of the Giga Texas complex. The areas that were specified in the filings were related to Paint, Stamping, Body-in-White, General Assembly, and Casting. The filings indicated that the projects would cost a total of about $1.1 billion. Interestingly enough, the filings also indicated that the target completion date for the projects was listed at December 31, 2021.,
+do we know if the Austin factory is going to start out the gate with the new battery cells?,
+Where the fuck is my cyber truck?,
+This is a molehill, not a mountain. This is a filing about a state-level review of ADA requirements. The real plan review is local (if the county even does plan review; many don't). It's a necessary step, but usually one that is not a pacing element of the process.,
+Really seems like this should almost always be a rubber stamp process.  If a company is spending this much on a manufacturing facility the local government should be available throughout the process and raise any red flags early.  Upon completion a checklist should be reviewed and signed.,
+Does completed review = approved or that review comments were provided for revision. In most review agencies, it means the latter.,
+Should Io buy more shares before it goes live!,
+If help is needed, use our stickied support thread, or [Tesla Support](https://www.tesla.com/support) + [Autopilot](https://www.tesla.com/support/autopilot) for understanding.  Everyone, please read our [Rules](https://www.reddit.com/r/teslamotors/wiki/rules) and a [note](https://www.reddit.com/r/teslamotors/wiki/rules#wiki_special_note_from_the_moderators) from the Mods. Be respectful, please remember to Report (it helps Mods immensely), and comment with a focus on moving discussion forward.  
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*,
+Is that dude on the middle of a beach on sand on stock tires? How’d they get out of there?,
+Hardest part is finding somewhere you're allowed to sleep in the car.,
+Anyone notice Ticket Avoidance Mode?  A little throw back to their 2015 April Fools Joke.,
+A Bike Rack mode would be cool.,
+That music was fret noises with a little bit of strumming thrown in.,
+I’ll try this and get bogged in the sand,
+My dream is to save up enough money in the next five years or so, so maybe I can get a Cybertruck and do this. It's all I really want but I'm afraid I'll be too old by then.,
+I'm actually planning on using this for a trip to Yellowstone! Does anybody have any recommendations for a sleeping mat?,
+Please please please let us turn off the trunk light.
+
+Edit :Sorry If I missing something. why was this video put out? Haven't we had this for some time?,
+Usal beach, I wonder when they went to find it so empty. Last time I was there it was PACKED with people.,
+"tEsLa DoEsN't HaVe A mArKeTiNg BuDgEt!!!"
+
+Edit: To clarify, I'm poking fun at people who say this as if everything Tesla does is word-of-mouth or "organic", including events/product reveals/Elon tweets. Marketing and advertising materials don't have to have paid placements or circulation to still count as marketing and advertising.
+
+This video (and others like it on Tesla's channel) are highly produced: with talent budgets, production teams, editors, music licensing, etc. It's not like they scrapped something together with some employees and an iPhone and just posted it on YouTube.,
+How is the model Y on sand?,
+Can most human beings lay flat in the back of a model Y? They don’t seem that big but I don’t have one!,
+Goodbye Blue Sky was a bold choice by the PR department, but okay,
+I just ordered my Y.  Can I plug in a CPAP machine for sleeping as well?,
+Is this a response to rivian? Because they make off road vehicles?,
+I hated that ad,
+https://shop.tesla.com/product/cyberwhistle?sku=1715672-00-A,
+Only Tesla owners can hear it,
+Would be really cool if you could also buy a truck in that shape,
+Aaaaaaaand they’re gone.,
+Easy way to raise $50M,
+At this point Tesla can manufacture literally anything and sell it out in minutes. 
+
+The ultimate business.,
+These next few hours will determine if I am strong willed enough to not blow $50 on a cyberwhistle…,
+That is stupidly expensive and useless.... 
+*pulls out credit card*,
+I wouldn’t BLOW your money on that guys…,
+Already sold out? I don't see a button anymore.,
+3D printer here I come!!,
+Got an stl?,
+If apple can sell 800 dollar computer wheels, 20 dollar microfiber cloths, and a 1300 monitor stand, I see no reason why Tesla can't sell whistles for 50 dollars.,
+It symbolizes a whistle blower which Elon has been hinting at something happening on December 9th which is an anti-corruption day.,
+It’s a rape whistle. 
+
+You blow it when you realize you paid $50 for it.,
+Did I just buy a whistle for $50
+
+Edit: received confirmation email finally,
+I bought it and got the confirmation number but I didn't get an email notification and when I enter the confirmation number on their website it says order not found? they charged my credit card too. So is the order through or not?,
+$50 whistle better fucking blow itself.,
+Checkout is working for me. No adblocker. Press the button, tesla logo spins, then if it disappears without doing anything, press it again. Should eventually let you order it.
+
+*But not showing up in orders yet so idk,
+![gif](giphy|26uf14WIlvzuZkKLS),
+They need to sell a mouse shaped like the cybertruck,
+Tesla’s website is broken. Can’t check out.,
+>The whistle includes an integrated attachment feature for added versatility.
+
+Any bets on which attachments are coming?,
+Technically, this is the first product Tesla made which emits Carbon dioxide.,
+Fuck it.
+
+I bought one.
+
+At least I’ll have a whistle !,
+Only of it'll summon my actual cybertruck,
+Managed to go to check out and place an order, and got a confirmation, plus my card was charged. But when I looked at my order history it says I haven't placed any orders. Is this a bug on Tesla's end, or did my order legit not go thru?,
+Free publicity and already sold out. Genius.,
+Shamelessly bought one,
+Goes nice next to the $150 decanter,
+Cash grab or lame product attempt?,
+That's ridiculous. Please folks, don't encourage them or we'll have CyberOvenMitt next.,
+“DA WHISTLES GO WOOO”,
+How does it sound though? Wonder what note?,
+Thank you, just ordered one,
+I’m still sad I didn’t buy the surfboard when I had the chance,
+When can I get the full self blowing beta?,
+That's some serious brand power. What other car company could charge $50 for a ridiculously silly gag gift?,
+One of the many people with no confirmation email and nothing in order history. They charged me too, so I hope I got one of these stupid things lol. 🤞🏻,
+And here I am, trying to swipe to the other images...,
+Tesla *WAS* selling whistles for $50. And sold out of all of them.,
+Dumb,
+At this point they are just mocking you and you don't see it.,
+Will be 200 next week when they all sell out,
+It’s a fucking whistle you nerds,
+Blowing it sends ICE owners into a frenzy.,
+Now I remember they made a liquor that sold out very quickly. Imagine if they made an NFT,
+I’m convinced Tesla is just Supreme for nerds,
+~~Tesla is selling whistles for $50~~
+
+People are buying whistles for $50
+
+FTFY,
+"Hey ma, can you get this whistle for me?"
+
+"WHAT?",
+It stops you from being violated at the dealership.,
+It's so you can call for help if you're in a desperate situation but can't drive anywhere because your car is updating lol,
+Tesla's run away from used.,
+Got my confirmation email,
+April isn’t for 4 months…,
+People that bought this. Did you really just spend $50+ for a whistle?,
+OMG, thank you! Purchased! THANK YOU!,
+The majority of people buying it are flipping it on eBay, FYI.,
+Would love this design as a key fob, but as a whistle, it kinda blows.,
+$50 for a whistle? Now that’s what I call blowing money.,
+OK this is getting embarrassing.,
+It’s clear to me I am not a Platinum-tier Tesla fan because my reaction was “you’re kidding…” and not “the website won’t take my order.”,
+I can’t believe you guys actually bought this. Jesus.,
+Ever see that south park episode where they buy hybrid cars to help the enviorment, but it creates a storm of smug? I feel like this whistle is the life embodiment of that fog.,
+selling for 100+ on ebay already lol,
+Cash grab for spacex bankruptcy.,
+Cool, but I'm not paying $50 for a fucking whistle. How many Teslas do you think I own?,
+If you remember this thread and the fact that this whistle sold out within minutes, you will never be surprised again at some people defending absolutely anything tesla/elon does. A lot of people here are tesla-superfans and/or have more money than brains,
+Don’t buy this. I mean it’s your money, but push them to build the truck…,
+Cant wait to see the renditions of top 40 songs on r/tiktokorchestra and r/musicaljenga with these,
+Apple: releases their polishing cloth $19
+
+Tesla: hold my beer!,
+Not available in Canada? 😔,
+Yip yip cybertruck,
+Do I need it? No. Do I want to buy it? You god damn right.,
+Shut up and take my money!!,
+I bought 3 and didn't recieve email but got order number on the page.... Money is pending on bank account also. Will it catch up or did it not go through?,
+Sold out,
+I placed an order and received a confirmation # but it doesn't show up in my order history or when I try to search it up. No confirmation email either even though my Visa was charged. Anyone else experience this issue?,
+Did anyone receive an email after buying? I didn't get one, I went through guest checkout.,
+I can't imagine why people hate Tesla owners,
+Ima get one,
+Now TSLA will hit $1300,
+Jfc this thread is one of the most pathetic attempts at padding a billionaires pocket. Even weirder that it's working,
+And now I am gonna sell the one I just bought to another sucker for $100,
+Its a magic whistle so every time you blow in it a gas station gets shut down,
+...and, out of stock.,
+Anyone else try to scroll right?,
+This is Tesla in a nutshell. No thanks.,
+What a load of crap,
+I dont know how many whistles constitute "limited" but if these sell out then I will need to distance myself from this company,
+WTF. Where is the CCS1 adapter?,
+[removed],
+Yessss give me a Whistla,
+But_Why.gif,
+Annnnd it’s sold out,
+\*Insert Tesla Whistle Blower Jokes\*,
+It will probably be worth $10,000,000 in 30 years (adjusted for inflation),
+Lmao they're really down bad huh,
+How about paying taxes , is that something he could do ..?,
+And here come the Tesla culties.,
+Yeah, I could 3D print that for 4 cents.,
+It's a Rape whistle. I bought 3. We will see if I get raped,
+[THE WHISTLE GO WOOOOO](https://youtu.be/zUXow3d3-b0),
+If help is needed, use our stickied support thread, or [Tesla Support](https://www.tesla.com/support) + [Autopilot](https://www.tesla.com/support/autopilot) for understanding.  Everyone, please read our [Rules](https://www.reddit.com/r/teslamotors/wiki/rules) and a [note](https://www.reddit.com/r/teslamotors/wiki/rules#wiki_special_note_from_the_moderators) from the Mods. Be respectful, please remember to Report (it helps Mods immensely), and comment with a focus on moving discussion forward.  
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*,
+Day by day, Tesla is turning into a Spencer’s Gifts,
+people will buy it, i guarantee it.,
+That’s not just any whistle. That’s a cyber whistle. That’s why you have to pay $47.99 more for it.,
+Strap a Reed on that thing and it's a sax mouthpiece,
+They needed to figure out how to make money off their scraps.,
+That’s just Elon being Elon same thing as the boring company,
+How the fuck do you idiots even find out about this shit before it’s gone—-,
+Tesla could build a much bigger merch business. Hire top designers and create a line of products. For example Ferrari.,
+I was tinking that was a hothweels car 😅,
+Let me buy it in Doge.,
+They where selling, obviosly sold out instantly,
+Could mean the truck might start coming soon. Could also mean shorts need it to whistle for help :-),
+I've stopped asking "why?",
+What if you can set the pitch to have it summin your car in a carpark.,
+Is it a Tesl Rape Whistle?  If so I think it will look great on my Tesla key fob keychain.,
+......
+
+
+....
+
+...
+
+ ..
+.
+
+
+
+
+I want one,
+Customer: whistles weakly
+
+Tesla: Is that the come back and milk me for more money whistle??,
+Comes out in 2024,
+I’d pay $50 for it if it brought my cybertruck to me,
+is it bullet proof?,
+We're sorry it has been delayed and it will now cost $100,
+Was. It's out of stock already.,
+Guess you can sell junk for any price as long as there are enough people to pay up,
+Lol ! but Why ?,
+Thought it was the lo res car for a second,
+Sounds like Apple with its $20 microfiber cloth or the $1000 stand for Pro Display XDR,
+They're made from stainless, so Tesla was probably experimenting with some process for making something Cybertruck… Are they for inserts for cameras, do you think?,
+well thanks for telling us after its sold out,
+Full self-blowing is coming soon.,
+Is there still a way to get these? This would be a perfect gift for a TSLA fan!,
+Sound: woo woo woo woo wooo (like slow moving Tesla in reverse),
+Cyber truck mini-figure,
+Sounds like farts!,
+Are they battery powered,
+What if the customers who bought the cyberwhistle were allowed to buy & receive their Cybertruck first.,
+Oh goody! I was wondering when I would have another chance to support a billionaire's model rocket hobby. /s,
+I think this would be good for the environment. No gas required,
+Dam he wasn't kidding about going bankrupt about dem rockets,
+Could sell ice to Eskimos....,
+Cyber Rape Whistle,
+The amount of people in this sub that bought a $50 whistle is actually insane.,
+My model 3 already has a whistle,
+Sold out in just over an hour too. Those things will go for a buck soon enough…,
+It would be worth it if it was made from their secret stainless steel recipe, then some metallurgist can tell us what the F is so special about it.,
+I bought 50...,
+Elon has the lamest jokes.,
+Let me guess...Sold out?,
+Looks like it could double has a bottle opener,
+Does it summons your car when you use it?,
+Woah...does it summon you truck?  Cheaper than FSD...sold!!!,
+So they’re too good to call them Cybersocks but not Cyberwhistle, huh?,
+say less, done deal,
+IT's Used to call your Tesla,
+Dimensions?,
+I keep clicking the damn add to cart button but nothing happens.,
+Add to cart button not working,
+Sold out,
+Summons your Tesla,
+Why does Elon hate Apple so much?,
+Love is all about…. Whistles.,
+Thank you Elon or whomever brought this to fruition!,
+Alright now tape dispensers.,
+I bought it.
+
+I always wanted a Cybertruck Whistle.
+
+Maybe I can call one to me..?,
+Does it test your BOC?,
+Annnnnd it’s out of stock.. lol,
+BUT WHAT MESSAGE IS HE SENDING US?!,
+I got one!,
+Acronyms, initialisms, abbreviations, contractions, and other phrases which expand to something larger, that I've seen in this thread:
+
+|Fewer Letters|More Letters|
+|-------|---------|---|
+|AP2|AutoPilot v2, "Enhanced Autopilot" full autonomy (in cars built after 2016-10-19) [in development]|
+|[FSD](/r/TeslaMotors/comments/r60qqa/stub/hmqq4fv "Last usage")|Fully Self/Autonomous Driving, see AP2|
+|[ICE](/r/TeslaMotors/comments/r60qqa/stub/hmu9iev "Last usage")|Internal Combustion Engine, or vehicle powered by same|
+|[OTA](/r/TeslaMotors/comments/r60qqa/stub/hmr1h7r "Last usage")|Over-The-Air software delivery|
+|[PM](/r/TeslaMotors/comments/r60qqa/stub/hmrkm6d "Last usage")|Permanent Magnet, often rare-earth metal|
+|[TSLA](/r/TeslaMotors/comments/r60qqa/stub/hmtzn8o "Last usage")|Stock ticker for Tesla Motors|
+
+----------------
+^(5 acronyms in this thread; )[^(the most compressed thread commented on today)](/r/TeslaMotors/comments/0)^( has  acronyms.)  
+^([Thread #7360 for this sub, first seen 1st Dec 2021, 03:27]) 
+^[[FAQ]](http://decronym.xyz/) [^([Full list])](http://decronym.xyz/acronyms/TeslaMotors) [^[Contact]](https://reddit.com/message/compose?to=OrangeredStilton&subject=Hey,+your+acronym+bot+sucks) [^([Source code])](https://gistdotgithubdotcom/Two9A/1d976f9b7441694162c8),
+Haha that’s cool. But im surprised it’s not cross branded or just space x starships 🤣🤣🤣 with 69 on it,
+For real?,
+Makes me wonder if they put a version of the cybrtruck in a wind tunnel and couldn't get rid of a whistling noise. If you can't beat 'em, shrink 'em down and charge $50.,
+Lol people on ebay listed these for $200-1500,
+…Tesla was selling*
+It sold out quick!,
+Missed it, damn,
+The whistles go WOO WOOOOO! #RIP Bub Rub,
+Bet,
+If help is needed, use our stickied support thread, or [Tesla Support](https://www.tesla.com/support) + [Autopilot](https://www.tesla.com/support/autopilot) for understanding.  Everyone, please read our [Rules](https://www.reddit.com/r/teslamotors/wiki/rules) and a [note](https://www.reddit.com/r/teslamotors/wiki/rules#wiki_special_note_from_the_moderators) from the Mods. Be respectful, please remember to Report (it helps Mods immensely), and comment with a focus on moving discussion forward.  
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/teslamotors) if you have any questions or concerns.*,
+> The Tesla CCS adapter reached peak speeds of 110kW, before tapering to between 77kW and 90kW for most of the charging session.
+
+> The state of charge at the beginning of the session was 36%, and was up to 42% (+6%) after 2 minutes of charging with the CCS adapter.,
+I wish I could buy one now. Going to need it for a road trip this summer or I am going to be unplugging my MIL's Dryer alot haha.,
+Back in 2020 I bought a CHAdeMO adapter at $500 for a planned trip to an area where Tesla Supercharger density was low, but CHAdeMO/CCS density was high.
+
+The trip was aborted due to the pandemic.
+
+Here we are, almost 2022, and I'm going to get the CCS adapter because the CCS charger density is higher than CHAdeMO charger density, and I'll likely never had used the CHAdeMO adapter.
+
+Weird times.,
+My car says "CCS adapter support: not installed". I guess I'm missing some hardware?,
+It’s getting about time to set up a bot to scan the store for changes and a purchase link. I imagine it’s going to sell out quickly.,
+Better to have it and not need it, that need it and not have it.,
+When does it go on sale here in the US?,
+So it will work on 2021 Tesla?,
+My end of the year 2018 model 3 is sad inside. Wonder how much this board is cost wise. It looks basic af to install and minimalist in design. Assuming this sits behind the trunk carpet by the charge door area?,
+I have 2021.40.6 and Not installed on my March 2020 SR+,
+Now just announce release timing and I'll place my Model 3 order today. This is what's holding me back from a Tesla, no CCS-1 support.,
+That adaptor is one *huge* and ugly beast right there.,
+Nice,
+And I’m still stuck on 36.x…. Still.,
+I wish this worked with the Model X,
