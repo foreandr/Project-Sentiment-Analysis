@@ -42,7 +42,7 @@ def getPinnedPost(subreddit_):
 def createListOfComments(subreddit_):
     local_list = []
     count = 0
-    for submission in subreddit_.hot(limit=5):  # first n posts
+    for submission in subreddit_.hot(limit=500):  # first n posts
         for comment in submission.comments:
             if hasattr(comment, "body"):
                 count += 1
@@ -104,7 +104,7 @@ def wordCloud(frequencyCounter):
 def uniqueArray(array):
     newList = []
     for i in array:
-         print(i)
+         #print(i)
          if i not in newList:
              newList.append(i)
     return  newList
@@ -145,8 +145,7 @@ def iterSubsEvaluate(wanted_subreddits_):
 
 
 def iterateChoice(wanted_subreddits_):
-    #inputVal = int(input("Do All - 0\nDo Nth - N\n"))
-    inputVal = 0
+    inputVal = int(input("Do All - 0\nDo Nth - N\n"))
     #print("Input was: " + str(inputVal) + " | Type:" + str(type(inputVal)))
     if inputVal == 0:
         for keyList in wanted_subreddits_: # for some reason this executes multiple times
@@ -162,7 +161,7 @@ def stockAnalysis(tickers_):
 
 def process(wanted_subreddits_, tickers_):
     iterateChoice(wanted_subreddits_)
-    # stockAnalysis(tickers_)
+    stockAnalysis(tickers_)
 
 
 tickers = ['AMZN', 'TSLA', 'MSFT', '']  # Add Tickers here
@@ -180,6 +179,4 @@ subreddits = {
 wordlist = getUserPass(wordlist)
 reddit = generateReddit(wordlist)
 wanted_subreddits = populateWantedSubreddits(tickers, subreddits, wantExtra=True)
-print(wanted_subreddits)
-# print(wanted_subreddits)
-#process(wanted_subreddits, tickers)
+process(wanted_subreddits, tickers)
