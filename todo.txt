@@ -2,4 +2,5 @@ LOAD TO DF INSTEAD OF PRINT:
     CAN DO THIS:
         rank in order of mena review or be able to choose what to rank it by
         print best review and worst review next to scores
+        change to worst 25% instead of worst of all time
 add more things and more sentiment

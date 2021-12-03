@@ -164,7 +164,7 @@ def process(wanted_subreddits_, tickers_):
     stockAnalysis(tickers_)
 
 
-tickers = ['AMZN', 'TSLA', 'MSFT', '']  # Add Tickers here
+tickers = ['AMZN', 'TSLA', 'MSFT', 'HOOD']  # Add Tickers here
 wordlist = []
 
 subreddits = {
@@ -173,7 +173,9 @@ subreddits = {
     'TSLA':
         ["TeslaMotors", "TeslaLounge"],
     'WSB':
-        ["wallstreetbets"]
+        ["wallstreetbets"],
+    'HOOD':
+        ["wallstreetbets"],
 }
 
 wordlist = getUserPass(wordlist)
